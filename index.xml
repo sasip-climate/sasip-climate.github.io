@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on SASIP</title>
+    <link>https://aureliealbert.github.io/</link>
+    <description>Recent content in Home on SASIP</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 19 Nov 2018 10:47:58 +1000</lastBuildDate><atom:link href="https://aureliealbert.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pierre Rampal</title>
+      <link>https://aureliealbert.github.io/team/pierre-rampal/</link>
+      <pubDate>Mon, 19 Nov 2018 10:47:58 +1000</pubDate>
+      
+      <guid>https://aureliealbert.github.io/team/pierre-rampal/</guid>
+      <description>CNRS, IGE Grenoble</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://aureliealbert.github.io/about/</link>
+      <pubDate>Mon, 22 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://aureliealbert.github.io/about/</guid>
+      <description>SASIP is blablabla &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://aureliealbert.github.io/contact/</link>
+      <pubDate>Thu, 22 Feb 2018 17:01:34 +0700</pubDate>
+      
+      <guid>https://aureliealbert.github.io/contact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jobs</title>
+      <link>https://aureliealbert.github.io/jobs/</link>
+      <pubDate>Thu, 22 Feb 2018 17:01:34 +0700</pubDate>
+      
+      <guid>https://aureliealbert.github.io/jobs/</guid>
+      <description>MSASIP: Scale Aware Sea Ice Multiple positions are available as part of a new international project, SASIP. The overall goal of the project is to blabla blabla.
+Open positions: 02/22/2021: The links for applications will be updated as they become available.
+IGE  1 &amp;hellip;  </description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>https://aureliealbert.github.io/research/</link>
+      <pubDate>Thu, 22 Feb 2018 17:01:34 +0700</pubDate>
+      
+      <guid>https://aureliealbert.github.io/research/</guid>
+      <description>Our research themes are
+  Sea Ice
+  blabla blabla
+  </description>
+    </item>
+    
+  </channel>
+</rss>

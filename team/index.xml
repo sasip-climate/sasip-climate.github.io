@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Team on SASIP</title>
+    <link>https://aureliealbert.github.io/team/</link>
+    <description>Recent content in Team on SASIP</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 19 Nov 2018 10:47:58 +1000</lastBuildDate><atom:link href="https://aureliealbert.github.io/team/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pierre Rampal</title>
+      <link>https://aureliealbert.github.io/team/pierre-rampal/</link>
+      <pubDate>Mon, 19 Nov 2018 10:47:58 +1000</pubDate>
+      
+      <guid>https://aureliealbert.github.io/team/pierre-rampal/</guid>
+      <description>CNRS, IGE Grenoble</description>
+    </item>
+    
+  </channel>
+</rss>
