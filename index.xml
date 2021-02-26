@@ -13,7 +13,8 @@
       <pubDate>Mon, 19 Nov 2018 10:47:58 +1000</pubDate>
       
       <guid>https://sasip-project.github.io/team/pierre-rampal/</guid>
-      <description>Centre National de la Recherche Scientifique (CNRS), France</description>
+      <description>Centre National de la Recherche Scientifique (CNRS), France
+Sea ice physics, Polar Oceanography</description>
     </item>
     
     <item>
@@ -31,7 +32,7 @@
       <pubDate>Mon, 19 Nov 2018 10:47:58 +1000</pubDate>
       
       <guid>https://sasip-project.github.io/team/einar-olason/</guid>
-      <description>NERSC, Norway</description>
+      <description>Nansen Environmental and Remote Sensing Center (NERSC), Norway</description>
     </item>
     
     <item>
@@ -45,11 +46,11 @@
     
     <item>
       <title>Chris Horvat</title>
-      <link>https://sasip-project.github.io/team/chris-orvat/</link>
+      <link>https://sasip-project.github.io/team/chris-horvat/</link>
       <pubDate>Mon, 19 Nov 2018 10:47:58 +1000</pubDate>
       
-      <guid>https://sasip-project.github.io/team/chris-orvat/</guid>
-      <description>Brown University (Brown), United States</description>
+      <guid>https://sasip-project.github.io/team/chris-horvat/</guid>
+      <description>Brown University, United States</description>
     </item>
     
     <item>
@@ -58,7 +59,9 @@
       <pubDate>Mon, 19 Nov 2018 10:47:58 +1000</pubDate>
       
       <guid>https://sasip-project.github.io/team/alberto-carrassi/</guid>
-      <description>University of Reading (UoR), United Kingdom</description>
+      <description>University of Reading, United Kingdom
+Data assimilation, Dynamical system, Machine learning
+Website</description>
     </item>
     
     <item>
@@ -104,9 +107,8 @@ Through the further development of existing important state-of-the-art simulator
       <pubDate>Thu, 22 Feb 2018 17:01:34 +0700</pubDate>
       
       <guid>https://sasip-project.github.io/jobs/</guid>
-      <description>MSASIP: Scale Aware Sea Ice Multiple positions are available as part of a new international project, SASIP. The overall goal of the project is to blabla blabla.
-Open positions: 02/22/2021: The links for applications will be updated as they become available.
-IGE  1 &amp;hellip;  </description>
+      <description>SASIP: Scale Aware Sea Ice Project
+Multiple positions are available as part of a new international project, SASIP. The overall goal of the project is to give a better understanding of the impact of amplified warming in polar regions. The project aims to develop a truly innovative, scale-aware continuum sea ice model for climate research; one that faithfully represents sea ice dynamics and thermodynamics and that is physically sound, data-adaptive, highly parallelized and computationally efﬁcient.</description>
     </item>
     
     <item>
