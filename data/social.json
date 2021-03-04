@@ -1,0 +1,12 @@
+[
+    {
+        "name": "Email",
+        "link": "mailto:aurelie.albert@ocean-next",
+        "image": "images/PICOL_icon_Mailw.png"
+    },
+    {
+        "name": "Twitter",
+        "link": "https://twitter.com/sasip",
+        "image": "images/twitter.svg"
+    }
+]
