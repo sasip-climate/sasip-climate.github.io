@@ -15,3 +15,13 @@ Our ambition for WP1 is to develop of the neXtSIM sea ice model to run on massiv
  - Task  1.5: Evaluation  of  the  Optimized  Code
    
  People involded in WP1 :
+ 
+ - Einar Ólason (NERSC)
+ - Véronique Dansereau (UGA)
+ - Pierre Saramito (CNRS ?)
+ - Jérome Weiss (UGA)
+ - Pierre Rampal (UGA)
+ - Chris Horvat (Brown)
+ - Clement Rousset (LOCEAN)
+ - Martin Vancoppenolle (LOCEAN)
+ - Abdoulaye Samake (?)
