@@ -1,4 +1,4 @@
-baseURL = "https://sasip-project.github.io/"
+baseURL = "https://sasip-climate.github.io/"
 languageCode = "en-us"
 title = "SASIP"
 themesDir = "themes"
