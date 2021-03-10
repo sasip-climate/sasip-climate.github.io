@@ -5,6 +5,7 @@ draft: false
 image: "images/team/veronique-dansereau.jpg"
 jobtitle: "Leader of WP2: Sea Ice Rheology and Physical Parameterizations"
 promoted: true
+Website: https://veroniquedansereau.wixsite.com/vdansereau
 weight: 4
 ---
 
