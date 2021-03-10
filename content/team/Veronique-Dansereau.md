@@ -10,4 +10,4 @@ weight: 4
 
 Centre National de la Recherche Scientifique, France
 
-continuum solid mechanics, complex rheologies, rheological transitions, numerical modelling, Maxwell-Elasto-Brittle (DG) model for sea ice, multi-scale modelling
+Continuum solid mechanics, Complex rheologies, Rheological transitions, Numerical modelling, Maxwell-Elasto-Brittle (DG) model for sea ice, Multi-scale modelling
