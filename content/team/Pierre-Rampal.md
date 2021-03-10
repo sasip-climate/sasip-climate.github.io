@@ -8,6 +8,6 @@ promoted: true
 weight: 1
 ---
 
-Centre National de la Recherche Scientifique (CNRS), France
+Centre National de la Recherche Scientifique, France
 
 Sea ice physics, Polar Oceanography
