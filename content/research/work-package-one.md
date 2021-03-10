@@ -12,16 +12,15 @@ Our ambition for WP1 is to develop of the neXtSIM sea ice model to run on massiv
  - Task 1.2: General Code Optimizations, Improvements, and Documentation
  - Task 1.3: Investigation of the Applicability of the Phase Field Method for MEB
  - Task 1.4: Investigation of the Potential for GPU Acceleration
- - Task  1.5: Evaluation  of  the  Optimized  Code
+ - Task  1.5: Evaluation of the Optimized  Code
    
  People involded in WP1 :
  
- - Einar Ólason (NERSC)
- - Véronique Dansereau (UGA)
- - Pierre Saramito (CNRS ?)
- - Jérome Weiss (UGA)
- - Pierre Rampal (UGA)
- - Chris Horvat (Brown)
- - Clement Rousset (LOCEAN)
- - Martin Vancoppenolle (LOCEAN)
- - Abdoulaye Samake (?)
+ - Einar Ólason (einar.olason(at)nersc.no)
+ - Véronique Dansereau (veronique.dansereau(at)univ-grenoble-alpes.fr)
+ - Pierre Saramito (pierre.saramito(at)math.cnrs.fr)
+ - Jérome Weiss (jerome.weiss(at)univ-grenoble-alpes.fr)
+ - Pierre Rampal (pierre.rampal(at)univ-grenoble-alpes.fr)
+ - Chris Horvat (christopher_horvat(at)brown.edu)
+ - Clement Rousset (clement.rousset(at)locean.ipsl.fr)
+ - Martin Vancoppenolle (martin.vancoppenolle(at)locean.ipsl.fr)
