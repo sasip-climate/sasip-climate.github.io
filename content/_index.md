@@ -7,7 +7,7 @@ intro_image_hide_on_mobile: true
 
 # SASIP: The Scale-Aware Sea Ice Project
 
-Welcome to SASIP, an international collaborative project to better understand the impact of amplified warming in polar regions, through the development of a new sea ice modelling paradigm.
+Welcome to SASIP, an international collaborative project to better understand the impact of amplified warming in polar regions, through the development of a new sea ice modelling paradigm
 
 Our team includes scientists from CNRS, University of Brown, University of Reading, Sorbonne University, NERSC, CERFACS, MOI, ENPC, and CMCC.
 
