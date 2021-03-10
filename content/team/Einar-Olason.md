@@ -8,4 +8,4 @@ promoted: true
 weight: 3
 ---
 
-Nansen Environmental and Remote Sensing Center (NERSC), Norway
+Nansen Environmental and Remote Sensing Center, Norway
