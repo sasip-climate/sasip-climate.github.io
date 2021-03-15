@@ -3,7 +3,7 @@ title: "WP4 Data Assimilation — Machine Learning"
 draft: false
 featured: true
 weight: 4
-heroSubHeading: 'DATA ASSIMILATION AND MACHINE LEARNING'
+heroSubHeading: 'DATA ASSIMILATION — MACHINE LEARNING'
 ---
 
 
