@@ -11,4 +11,4 @@ weight: 8
 
 Centre National de la Recherche Scientifique, France
 
-Oceanography, Modelling, Big Data 
+*Oceanography, Numerical Modeling, Big Data* 
