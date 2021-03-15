@@ -8,13 +8,13 @@ heroSubHeading: 'SEA ICE CODE DEVELOPMENT AND OPTIMIZATION'
 
 Our ambition is to develop of the neXtSIM sea ice model to run on massively parallel architectures, making its inclusion in an Earth System Model feasible. To accomplish this we will improve the numerical efficiency of its underlying C++ code and perform exploratory work to enable continued improvements in model efficiency beyond those immediately necessary for integrating it into a climate model. 
 
-WP1 is divided into five tasks, two of which address knownshortcomings of the current model version, two which aim to push the numerical performanceof the model further and one concerned with evaluating the physical consistency of the results obtained with the updated model code.
+WP1 is divided into five tasks, two of which address known shortcomings of the current model version, two which aim to push the numerical performanc eof the model further and one concerned with evaluating the physical consistency of the results obtained with the updated model code.
 
- - Discontinuous Galerkin Implementation into neXtSIM
- - General Code Optimizations, Improvements, and Documentation
- - Investigation of the Applicability of the Phase Field Method for MEB
- - Investigation of the Potential for GPU Acceleration
- - Evaluation of the Optimized  Code
+ - Discontinuous galerkin implementation into neXtSIM
+ - General code optimizations, improvements, and documentation
+ - Investigation of the applicability of the phase field method for solving the sea ice rheology 
+ - Investigation of the potential for GPU acceleration
+ - Evaluation of the optimized code
 
  People involded in WP1 :
 
