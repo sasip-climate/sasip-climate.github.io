@@ -3,7 +3,7 @@ title: "Chris Horvat"
 date: 2018-11-19T10:47:58+10:00
 draft: false
 image: "/images/team/chris-horvat.jpg"
-jobtitle: "Leader of WP3: Ice–Ocean Interactions"
+jobtitle: "WP3 Leader: Ice–Ocean Interactions"
 promoted: true
 Website: http://www.chrv.at
 weight: 5
