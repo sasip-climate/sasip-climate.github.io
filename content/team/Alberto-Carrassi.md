@@ -11,4 +11,4 @@ weight: 6
 
 University of Reading, United Kingdom
 
-Data assimilation, Dynamical system, Machine learning
+*Data assimilation, Dynamical system, Machine learning*
