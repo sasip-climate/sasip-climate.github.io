@@ -11,4 +11,4 @@ weight: 2
 
 Centre National de la Recherche Scientifique, France
 
-Public affairs, Project management, European politics
+*Public affairs, Project management, European politics*
