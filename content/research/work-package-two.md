@@ -3,7 +3,7 @@ title: "WP2 Sea Ice Rheology — Physical Parameterizations"
 draft: false
 featured: true
 weight: 2
-heroSubHeading: 'SEA ICE RHEOLOGY AND PHYSICAL PARAMETERIZATIONS'
+heroSubHeading: 'SEA ICE RHEOLOGY — PHYSICAL PARAMETERIZATIONS'
 ---
 
 We are concerned with enhancing the mechanical parametrizations of the rheological framework (i.e. Maxwell-Elasto-Brittle) employed in the continuum sea ice model developed within SASIP. 
