@@ -1,12 +1,12 @@
 ---
-title: "WP2: Sea Ice Rheology and Physical Parameterizations"
+title: "WP2: Sea Ice Rheology — Physical Parameterizations"
 draft: false
 featured: true
 weight: 2
 heroSubHeading: 'SEA ICE RHEOLOGY AND PHYSICAL PARAMETERIZATIONS'
 ---
 
-We are concerned with enhancing the mechanical parametrizations of the Maxwell-Elasto-Brittle (MEB) rheology employed in the continuum sea ice model developed within SASIP. 
+We are concerned with enhancing the mechanical parametrizations of the rheological framework (i.e. Maxwell-Elasto-Brittle) employed in the continuum sea ice model developed within SASIP. 
 
 The aim is to develop physically sound parametrizations that can translate the dependence of the mechanical strength of the ice cover at the large scale (10-100 km) on both its granular concentration and level of fracturing at the small scale (< 10 km), thereby enabling the MEB framework to represent adequately the spatial and temporal mechanical transition between a dense, brittle ice pack and a loose, granular aggregate of ice floes reminiscent of the Marginal Ice Zone. The methodology will be based on the use of a state-of-the-art discrete element model that can simulate ice floes of realistic shapes and size distributions as well as their mechanical interactions and resulting fracturing. The work package is divided into four parts that will help determining the key variables/parameters to describe the mechanical state of the ice as well as the physical links between these variables/parameters:
 
