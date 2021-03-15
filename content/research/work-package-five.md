@@ -1,5 +1,5 @@
 ---
-title: "WP5: Climate Implications"
+title: "WP5 Climate Implications"
 draft: false
 featured: true
 weight: 5
@@ -17,7 +17,7 @@ People involved in WP2:
 
  - Rym Msadek (rym.msadek(at)cerfacs.fr)
  - Sophie Valcke (sophie.valcke(at)cerfacs.fr)
- - Eric Maisonnave (eric.maisonnave(at)cerfacs.fr)
+ - Éric Maisonnave (eric.maisonnave(at)cerfacs.fr)
  - Laurent Terray (laurent.terray(at)cerfac.fr)
  - Romain Bourdallé-Badie (rbourdal(at)mercator-ocean.fr)
  - Pierre Rampal (pierre.rampal(at)univ-grenoble-alpes.fr)
@@ -25,4 +25,3 @@ People involved in WP2:
  - Alberto Carrassi (n.a.carrassi(at)reading.ac.uk)
  - Martin Vancoppenolle (martin.vancoppenolle(at)locean.ipsl.fr)
  - Einar Ólason (einar.olason(at)nersc.no)
- - Véronique Danserau (veronique.dansereau(at)univ-grenoble-alpes.fr)
