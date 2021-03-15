@@ -1,0 +1,16 @@
+<div class="team team-summary">
+  {{ if .Params.image }}
+  <div class="team-image">
+    <img alt="Photo of {{ .Title }}" class="img-fluid mb-2" src="{{ .Params.image | relURL }}" />
+  </div>
+  {{ end }}
+  <div class="team-meta">
+    {{ if .Params.Website }}
+    <h2 class="team-name"><a target="_blank" href="{{ .Params.Website }}">{{ .Title }}</a> </h2>
+    {{ else }}
+    <h2 class="team-name">{{ .Title }}</h2>
+    {{ end }}
+    <p class="team-description">{{ .Params.Jobtitle }}</p>
+  </div>
+  <div class="team-content"></div>
+</div>
