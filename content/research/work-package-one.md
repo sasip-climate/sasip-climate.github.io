@@ -24,5 +24,5 @@ WP1 is divided into five tasks, two of which address known shortcomings of the c
  - Jérome Weiss (jerome.weiss(at)univ-grenoble-alpes.fr)
  - Pierre Rampal (pierre.rampal(at)univ-grenoble-alpes.fr)
  - Chris Horvat (christopher_horvat(at)brown.edu)
- - Clement Rousset (clement.rousset(at)locean.ipsl.fr)
+ - Clément Rousset (clement.rousset(at)locean.ipsl.fr)
  - Martin Vancoppenolle (martin.vancoppenolle(at)locean.ipsl.fr)
