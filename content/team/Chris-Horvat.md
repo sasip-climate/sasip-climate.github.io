@@ -11,4 +11,4 @@ weight: 5
 
 Brown University, United States
 
-Sea-ice modeling, Remote sensing, Oceanography
+*Sea-ice modeling, Remote sensing, Oceanography*
