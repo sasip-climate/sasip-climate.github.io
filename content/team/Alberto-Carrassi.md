@@ -2,7 +2,7 @@
 title: "Alberto Carrassi"
 date: 2018-11-19T10:47:58+10:00
 draft: false
-image: ""
+image: "/images/team/alberto-square.JPG"
 jobtitle: "Leader of WP4: Data Assimilation and Machine Learning"
 promoted: true
 Website: https://research.reading.ac.uk/meteorology/people/alberto-carrassi/

@@ -2,7 +2,7 @@ baseURL = "https://sasip-climate.github.io/"
 languageCode = "en-us"
 title = "SASIP"
 themesDir = "themes"
-theme = "hugo-serif-theme"
+theme = "hugo-hero-theme"
 
 [params]
   # In most cases you will only want to use either one of these. If you have Google Analytics included in your GTM tags don't put your GA ID here. Otherwise your data might be useless.
@@ -38,7 +38,7 @@ theme = "hugo-serif-theme"
 
   [[menu.main]]
       name = "About"
-      url = "/about"
+      url = "/pages/about"
       weight = 1
 
   [[menu.main]]
