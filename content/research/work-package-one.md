@@ -3,7 +3,7 @@ title: "WP1 Sea Ice Code Development — Optimization"
 draft: false
 featured: true
 weight: 1
-heroSubHeading: 'SEA ICE CODE DEVELOPMENT AND OPTIMIZATION'
+heroSubHeading: 'SEA ICE CODE DEVELOPMENT — OPTIMIZATION'
 ---
 
 Our ambition is to develop of the neXtSIM sea ice model to run on massively parallel architectures, making its inclusion in an Earth System Model feasible. To accomplish this we will improve the numerical efficiency of its underlying C++ code and perform exploratory work to enable continued improvements in model efficiency beyond those immediately necessary for integrating it into a climate model. 
