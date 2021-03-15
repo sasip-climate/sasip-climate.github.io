@@ -1,5 +1,5 @@
 ---
-title: "WP4: Data Assimilation and Machine Learning"
+title: "WP4: Data Assimilation — Machine Learning"
 draft: false
 featured: true
 weight: 4
