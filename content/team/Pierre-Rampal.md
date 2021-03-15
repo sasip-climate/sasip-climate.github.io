@@ -11,4 +11,4 @@ weight: 1
 
 Centre National de la Recherche Scientifique, France
 
-Sea-ice physics, Sea-ice remote sensing, Polar oceanography
+*Sea-ice physics, Sea-ice remote sensing, Polar oceanography*
