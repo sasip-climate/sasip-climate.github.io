@@ -12,10 +12,10 @@ To meet this goal we shall develop specific and novel data assimilation (DA) met
 
 WP4 is a bridge between the other WPs and is structured along four tasks reflecting the diverse DA and ML challenges prompted by the other WPs, preparing neXtSIM to exploit the new and constantly growing sets of sea ice data:
 
- - DA Strategies Adapted to Models Using a Discontinuous Galerkin Numerical Method
- - DA for Parameter Estimation: Sub-grid and Sea Ice–Ocean Coupling Parameterizations
- - ML and Hybrid DA-ML for Parameterization Design and Parameter Estimation
- - DA for Feature Data
+ - DA strategies adapted to models using a discontinuous galerkin numerical method
+ - DA for parameter estimation: sub-grid and sea ice–ocean coupling parameterizations
+ - ML and hybrid DA-ML for parameterization design and parameter estimation
+ - DA for feature data
 
 People involved in WP4:
 
