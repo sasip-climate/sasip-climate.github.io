@@ -2,7 +2,7 @@
 title: "Rym Msadek"
 draft: false
 image: "images/team/pic_rym-square.png"
-jobtitle: "Leader of WP5: Climate implications"
+jobtitle: "WP5 Leader: Climate implications"
 promoted: true
 Website: http://www.cerfacs.fr/~msadek/
 weight: 7
