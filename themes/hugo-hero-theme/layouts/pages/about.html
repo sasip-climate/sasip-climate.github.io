@@ -24,9 +24,14 @@
 </div>
 {{ end }}
 
-{{ .Content }}
-
-{{ if .Params.images }}
+<div class="container pt-4 pt-md-10 pb-4 pb-md-10">
+  <div class="row justify-content-start">
+    <div class="col-12 col-md-8">
+      <div class="work work-single">
+        <div class="content">{{.Content}}</div>
+      </div>
+    </div>
+    {{ if .Params.images }}
     <div class="col-12 pt-4 pt-md-10">
       <h2 class="mb-2 text-uppercase">Gallery</h2>
       <div class="masonry">
@@ -37,6 +42,8 @@
         {{ end }}
       </div>
     </div>
-{{ end }}
+    {{ end }}
+  </div>
+</div>
 
 {{ end }}
