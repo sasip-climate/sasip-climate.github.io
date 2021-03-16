@@ -5,6 +5,10 @@
         "image": "images/PICOL_icon_Mailw.png"
     },
     {
+        "name": "Github",
+        "link": "https://github.com/sasip-climate",
+        "image": "images/social/github.svg"
+    },    {
         "name": "Twitter",
         "link": "https://twitter.com/sasip-climate",
         "image": "images/twitter.svg"
