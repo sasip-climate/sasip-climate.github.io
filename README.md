@@ -25,6 +25,24 @@ A direct commit is appropriate for a minor change.
 A pull request is best if you want your changes to be reviewed and approved by the rest of the team.
 This method only allows you to update one page at a time.
 
+### More specifically
+
+- If you want to add a picture on the gallery of the about page (https://sasip-climate.github.io/pages/about/) :
+  - upload your picture in https://github.com/sasip-climate/sasip-climate.github.io/tree/master/static/images
+  - modify https://github.com/sasip-climate/sasip-climate.github.io/blob/master/content/pages/about/index.md by adding the name of your picture at this line : `images: ['/images/ice-quart.jpg','/images/your-picture.jpg]`
+ 
+- If you want to modify informations on people (https://sasip-climate.github.io/team/) :
+  - modify one the md file in https://github.com/sasip-climate/sasip-climate.github.io/tree/master/content/team  
+
+- If you want to modify the description of a work package (https://sasip-climate.github.io/research/) :
+  - modify the corresponding md file in https://github.com/sasip-climate/sasip-climate.github.io/tree/master/content/research
+
+- If you want to add a job position (https://sasip-climate.github.io/jobs/) :
+  - create a md file that will look like https://github.com/sasip-climate/sasip-climate.github.io/blob/master/content/jobs/ponts.md, it will be added automatically to the list
+
+After every modifications, have a look at https://github.com/sasip-climate/sasip-climate.github.io/actions to see if the workflow is complete (some extra time is needed for the modifications to appear on the website), we want a green light !
+
+
 ### Hard Way: Edit Locally
 
 You can also clone this repository, make local changes, and then push them.
