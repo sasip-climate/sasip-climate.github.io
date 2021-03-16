@@ -26,10 +26,6 @@ A pull request is best if you want your changes to be reviewed and approved by t
 This method only allows you to update one page at a time.
 
 ### More specifically
-
-- If you want to add a picture on the gallery of the about page (https://sasip-climate.github.io/pages/about/) :
-  - upload your picture in https://github.com/sasip-climate/sasip-climate.github.io/tree/master/static/images
-  - modify https://github.com/sasip-climate/sasip-climate.github.io/blob/master/content/pages/about/index.md by adding the name of your picture at this line : `images: ['/images/ice-quart.jpg','/images/your-picture.jpg]`
  
 - If you want to modify informations on people (https://sasip-climate.github.io/team/) :
   - modify one the md file in https://github.com/sasip-climate/sasip-climate.github.io/tree/master/content/team  
