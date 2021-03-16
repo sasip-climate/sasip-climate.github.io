@@ -10,3 +10,5 @@ heroBackground: '/images/ice-bandeau.png'
 <div>
 {{< content-strip-left "/pages/about" "content1" >}}
 </div>
+
+![pretty picture](https://github.com/sasip-climate/sasip-climate.github.io/blob/master/static/images/ice.jpg)
