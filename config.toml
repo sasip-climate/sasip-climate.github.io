@@ -13,8 +13,8 @@ theme = "hugo-hero-theme"
     show_call_box = true
 
   [params.logo]
-    mobile = "images/logo-sasip.png"
-    desktop = "images/logo-sasip.png"
+    mobile = "images/ice-logo.jpg"
+    desktop = "images/ice-logo.jpg"
     desktop_height = "48px"
     mobile_height = "24px"
     alt = "MSML"
