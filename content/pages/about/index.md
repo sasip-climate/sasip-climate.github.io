@@ -5,7 +5,7 @@ layout: 'about'
 heroHeading: 'About SASIP'
 heroSubHeading: ""
 heroBackground: '/images/ice-bandeau.png'
-images: 'https://github.com/sasip-climate/sasip-climate.github.io/blob/master/static/images/ice.jpg'
+images: ['https://github.com/sasip-climate/sasip-climate.github.io/blob/master/static/images/ice.jpg']
 ---
 
 <div>
