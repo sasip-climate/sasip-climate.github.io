@@ -2,5 +2,5 @@
 title: 'Jobs'
 heroHeading: 'Open positions'
 heroSubHeading: ''
-heroBackground: ''
+heroBackground: 'images/ice-bandeau.png'
 ---
