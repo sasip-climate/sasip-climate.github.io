@@ -5,7 +5,7 @@ layout: 'about'
 heroHeading: 'About SASIP'
 heroSubHeading: ""
 heroBackground: '/images/ice-bandeau.png'
-images: ['/images/ice-demi.jpg']
+images: ['/images/ice-quart.jpg']
 ---
 
 <div>
