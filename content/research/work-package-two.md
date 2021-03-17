@@ -22,6 +22,7 @@ People involved in WP2:
  - Stéphane Labbé (stephane.labbe(at)sorbonne-universite.fr)
  - Christopher Horvat (christopher_horvat(at)brown.edu)
  - Pierre Rampal (pierre.rampal(at)univ-grenoble-alpes.fr)
+ - Laurent Brodeau (laurent.brodeau(at)univ-grenoble-alpes.fr)
  - Einar Ólason (einar.olason(at)nersc.no)
  - Timothy Williams (timothy.williams(at)nersc.no)
  - Martin Vancoppenolle (martin.vancoppenolle(at)locean.ipsl.fr)
