@@ -6,7 +6,7 @@ weight: 5
 heroSubHeading: ' CLIMATE IMPLICATIONS'
 ---
  
-We focuses on assessing the climate implications of the state-of-the-art sea ice modelling framework being developed during SASIP
+We will focus on assessing the climate implications of the state-of-the-art sea ice modelling framework being developed during SASIP
 
 Our work is devided into two parts:
 
