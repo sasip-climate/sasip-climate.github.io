@@ -13,7 +13,7 @@ Our work is devided into two parts:
  - Building a global fully coupled GCM including the new sea ice modeling system
  - Fully-coupled climate impacts using SASIP efforts
 
-People involved in WP2:
+People involved in WP5:
 
  - Rym Msadek (rym.msadek(at)cerfacs.fr)
  - Sophie Valcke (sophie.valcke(at)cerfacs.fr)
