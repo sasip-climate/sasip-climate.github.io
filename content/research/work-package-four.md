@@ -24,7 +24,8 @@ People involved in WP4:
  - Laurent Bertino (Laurent.Bertino(at)nersc.no)
  - Marc Bocquet (marc.bocquet(at)enpc.fr)
  - Julien Brajard (julien.brajard(at)nersc.no)
+ - Yumeng Chen (yumeng.chen(at)reading.ac.uk)
  - Alban Farchi (alban.farchi(at)enpc.fr)
  - Christopher Jones (ckrtj(at)renci.org)
  - Anton Korosov (Anton.Korosov(at)nersc.no)
- - Yumeng Chen (yumeng.chen(at)reading.ac.uk)
+ 
