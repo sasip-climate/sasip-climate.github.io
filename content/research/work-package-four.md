@@ -27,3 +27,4 @@ People involved in WP4:
  - Alban Farchi (alban.farchi(at)enpc.fr)
  - Christopher Jones (ckrtj(at)renci.org)
  - Anton Korosov (Anton.Korosov(at)nersc.no)
+ - Yumeng Chen (yumeng.chen(at)reading.ac.uk)
