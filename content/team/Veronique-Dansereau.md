@@ -11,4 +11,4 @@ weight: 4
 
 Centre National de la Recherche Scientifique, France
 
-*Continuum solid mechanics, Complex rheologies, Multi-scale modeling*
+*Sea ice rheology, Solid mechanics, Multi-scale modeling*
