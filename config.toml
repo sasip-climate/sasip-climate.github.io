@@ -46,6 +46,10 @@ theme = "hugo-hero-theme"
       url = "/jobs"
       weight = 4
 
+#  [[menu.main]]
+#      name = "News"
+#      url = "/news"
+#      weight = 5
 
   [[menu.main]]
       name = "Team"
