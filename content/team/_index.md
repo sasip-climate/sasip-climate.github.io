@@ -1,6 +1,6 @@
 ---
 title: 'Team'
-heroHeading: 'SASIP Team'
+heroHeading: 'The SASIP Team'
 heroSubHeading: ''
 heroBackground: 'images/ice-bandeau.png'
 ---
