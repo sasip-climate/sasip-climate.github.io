@@ -10,6 +10,12 @@
       height: auto;
     }
   }
+  .work-image:link {
+    img {
+      width: 200%;
+      height: auto;
+    }
+  }
   .content {
     > p {
       &:first-of-type {
