@@ -16,7 +16,10 @@
       <div class="masonry">
         {{ range .Params.images }}
           <div class="work-image item">
-            <img src="{{ . | relURL }}"/>
+            <a href="#img" ><img src="{{ . | relURL }}"/></a>
+            <div class="work-image-big" id="img">
+              <img src="{{ . | relURL }}"/>
+            </div>
           </div>
         {{ end }}
       </div>
