@@ -23,6 +23,16 @@
 {{ $reusablePages := $headless.Resources.ByType "page" }}
 {{ $reusablePages := sort $reusablePages ".Params.weight" }}
 
+<div id="home" class="strip bg-primary bg-cover bg-position-top bg-overlay" style='background-image: url("{{ .Params.background | relURL }}");'>
+  <div class="container pt-8 pb-8 pb-md-12 pt-md-12">
+    <div class="row justify-content-center">
+      <div class="col-12 col-md-8 text-center text-white">
+        <h2>What is new with SASIP</h2>
+        <a class="button button-white" href="{{ .Site.BaseURL }}news">Latest news</a>
+      </div>
+    </div>
+  </div>
+</div>
 
 {{ $services := where (where .Site.RegularPages "Type" "services") ".Params.featured" true }}
 {{if gt (len $services) 0}}
@@ -43,16 +53,7 @@
 </div>
 {{end}}
 
-<div id="home" class="strip bg-primary bg-cover bg-position-top bg-overlay" style='background-image: url("{{ .Params.background | relURL }}");'>
-  <div class="container pt-8 pb-8 pb-md-12 pt-md-12">
-    <div class="row justify-content-center">
-      <div class="col-12 col-md-8 text-center text-white">
-        <h2>What is new with SASIP</h2>
-        <a class="button button-white" href="{{ .Site.BaseURL }}news">Latest news</a>
-      </div>
-    </div>
-  </div>
-</div>
+
 
 <div id="home" class="strip bg-primary bg-cover bg-position-top bg-overlay" style='background-image: url("{{ .Params.background | relURL }}");'>
   <div class="container pt-8 pb-8 pb-md-12 pt-md-12">
