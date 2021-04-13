@@ -1,6 +1,6 @@
 ---
 title: 'Jobs'
-heroHeading: 'SASIP open positions'
+heroHeading: 'SASIP Open positions'
 heroSubHeading: ''
 heroBackground: 'images/ice-bandeau.png'
 ---
