@@ -1,6 +1,6 @@
 ---
 title: 'News'
-heroHeading: 'What is new in SASIP'
+heroHeading: 'SASIP News'
 heroSubHeading: ''
 heroBackground: 'images/ice-bandeau.png'
 ---
