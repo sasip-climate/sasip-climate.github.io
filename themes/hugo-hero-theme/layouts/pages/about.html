@@ -46,14 +46,14 @@
   </div>
 </div>
 
-<div id="home" class="strip bg-cover bg-position-top bg-overlay" style='background-image: url("{{ .Params.background | relURL }}");'>
+<div class="strip bg-cover bg-position-top bg-overlay" style='background-image: url("{{ .Params.background | relURL }}");'>
   <div class="container pt-8 pb-8 pb-md-12 pt-md-12">
     <div class="row justify-content-center">
       <div class="col-12 col-md-8 text-center">
         <p>This project is supported by Schmidt Futures – a philanthropic initiative that seeks to improve societal outcomes through the development of emerging science and technologies.
 </p>
         <div class="work-image item">
-          <img src="https://github.com/sasip-climate/sasip-climate.github.io/blob/master/static/images/Schmidt-Futures-Logo.jpeg"/>
+          <img src="{{ 'images/Schmidt-Futures-Logo.jpeg' | relURL }}"/>
         </div>
       </div>
     </div>
