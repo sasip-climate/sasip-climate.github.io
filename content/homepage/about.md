@@ -1,6 +1,6 @@
 ---
 title: 'Our Team'
-weight: 2
+weight: 4
 background: ''
 button: 'Meet the team'
 buttonLink: 'team'
