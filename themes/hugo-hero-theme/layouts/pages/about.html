@@ -10,20 +10,6 @@
 {{ $subpages := sort $subpages ".Params.weight" }}
 {{ range $subpages }}
 
-<div class="strip bg-cover bg-position-top bg-overlay" style='background-image: url("{{ .Params.background | relURL }}");'>
-  <div class="container pt-8 pb-8 pb-md-12 pt-md-12">
-    <div class="row justify-content-center">
-      <div class="col-12 col-md-8 text-center">
-        <p>This project is supported by Schmidt Futures – a philanthropic initiative that seeks to improve societal outcomes through the development of emerging science and technologies.
-</p>
-        <div class="hero-image-fullscreen">
-          <img src="https://sasip-climate.github.io/images/Schmidt-Futures-Logo.jpeg"/>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-
 <div class="strip bg-cover bg-position-top bg-overlay" style="background-image: url('{{ .Params.background | relURL }}');">
   <div class="container pt-17 pb-17">
     <div class="row">
@@ -61,5 +47,17 @@
   </div>
 </div>
 
-
+<div class="strip bg-cover bg-position-top bg-overlay">
+  <div class="container pt-8 pb-8 pb-md-12 pt-md-12">
+    <div class="row justify-content-center">
+      <div class="col-12 col-md-8 text-center">
+        <p>This project is supported by Schmidt Futures – a philanthropic initiative that seeks to improve societal outcomes through the development of emerging science and technologies.
+</p>
+        <div class="hero-image-setheight">
+          <img src="https://sasip-climate.github.io/images/Schmidt-Futures-Logo.jpeg"/>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
 {{ end }}
