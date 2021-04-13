@@ -20,8 +20,7 @@ WP1 is divided into five tasks, two of which address known shortcomings of the c
 
  - Einar Ólason (einar.olason(at)nersc.no)
  - Véronique Dansereau (veronique.dansereau(at)univ-grenoble-alpes.fr)
- - Pierre Saramito (pierre.saramito(at)math.cnrs.fr)
- - Jérome Weiss (jerome.weiss(at)univ-grenoble-alpes.fr)
+ - Daniel Le Roux (dleroux(at)math.univ-lyon1.fr)
  - Pierre Rampal (pierre.rampal(at)univ-grenoble-alpes.fr)
  - Chris Horvat (christopher_horvat(at)brown.edu)
  - Clément Rousset (clement.rousset(at)locean.ipsl.fr)
