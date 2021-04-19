@@ -12,17 +12,3 @@
     }
   }
 }
-.logof {
-  display: block;
-  img {
-    width: 200px;
-    height: 40px;
-  }
-  a {
-    padding: 10px;
-    display: inline-block;
-    &:hover {
-      opacity: 0.8;
-    }
-  }
-}
