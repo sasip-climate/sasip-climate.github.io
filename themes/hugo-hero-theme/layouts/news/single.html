@@ -13,16 +13,17 @@
         </div>
       </div>
     </div>
+
+    {{ if .Params.link }}
+    <h2 class="team-name"><a target="_blank" href="{{ .Params.link }}">Find out more here</a> </h2>
+    {{ end }}
+
     {{ if .Params.images }}
     <div class="col-12 pt-4 pt-md-10">
       <div class="masonry">
         {{ range .Params.images }}
           <div class="work-image item">
-            {{ if .Params.link }}
             <a href="{{ .Params.link }}"><img src="{{ . | relURL }}"/></a>
-            {{ else }}
-            <img src="{{ . | relURL }}"/>
-            {{ end }}
           </div>
         {{ end }}
       </div>
