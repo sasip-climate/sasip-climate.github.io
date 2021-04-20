@@ -9,9 +9,7 @@
     <div class="col-12 col-md-8">
       <div class="work work-single">
         <div class="content">
-          {{ if .Params.images }}
-          <a href="{{ .Params.link }}"> {{.Content}}</a>
-          {{ end }}
+           {{.Content}}
         </div>
       </div>
     </div>
@@ -20,7 +18,11 @@
       <div class="masonry">
         {{ range .Params.images }}
           <div class="work-image item">
+            {{ if .Params.link }}
+            <a href="{{ .Params.link }}"><img src="{{ . | relURL }}"/></a
+            {{ else }}
             <img src="{{ . | relURL }}"/>
+            {{ end }}
           </div>
         {{ end }}
       </div>
