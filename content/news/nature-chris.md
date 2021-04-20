@@ -7,5 +7,6 @@ heroSubHeading: 'New SASIP-related paper in Nature Communications from WP3 leade
 heroBackground: ''
 thumbnail: 'images/news/fig3.jpg'
 images: ['images/news/fig3.jpg']
+link: 'https://www.nature.com/articles/s41467-021-22004-7'
 ---
-<a href="https://www.nature.com/articles/s41467-021-22004-7">Read more </a> about how sea ice models should be compared based on how they represent the marginal ice zone, not sea ice extent or area. One of SASIP's primary goals is to improve the representation of marginal ice zones, especially wave-ice and floe size interactions
+Read more about how sea ice models should be compared based on how they represent the marginal ice zone, not sea ice extent or area. One of SASIP's primary goals is to improve the representation of marginal ice zones, especially wave-ice and floe size interactions

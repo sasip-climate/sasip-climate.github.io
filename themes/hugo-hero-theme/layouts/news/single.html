@@ -8,7 +8,13 @@
   <div class="row justify-content-start">
     <div class="col-12 col-md-8">
       <div class="work work-single">
-        <div class="content">{{.Content}}</div>
+        <div class="content">
+          {{ if .Params.images }}
+          <a href="{{ .Params.link }}"
+          {{.Content}}
+          </a>
+          {{ end }}
+        </div>
       </div>
     </div>
     {{ if .Params.images }}
