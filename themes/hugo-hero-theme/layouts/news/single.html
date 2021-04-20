@@ -23,7 +23,7 @@
       <div class="masonry">
         {{ range .Params.images }}
           <div class="work-image item">
-            <a href="{{ .Params.link }}"><img src="{{ . | relURL }}"/></a>
+            <img src="{{ . | relURL }}"/>
           </div>
         {{ end }}
       </div>
