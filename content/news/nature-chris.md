@@ -5,7 +5,7 @@ weight: 1
 heroHeading: ''
 heroSubHeading: 'New SASIP-related paper in Nature Communications from WP3 leader Chris Horvat'
 heroBackground: ''
-thumbnail: 'images/news/fig3.jpg'
+thumbnail: 'images/news/fig3-thumbnail.jpg'
 images: ['images/news/fig3.jpg']
 link: 'https://www.nature.com/articles/s41467-021-22004-7'
 ---
