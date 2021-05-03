@@ -6,9 +6,9 @@ heroHeading: ''
 heroSubHeading: 'SASIP Webinar #1 - May 29, 2021 - 3pm CEST'
 heroBackground: ''
 thumbnail: 'images/news/SASIP-Webinar-1-thumb.jpg'
-images: ['']
 link: ''
 ---
+
 The first SASIP Webinar will be held remotely on May 20th, 2021 starting at 3pm CEST.
 
 The presentation entitled *A continuum viscous-elastic-brittle, FEM/DG model for the fracture and drift of sea ice* will be made by **Véronique Dansereau**.
