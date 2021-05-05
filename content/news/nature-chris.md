@@ -1,7 +1,7 @@
 ---
 title: 'New SASIP-related paper'
 draft: false
-weight: 1
+weight: 2
 heroHeading: ''
 heroSubHeading: 'New SASIP-related paper in Nature Communications from WP3 leader Chris Horvat'
 heroBackground: ''
