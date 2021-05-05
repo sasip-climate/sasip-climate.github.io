@@ -3,7 +3,7 @@ title: 'SASIP Webinar #1'
 draft: false
 weight: 1
 heroHeading: ''
-heroSubHeading: 'SASIP Webinar #1 - May 29, 2021 - 3pm CEST'
+heroSubHeading: 'SASIP Webinar #1 - May 20, 2021 - 3pm CEST'
 heroBackground: ''
 thumbnail: 'images/news/SASIP-Webinar-1-thumb.jpg'
 link: ''
