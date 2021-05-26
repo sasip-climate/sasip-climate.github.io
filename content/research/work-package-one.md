@@ -19,9 +19,11 @@ WP1 is divided into five tasks, two of which address known shortcomings of the c
  People involded in WP1 :
 
  - Einar Ólason (einar.olason(at)nersc.no)
+ - Thomas Richter (thomas.richter@ovgu.de)
+ - Piotr Minakowski (piotr.minakowski@ovgu.de)
  - Véronique Dansereau (veronique.dansereau(at)univ-grenoble-alpes.fr)
  - Daniel Le Roux (dleroux(at)math.univ-lyon1.fr)
+ - Clément Rousset (clement.rousset(at)locean.ipsl.fr)
  - Pierre Rampal (pierre.rampal(at)univ-grenoble-alpes.fr)
  - Chris Horvat (christopher_horvat(at)brown.edu)
- - Clément Rousset (clement.rousset(at)locean.ipsl.fr)
- - Martin Vancoppenolle (martin.vancoppenolle(at)locean.ipsl.fr)
+ 
