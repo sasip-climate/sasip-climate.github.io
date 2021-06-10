@@ -1,7 +1,7 @@
 ---
 title: 'May 11 and 12, 2021 - Kick-off meeting'
 draft: false
-weight: 4
+weight: 3
 heroHeading: ''
 heroSubHeading: 'Kick-off meeting, May 11 and 12, 2021'
 heroBackground: ''
