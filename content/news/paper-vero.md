@@ -1,7 +1,7 @@
 ---
 title: 'New SASIP-related paper'
 draft: false
-weight: 1
+weight: 2
 heroHeading: ''
 heroSubHeading: 'New SASIP-related paper from WP2 leader Veronique Dansereau et al.'
 heroBackground: ''
