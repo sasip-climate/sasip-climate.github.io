@@ -1,5 +1,5 @@
 ---
-title: 'Kick-off meeting, May 11 and 12, 2021'
+title: 'May 11th and 12th, 2021 - Kick-off meeting'
 draft: false
 weight: 5
 heroHeading: ''
