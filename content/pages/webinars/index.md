@@ -1,6 +1,5 @@
 ---
 title: 'Webinars'
-layout: 'about'
 heroHeading: 'Webinars'
 heroSubHeading: "Find below the list of all SASIP webinars"
 heroBackground: ''
