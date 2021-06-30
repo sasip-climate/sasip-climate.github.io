@@ -1,0 +1,51 @@
+{{ define "header_css" }}{{ end }}
+{{ define "body_classes" }}page-pages-aboutlayout{{ end }}
+{{ define "header_classes" }}{{ end }}
+
+{{ define "main" }}
+{{ partial "hero-image-setheight.html" (dict "background" .Params.heroBackground "heading" .Params.heroHeading "subheading" .Params.heroSubHeading "content" .)}}
+
+{{ $headless := .Site.GetPage "/pages/webinars" }}
+{{ $subpages := $headless.Resources.ByType "page" }}
+{{ $subpages := sort $subpages ".Params.weight" }}
+{{ range $subpages }}
+
+<div class="strip bg-cover bg-position-top bg-overlay" style="background-image: url('{{ .Params.background | relURL }}');">
+  <div class="container pt-17 pb-17">
+    <div class="row">
+      <div class="col-12 col-md-6 {{ if eq .Params.align "right" }}offset-md-6{{ end }}">
+        <h2 class="text-primary text-capitalize">{{ .Title }}</h2>
+        {{ .Content }}
+        {{ if .Params.button }}
+          <a class="button" href="{{ .Params.buttonLink | relURL }}">{{ .Params.button }}</a>
+        {{ end }}
+      </div>
+    </div>
+  </div>
+</div>
+{{ end }}
+
+<div class="container pt-4 pt-md-10 pb-4 pb-md-10">
+  <div class="row justify-content-start">
+    <div class="col-12 col-md-8">
+      <div class="work work-single">
+        <div class="content">{{.Content}}</div>
+      </div>
+    </div>
+    {{ if .Params.images }}
+    <div class="col-12 pt-4 pt-md-10">
+      <h2 class="mb-2 text-uppercase">Gallery</h2>
+      <div class="masonry">
+        {{ range .Params.images }}
+          <div class="work-image item">
+            <img src="{{ . | relURL }}"/>
+          </div>
+        {{ end }}
+      </div>
+    </div>
+    {{ end }}
+  </div>
+</div>
+
+
+{{ end }}
