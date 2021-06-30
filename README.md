@@ -6,7 +6,7 @@
 Visit the resulting website here : https://sasip-climate.github.io
 
 This repo contains the source code for the SASIP website.
-The site is inspired by M2LINES website (https://github.com/m2lines/m2lines.github.io) and uses the [Hugo](https://gohugo.io/) framework.
+The site uses the [Hugo](https://gohugo.io/) framework.
 The source files are written in markdown.
 A [GitHub workflow](https://github.com/sasip-climate/sasip-climate.github.io/blob/master/.github/workflows/build-and-deploy.yaml) is configured to automatically build and deploy the website to <https://sasip-climate.github.io/> whenever the `master` branch of this repo is updated.
 
