@@ -1,7 +1,7 @@
 ---
 title: 'June 30th, 2021 - SASIP Webinar #2'
 weight: 1
-background: 'images/news/SASIP-Webinar-2-thumb.jpg'
+background: ''
 align: right
 ---
 
