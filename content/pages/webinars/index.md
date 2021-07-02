@@ -2,8 +2,8 @@
 title: 'Webinars'
 date: 2018-12-06T09:29:16+10:00
 layout: 'webinars'
-heroHeading: 'Find below all SASIP webinars'
-heroSubHeading: ""
+heroHeading: 'Webinars'
+heroSubHeading: "Find below all SASIP webinars"
 heroBackground: '/images/ice-bandeau.png'
 ---
 
