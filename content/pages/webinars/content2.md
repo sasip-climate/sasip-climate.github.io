@@ -1,7 +1,7 @@
 ---
 title: 'SASIP Webinar #1 - Véronique Dansereau'
 date: 2018-12-06T09:29:16+10:00
-weight: 1
+weight: 2
 background: 'images/webinars/webinars1.png'
 align: right
 ---
