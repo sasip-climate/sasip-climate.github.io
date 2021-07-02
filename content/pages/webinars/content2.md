@@ -1,14 +1,13 @@
 ---
-title: 'May 20th, 2021 - SASIP Webinar #1'
+title: 'SASIP Webinar #1 - Véronique Dansereau'
 date: 2018-12-06T09:29:16+10:00
 weight: 1
 background: 'images/webinars/webinars1.png'
 align: right
 ---
 
-The first SASIP Webinar will be held remotely on May 20th, 2021 starting at 3pm CEST.
 
-The presentation entitled *A continuum viscous-elastic-brittle, FEM/DG model for the fracture and drift of sea ice* will be made by **Véronique Dansereau**.
+**Véronique Dansereau** presented *A continuum viscous-elastic-brittle, FEM/DG model for the fracture and drift of sea ice* in 2021, May the 20th.
 
 Here is the abstract for further information:
 
