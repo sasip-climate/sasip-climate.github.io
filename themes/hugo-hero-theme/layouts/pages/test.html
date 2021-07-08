@@ -6,17 +6,14 @@
 {{ partial "hero-image-setheight.html" (dict "background" .Params.heroBackground "heading" .Params.heroHeading "subheading" .Params.heroSubHeading "content" .)}}
 
 {{ $headless := .Site.GetPage "/pages/test" }}
-{{ $subpages := $headless.Resources.ByType "page" }}
-{{ $subpages := sort $subpages ".Params.weight" }}
-{{ range $subpages }}
 
 {{ $classes := slice "" }}
 {{ $styles := slice "" }}
 
 {{ if .Params.align }}
-    {{ if eq .align "left" }}{{ $classes = $classes | append "info-left" }}{{ end }}
-    {{ if eq .align "center" }}{{ $classes = $classes | append "info-center" }}{{ end }}
-    {{ if eq .align "right" }}{{ $classes = $classes | append "info-right" }}{{ end }}
+    {{ if eq .Params.align "left" }}{{ $classes = $classes | append "info-left" }}{{ end }}
+    {{ if eq .Params.align "center" }}{{ $classes = $classes | append "info-center" }}{{ end }}
+    {{ if eq ..Paramsalign "right" }}{{ $classes = $classes | append "info-right" }}{{ end }}
 {{ end }}
 
 
@@ -51,9 +48,5 @@
         </div>
     </div>
 </div>
-
-{{ end }}
-
-
 
 {{ end }}
