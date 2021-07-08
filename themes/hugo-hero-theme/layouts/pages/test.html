@@ -17,36 +17,30 @@
 {{ end }}
 
 
-<div class="info">
-    <div class="info-columns{{ delimit $classes " " }}" style="{{ delimit $styles " "  | safeCSS}}">
-        <div class="info-content">
-            {{ if .Params.heading }}
-                <h2>{{ .Params.heading }}</h2>
-            {{ end }}
-            {{ if .Params.description }}
-                <p>{{ .Params.description }}</p>
-            {{ end }}
-
-            {{ if .Params.bullets }}
-                <ul>
-                {{ range .Params.bullets }}
-                    <li>{{ . }}</li>
-                {{ end }}
-                </ul>
-            {{ end }}
-
-            {{ if .Params.button }}
-            <div class="info-buttons">
-                {{ partial "components/button.html" .button }}
-            </div>
-            {{ end }}
-        </div>
-        <div class="info-media">
-            {{ if .Params.image }}
-            <img width="600" height="400" {{ if .Params.heading }}alt="{{ .Params.heading }}"{{ end }} class="img-fluid" src="{{ .Params.image | relURL }}" />
-            {{ end }}
-        </div>
-    </div>
-</div>
+<div class="strip theme-base">
+    <div class="container">
+        <div class="row">
+            <div class="col-12">
+              <div class="info">
+                <div class="info-columns{{ delimit $classes " " }}" style="{{ delimit $styles " "  | safeCSS}}">
+                  <div class="info-content">
+                    {{ if .Params.heading }}
+                    <h2>{{ .Params.heading }}</h2>
+                    {{ end }}
+                    {{ if .Params.description }}
+                    <p>{{ .Params.description }}</p>
+                    {{ end }}
+                  </div>
+                  <div class="info-media">
+                    {{ if .Params.image }}
+                    <img width="600" height="400" {{ if .Params.heading }}alt="{{ .Params.heading }}"{{ end }} class="img-fluid" src="{{ .Params.image | relURL }}" />
+                    {{ end }}
+                  </div>
+                </div>
+              </div>
+           </div>
+         </div>
+       </div>
+   </div>
 
 {{ end }}
