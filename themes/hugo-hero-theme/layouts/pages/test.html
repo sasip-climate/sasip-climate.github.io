@@ -10,19 +10,13 @@
 {{ $classes := slice "" }}
 {{ $styles := slice "" }}
 
-{{ if .Params.align }}
-    {{ if eq .Params.align "left" }}{{ $classes = $classes | append "info-left" }}{{ end }}
-    {{ if eq .Params.align "center" }}{{ $classes = $classes | append "info-center" }}{{ end }}
-    {{ if eq .Params.align "right" }}{{ $classes = $classes | append "info-right" }}{{ end }}
-{{ end }}
-
 
 <div class="strip theme-base">
     <div class="container">
         <div class="row">
             <div class="col-12">
               <div class="info">
-                <div class="info-columns{{ delimit $classes " " }}" style="{{ delimit $styles " "  | safeCSS}}">
+                <div class="info-columns info-left" style="">
                   <div class="info-content">
                     {{ if .Params.heading }}
                     <h2>{{ .Params.heading }}</h2>
