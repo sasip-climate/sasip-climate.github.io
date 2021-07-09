@@ -10,7 +10,7 @@
 {{ $classes := slice "" }}
 {{ $styles := slice "" }}
 
-{{ if .align }}
+{{ if .Params.align }}
     {{ if eq .Params.align "left" }}{{ $classes = $classes | append "info-left" }}{{ end }}
     {{ if eq .Params.align "center" }}{{ $classes = $classes | append "info-center" }}{{ end }}
     {{ if eq .Params.align "right" }}{{ $classes = $classes | append "info-right" }}{{ end }}
