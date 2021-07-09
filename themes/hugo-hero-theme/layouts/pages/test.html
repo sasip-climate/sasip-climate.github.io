@@ -25,7 +25,7 @@
                 <div class="info-columns{{ delimit $classes " " }}" style="{{ delimit $styles " "  | safeCSS}}">
                   <div class="info-content">
                     {{ if .Params.heading }}
-                    <h3>{{ .Params.heading }}</h3>
+                    <p><b>{{ .Params.heading }}</b></p>
                     {{ end }}
                     {{ if .Params.description }}
                     <p>{{ .Params.description }}</p>
