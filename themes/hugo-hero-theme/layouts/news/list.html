@@ -5,22 +5,7 @@
 {{ define "main" }}
 
 {{ partial "hero-image-setheight.html" (dict "background" .Params.heroBackground "heading" .Params.heroHeading "subheading" .Params.heroSubHeading "content" .)}}
-<div class="strip theme-base pb-0">
-    <div class="container">
-        <div class="row">
-            <div class="col-12 col-lg-8">
-                <h1>{{ .Title }}</h1>
-                <h2>{{ .Params.description }}</h2>
-            </div>
-            {{ if .Params.image }}
-                <div class="col-12 col-lg-12" style="max-height: 400px; overflow: hidden;">
-                    <img class="img-fluid" src={{ .Params.image | relURL }} />
-                </div>
-            {{ end }}
-        </div>
-    </div>
-</div>
-{{ end }}
+
 
 <div class="strip theme-base">
 <div class="container">
@@ -49,4 +34,3 @@
 
 </div>
 </div>
-{{ end }}
