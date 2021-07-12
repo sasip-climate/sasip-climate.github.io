@@ -50,12 +50,12 @@ theme = "hugo-hero-theme"
       name = "News"
       url = "/news"
       weight = 1
-      
+
   [[menu.main]]
       name = "Webinars"
-      url = "/pages/webinars"
+      url = "/categories/webinars"
       weight = 2
-      
+
   [[menu.main]]
       name = "Team"
       url = "/team/"
