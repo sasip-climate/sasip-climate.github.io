@@ -4,7 +4,7 @@ date: 2021-05-20
 authors:
 categories: ['Webinars']
 description: Véronique Dansereau talks about a continuum viscous-elastic-brittle, FEM/DG model for the fracture and drift of sea ice
-thumbnail: 'images/webinars/webinars1.png'
+thumbnail: 'images/webinars/SASIP-Webinar-1-thumb.jpg'
 image: 'images/webinars/webinars1.png'
 ---
 

@@ -4,7 +4,7 @@ date: 2021-06-30
 authors:
 categories: ['Webinars']
 description: Christopher Horvat talks about Observing and Modelling the Marginal Ice Zone
-thumbnail: 'images/webinars/webinars2.png'
+thumbnail: 'images/webinars/SASIP-Webinar-2-thumb.jpg'
 image: 'images/webinars/webinars2.png'
 ---
 
