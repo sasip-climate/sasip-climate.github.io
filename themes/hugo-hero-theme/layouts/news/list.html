@@ -5,23 +5,48 @@
 {{ define "main" }}
 
 {{ partial "hero-image-setheight.html" (dict "background" .Params.heroBackground "heading" .Params.heroHeading "subheading" .Params.heroSubHeading "content" .)}}
-{{ if .Content }}
-<div class="container pt-6 pt-md-10">
-  <div class="row">
-    <div class="col-12">
-      <div class="page-intro">
-      {{ .Content }}
+<div class="strip theme-base pb-0">
+    <div class="container">
+        <div class="row">
+            <div class="col-12 col-lg-8">
+                <h1>{{ .Title }}</h1>
+                <h2>{{ .Params.description }}</h2>
+            </div>
+            {{ if .Params.image }}
+                <div class="col-12 col-lg-12" style="max-height: 400px; overflow: hidden;">
+                    <img class="img-fluid" src={{ .Params.image | relURL }} />
+                </div>
+            {{ end }}
+        </div>
     </div>
-    </div>
-  </div>
 </div>
 {{ end }}
 
-<div class="container pb-6 pt-6 pb-md-10 pt-md-10">
-  <div class="row">
-    {{ range .Pages.ByWeight }}
-    <div class="col-12 col-md-6 mb-2 ">{{ .Render "summary" }}</div>
-    {{ end }}
-  </div>
+<div class="strip theme-base">
+<div class="container">
+    <div class="row">
+        <div class="col-12 col-md-8">
+            <div class="row">
+                {{ $paginator := .Paginate (where .Pages "Type" "news") }}
+                {{ range $paginator.Pages }}
+                    <div class="col-12 mb-3">
+                        {{ .Render "summary-row" }}
+                    </div>
+                {{ end }}
+            </div>
+            <div class="row">
+                <div class="col-12">
+                {{ partial "components/paginator" . }}
+                </div>
+            </div>
+        </div>
+        <div class="col-12 col-md-4">
+            <div class="sidebar">
+                {{ partial "taxonomy/list-terms-by-taxonomy" (dict "site" .Site "context" . "taxonomy" "categories" "heading" "Categories") }}
+            </div>
+        </div>
+    </div>
+
+</div>
 </div>
 {{ end }}
