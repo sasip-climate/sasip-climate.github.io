@@ -1,5 +1,3 @@
-{{ partial "hero-image-setheight.html" (dict "background" .Params.heroBackground "heading" .Params.heroHeading "subheading" .Params.heroSubHeading "content" .)}}
-
 <div class="summary summary-row {{ if .Params.thumbnail }}summary-has-thumbnail{{ end }} {{ if .Params.icon }}summary-has-icon{{ end }}">
     {{ if .Params.thumbnail }}
         <div class="summary-thumbnail">

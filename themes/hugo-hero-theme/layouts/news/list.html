@@ -4,6 +4,7 @@
 
 {{ define "main" }}
 
+{{ partial "hero-image-setheight.html" (dict "background" .Params.heroBackground "heading" .Params.heroHeading "subheading" .Params.heroSubHeading "content" .)}}
 
     <div class="strip theme-base">
         <div class="container">
