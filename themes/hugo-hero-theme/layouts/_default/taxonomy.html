@@ -4,7 +4,9 @@
 
 {{ define "main" }}
 
-{{ partial "hero-image-setheight.html" (dict "background" .Params.heroBackground "heading" .Params.heroHeading "subheading" .Params.heroSubHeading "content" .)}}
+{{ partial "hero-image-setheight.html" (dict "background" .Params.heroBackground "heading" .Title "subheading" .Params.heroSubHeading "content" .)}}
+
+
 
     {{ $pages := .Pages }}
     {{ $pagesCount := len $pages }}
