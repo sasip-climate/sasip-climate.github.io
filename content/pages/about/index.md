@@ -1,7 +1,7 @@
 ---
 title: 'About'
 date: 2018-12-06T09:29:16+10:00
-layout: 'test'
+layout: 'about'
 heroHeading: 'About SASIP'
 heroSubHeading: ""
 heroBackground: '/images/ice-bandeau.png'
