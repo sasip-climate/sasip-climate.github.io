@@ -4,24 +4,7 @@
 
 {{ define "main" }}
 
-    {{ if .Params.hero }}
-        {{ partial "components/hero.html" (dict "title" .Title "description" .Params.description "background" .Params.hero.background "blend_mode" .Params.hero.blend_mode "theme" .Params.hero.theme)}}
-    {{ else }}
-        <div class="strip pt-12 pb-0">
-            <div class="container">
-                <div class="row">
-                    <div class="col col-lg-12">
-                        <h1>{{ .Title }}</h1>
-                    </div>
-                    {{ if .Params.image }}
-                        <div class="col col-lg-12" >
-                            <img class="img-fluid" src={{ .Params.image | relURL }} />
-                        </div>
-                    {{ end }}
-                </div>
-            </div>
-        </div>
-    {{ end }}
+{{ partial "hero-image-setheight.html" (dict "background" .Params.heroBackground "heading" .Params.heroHeading "subheading" .Params.heroSubHeading "content" .)}}
 
     {{ $pages := .Pages }}
     {{ $pagesCount := len $pages }}
@@ -58,5 +41,5 @@
         </div>
     {{ end }}
 
-    
+
 {{ end }}
