@@ -3,7 +3,7 @@ title: 'Webinars will be back soon'
 date: 2021-10-04
 authors:
 categories: ['Webinars']
-description: Mark your calendar for our next webinars on october 27th and november 24th by Polly Smith and Tobias Finn
+description: Mark your calendars for our next webinars on october 27th and november 24th by Polly Smith and Tobias Finn
 thumbnail: 'images/news/picture-webinar.png'
 image: ''
 ---
