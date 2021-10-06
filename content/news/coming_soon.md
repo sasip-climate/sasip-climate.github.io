@@ -9,10 +9,10 @@ image: 'images/news/video-conference-ga2af37d2e_1280.jpg'
 ---
 
 
-Polly will speak about data assimilation for parameter estimation, using data assimilation for joint state-parameter estimation, coupled atmosphere-ocean data assimilation.
+**Polly** will speak about *data assimilation for parameter estimation, using data assimilation for joint state-parameter estimation, coupled atmosphere-ocean data assimilation*.
 
-Tobias will talk about combining data assimilation with machine learning and vice versa, borrowing ideas from ensemble data assimilation for machine learning.
+**Tobias** will talk about *combining data assimilation with machine learning and vice versa, borrowing ideas from ensemble data assimilation for machine learning*.
 
-Jean-Pierre will talk about breaking the ice: wave-ice interactions from averages to distinct events and vice-versa.
+**Jean-Pierre** will talk about *breaking the ice: wave-ice interactions from averages to distinct events and vice-versa*.
 
 
