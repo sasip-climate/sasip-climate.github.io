@@ -8,7 +8,6 @@ thumbnail: 'images/news/picture-webinar.png'
 image: 'images/news/video-conference-ga2af37d2e_1280.jpg'
 ---
 
-Mark your calendars for our next webinars on october 27th, november 24th and december 15th by Polly Smith, Tobias Finn and Jean-Pierre Auclair
 
 Polly will speak about data assimilation for parameter estimation, using data assimilation for joint state-parameter estimation, coupled atmosphere-ocean data assimilation.
 
