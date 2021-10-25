@@ -4,7 +4,7 @@ date: 2021-10-21
 authors:
 categories: ['Webinars']
 description: Polly Smith will talk about Data Assimilation for State and Parameter Estimation
-thumbnail: 'images/news/SASIP-Webinar-2-thumb.jpg'
+thumbnail: 'images/news/Webinar3Polly-thumb.png'
 image: 'images/news/Webinar3Polly.png'
 ---
 Our next SASIP Webinar #3 with Polly Smith on 'Data Assimilation for State and Parameter Estimation' will be held next Wednesday 27 October at 3pm CEST!
