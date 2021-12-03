@@ -3,7 +3,7 @@ title: 'Code and Data'
 date: 2018-12-06T09:29:16+10:00
 layout: 'code'
 heroHeading: 'Public repository and data access'
-heroSubHeading: ""
+heroSubHeading: "Public repository and data access"
 heroBackground: '/images/ice-bandeau.png'
 align: left
 image: ''
