@@ -15,5 +15,6 @@ Our codes will be publicly available in our [github repository](https://github.c
 
 ### Datasets
 
-A storage unit has been purchased and the list of shared datasets and the procedures on how to access them or add new ones is visible [here](https://github.com/sasip-climate/catalog-shared-data-SASIP)
+[Here](https://github.com/sasip-climate/catalog-shared-data-SASIP) is the list of the datasets available shared by SASIP participants. 
+Alongside this catalog, you can also learn how to access the shared datasets and/or add new ones.
 
