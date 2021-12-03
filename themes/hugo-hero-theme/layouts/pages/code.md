@@ -1,0 +1,44 @@
+{{ define "header_css" }}{{ end }}
+{{ define "body_classes" }}page-pages-aboutlayout{{ end }}
+{{ define "header_classes" }}{{ end }}
+
+{{ define "main" }}
+{{ partial "hero-image-setheight.html" (dict "background" .Params.heroBackground "heading" .Params.heroHeading "subheading" .Params.heroSubHeading "content" .)}}
+
+{{ $headless := .Site.GetPage "/pages/test" }}
+
+{{ $classes := slice "" }}
+{{ $styles := slice "" }}
+
+{{ if .Params.align }}
+    {{ if eq .Params.align "left" }}{{ $classes = $classes | append "info-left" }}{{ end }}
+    {{ if eq .Params.align "center" }}{{ $classes = $classes | append "info-center" }}{{ end }}
+    {{ if eq .Params.align "right" }}{{ $classes = $classes | append "info-right" }}{{ end }}
+{{ end }}
+
+
+<div class="strip theme-base">
+    <div class="container">
+        <div class="row">
+            <div class="col-12">
+              <div class="info">
+                <div class="info-columns{{ delimit $classes " " }}" style="{{ delimit $styles " "  | safeCSS}}">
+                  <div class="info-content">
+                    {{ if .Params.heading }}
+                    <p><b>{{ .Params.heading }}</b></p>
+                    {{ end }}
+                    <div class="content">{{.Content}}</div>
+                  </div>
+                  <div class="info-media">
+                    {{ if .Params.image }}
+                    <img width="600" height="400" {{ if .Params.heading }}alt="{{ .Params.heading }}"{{ end }} class="img-fluid" src="{{ .Params.image | relURL }}" />
+                    {{ end }}
+                  </div>
+                </div>
+              </div>
+           </div>
+         </div>
+       </div>
+   </div>
+
+{{ end }}
