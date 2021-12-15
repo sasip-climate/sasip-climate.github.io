@@ -15,7 +15,7 @@ The aim is to develop physically sound parametrizations that can translate the d
  - Implementation and validation of the new parametrizations in the Eulerian version of the sea ice model neXtSIM developed in WP1
  - Simulations of fast transitions between dense and loose sea ice regimes
 
-People involved in WP2:
+Permanent people involved in WP2:
 
  - Véronique Dansereau (veronique.dansereau(at)univ-grenoble-alpes.fr)
  - Jérôme Weiss (jerome.weiss(at)univ-grenoble-alpes.fr)
@@ -27,3 +27,9 @@ People involved in WP2:
  - Timothy Williams (timothy.williams(at)nersc.no)
  - Martin Vancoppenolle (martin.vancoppenolle(at)locean.ipsl.fr)
  
+Students, Postdocs and enginneers involved in WP2:
+
+ - Aurélien Rigotti, Ph.D. student at ISTerre (aurelien.rigotti(at)univ-grenoble-alpes.fr)
+ - Toai Phan, Ph.D. student at Sorbonne Université (toai.phan(at)upmc.fr)
+ - Jean-Pierre Auclair, Postdoc at ISTerre (jean-pierre.auclair(at)univ-grenoble-alpes.fr)
+ - Sophie Thery, engineer at Sorbonne Université (sophie.thery(at)upmc.fr)
