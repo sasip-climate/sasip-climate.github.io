@@ -10,5 +10,6 @@ weight: 6
 ---
 
 University of Reading, United Kingdom
+University of Bologna, Italy
 
 *Data assimilation, Dynamical system, Machine learning*
