@@ -33,4 +33,5 @@ People involved in WP4:
  - Polly Smith (p.j.smith(at)reading.ac.uk)
  - Simon Driscoll (s.driscoll(at)pgr.reading.ac.uk)
  - Tobias Finn (tobias.finn(at)enpc.fr)
+ - Seema Mayor (s.mayor(at)reading.ac.uk)
  
