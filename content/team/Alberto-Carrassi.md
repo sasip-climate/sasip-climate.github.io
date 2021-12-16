@@ -9,8 +9,6 @@ Website: https://research.reading.ac.uk/meteorology/people/alberto-carrassi/
 weight: 6
 ---
 
-University of Reading, United Kingdom
-
-University of Bologna, Italy
+University of Reading (UK) & University of Bologna (I)
 
 *Data assimilation, Dynamical system, Machine learning*
