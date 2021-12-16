@@ -28,4 +28,9 @@ People involved in WP4:
  - Alban Farchi (alban.farchi(at)enpc.fr)
  - Christopher Jones (ckrtj(at)renci.org)
  - Anton Korosov (Anton.Korosov(at)nersc.no)
+ - Yue Ying (Yue.Ying(at)nersc.no)
+ - Ivo Pasmans (i.c.pasmans(at)reading.ac.uk)
+ - Polly Smith (p.j.smith(at)reading.ac.uk)
+ - Simon Driscoll (s.driscoll(at)pgr.reading.ac.uk)
+ - Tobias Finn (tobias.finn(at)enpc.fr)
  
