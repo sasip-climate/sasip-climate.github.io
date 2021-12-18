@@ -34,4 +34,4 @@ People involved in WP4:
  - Simon Driscoll (s.driscoll(at)pgr.reading.ac.uk)
  - Tobias Finn (tobias.finn(at)enpc.fr)
  - Seema Mayor (s.mayor(at)reading.ac.uk)
- 
+ - Charlotte Durand (charlotte.durand(at)enpc.fr)
