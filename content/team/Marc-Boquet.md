@@ -6,7 +6,7 @@ image: "/images/team/bocquet-marc-crop.jpeg"
 jobtitle: "Head of Data Assimilation - WP4"
 promoted: true
 Website: http://cerea.enpc.fr/HomePages/bocquet/
-weight: 11
+weight: 10
 ---
 
 Ecole des Ponts, France
