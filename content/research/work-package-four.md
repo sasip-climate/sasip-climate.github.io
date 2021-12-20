@@ -19,19 +19,22 @@ WP4 is a bridge between the other WPs and is structured along four tasks reflect
 
 People involved in WP4:
 
- - Alberto Carrassi (n.a.carrassi(at)reading.ac.uk)
- - Ali Aydogdu (ali.aydogdu(at)cmcc.it)
- - Laurent Bertino (Laurent.Bertino(at)nersc.no)
- - Marc Bocquet (marc.bocquet(at)enpc.fr)
- - Julien Brajard (julien.brajard(at)nersc.no)
- - Yumeng Chen (yumeng.chen(at)reading.ac.uk)
- - Alban Farchi (alban.farchi(at)enpc.fr)
- - Christopher Jones (ckrtj(at)renci.org)
- - Anton Korosov (Anton.Korosov(at)nersc.no)
- - Yue Ying (Yue.Ying(at)nersc.no)
- - Ivo Pasmans (i.c.pasmans(at)reading.ac.uk)
- - Polly Smith (p.j.smith(at)reading.ac.uk)
- - Simon Driscoll (s.driscoll(at)pgr.reading.ac.uk)
- - Tobias Finn (tobias.finn(at)enpc.fr)
- - Seema Mayor (s.mayor(at)reading.ac.uk)
- - Charlotte Durand (charlotte.durand(at)enpc.fr)
+ - [Alberto Carrassi](https://research.reading.ac.uk/meteorology/people/alberto-carrassi/) (n.a.carrassi(at)reading.ac.uk) : PI 
+ - [Ali Aydogdu](https://www.cmcc.it/people/aydogdu-ali-3) (ali.aydogdu(at)cmcc.it) : Research Scientist
+ - Laurent Bertino (Laurent.Bertino(at)nersc.no) : Head of Data Assimilation for Ice
+ - [Marc Bocquet](http://cerea.enpc.fr/HomePages/bocquet/) (marc.bocquet(at)enpc.fr) : Head of Data Assimilation
+ - [Julien Brajard](https://www.nersc.no/staff/julien-brajard) (julien.brajard(at)nersc.no) : Head of Machine Learning
+ - [Yumeng Chen](https://research.reading.ac.uk/meteorology/people/yumeng-chen/) (yumeng.chen(at)reading.ac.uk) : Research Scientist
+ - [Simon Driscoll](https://research.reading.ac.uk/meteorology/people/simon-driscoll/) (s.driscoll(at)pgr.reading.ac.uk) : PhD
+ - Charlotte Durand (charlotte.durand(at)enpc.fr) : PhD
+ - Alban Farchi (alban.farchi(at)enpc.fr) : Research Scientist
+ - Tobias Finn (tobias.finn(at)enpc.fr) : PostDoc
+ - [Christopher Jones](https://ckrtjones.web.unc.edu/) (ckrtj(at)renci.org) : Head of Applied Maths
+ - Anton Korosov (Anton.Korosov(at)nersc.no) :
+ - Seema Mayor (s.mayor(at)reading.ac.uk) : WP4 Manager
+ - [Ivo Pasmans](https://www.linkedin.com/in/ivopasmans/) (i.c.pasmans(at)reading.ac.uk) : PostDoc
+ - [Polly Smith](https://research.reading.ac.uk/meteorology/people/polly-smith/) (p.j.smith(at)reading.ac.uk) : PostDoc
+ - [Yue Ying](https://myying.github.io/) (Yue.Ying(at)nersc.no) : Research Scientist
+
+
+
