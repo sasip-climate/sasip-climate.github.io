@@ -6,7 +6,7 @@ image: "/images/team/simon-driscoll.jpg"
 jobtitle: "PhD - WP4"
 promoted: true
 Website: https://research.reading.ac.uk/meteorology/people/simon-driscoll/
-weight: 13
+weight: 14
 ---
 
 University of Reading, UK

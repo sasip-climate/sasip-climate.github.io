@@ -6,7 +6,7 @@ image: "/images/team/JulienBrajard-NERSC-portrait.JPG"
 jobtitle: "Head of Machine Learning - WP4"
 promoted: true
 Website: https://www.nersc.no/staff/julien-brajard
-weight: 11
+weight: 12
 ---
 
 Nansen Environmental and Remote Sensing Center, Norway

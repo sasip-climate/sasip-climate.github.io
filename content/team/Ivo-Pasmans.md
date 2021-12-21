@@ -6,7 +6,7 @@ image: "/images/team/Ivo-pasmans.jpg"
 jobtitle: "Post-Doc - WP4"
 promoted: true
 Website: https://www.linkedin.com/in/ivopasmans
-weight: 19
+weight: 20
 ---
 
 University of Reading, UK
