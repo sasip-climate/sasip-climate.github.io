@@ -6,7 +6,7 @@ image: "/images/team/SASIP_photo_PJSmith.jpg"
 jobtitle: "Post-Doc - WP4"
 promoted: true
 Website: https://research.reading.ac.uk/meteorology/people/polly-smith/
-weight: 21
+weight: 23
 ---
 
 University of Reading, UK
