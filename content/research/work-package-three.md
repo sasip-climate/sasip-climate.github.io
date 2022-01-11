@@ -23,3 +23,5 @@ People involved in WP3:
  - Pierre Rampal (pierre.rampal(at)univ-grenoble-alpes.fr)
  - Stéphane Labbé (stephane.labbe(at)sorbonne-universite.fr)
  - Einar Ólason (einar.olason(at)nersc.no)
+ - Erica Rosenblum (erica.j.rosenblum(at)gmail.com)
+ - Paul Hall (paul_hall(at)brown.edu) 
