@@ -6,7 +6,7 @@ image: "/images/team/Chris-Jones.jpg"
 jobtitle: "Head of Applied Maths - WP4"
 promoted: true
 Website: https://ckrtjones.web.unc.edu/
-weight: 18
+weight: 20
 ---
 
 University of North Carolina, USA

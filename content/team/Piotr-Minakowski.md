@@ -6,7 +6,7 @@ image: "/images/team/minak.jpg"
 jobtitle: "Research scientist - WP1"
 promoted: true
 Website:
-weight: 20
+weight: 22
 ---
 
 Otto-von-Guericke University of Magdeburg, Germany

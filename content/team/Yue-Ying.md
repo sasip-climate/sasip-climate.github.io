@@ -6,7 +6,7 @@ image: "/images/team/yingyue_portrait.jpg"
 jobtitle: "Research scientist - WP4"
 promoted: true
 Website: https://myying.github.io/
-weight: 25
+weight: 30
 ---
 
 Nansen Environmental and Remote Sensing Center, Norway

@@ -6,7 +6,7 @@ image: "/images/team/thomas-richter-2021-12.jpg"
 jobtitle: "Head of DG method - WP1"
 promoted: true
 Website:
-weight: 22
+weight: 24
 ---
 
 Otto-von-Guericke University of Magdeburg, Germany
