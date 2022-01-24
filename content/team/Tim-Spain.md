@@ -6,7 +6,7 @@ image: "/images/team/thumbnail_Spain-Timothy.jpg"
 jobtitle: "Research Scientist - WP1"
 promoted: true
 Website:
-weight: 27
+weight: 35
 ---
 
 Nansen Environmental and Remote Sensing Center, Norway

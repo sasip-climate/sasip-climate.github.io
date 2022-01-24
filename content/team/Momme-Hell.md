@@ -6,7 +6,7 @@ image: "/images/team/momme.jpg"
 jobtitle: "Post-Doc - WP3"
 promoted: true
 Website: https://mochell.github.io/
-weight: 19
+weight: 22
 ---
 
 Brown University, United States

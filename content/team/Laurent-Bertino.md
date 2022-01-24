@@ -6,7 +6,7 @@ image: "/images/team/Bertino-Laurent.jpeg"
 jobtitle: "Head of Data Assimilation for ice - WP4"
 promoted: true
 Website: https://www.nersc.no/staff/laurent-bertino
-weight: 10
+weight: 11
 ---
 
 Nansen Environmental and Remote Sensing Center, Norway

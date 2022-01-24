@@ -6,7 +6,7 @@ image: "/images/team/fox-kemper.jpg"
 jobtitle: "Professor - WP3"
 promoted: true
 Website: http://fox-kemper.com/
-weight: 18
+weight: 21
 ---
 
 Brown University, United States

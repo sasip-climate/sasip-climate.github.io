@@ -6,7 +6,7 @@ image: "/images/team/rafa.jpg"
 jobtitle: "Post-Doc - WP3"
 promoted: true
 Website: https://rafacsantana.github.io/
-weight: 25
+weight: 33
 ---
 
 University of Auckland, New Zealand

@@ -6,7 +6,7 @@ image: "/images/team/Photo_Sophie_012020.JPG"
 jobtitle: "Research engineer - WP5"
 promoted: true
 Website:
-weight: 28
+weight: 38
 ---
 
 Centre Européen de Recherche et Formation Avancée en Calcul Scientifique, France

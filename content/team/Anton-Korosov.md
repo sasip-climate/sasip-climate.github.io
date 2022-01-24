@@ -6,7 +6,7 @@ image: "/images/team/AntonKorosov.JPG"
 jobtitle: "Research Scientist - WP4"
 promoted: true
 Website: https://www.nersc.no/staff/anton-korosov
-weight: 21
+weight: 24
 ---
 
 Nansen Environmental and Remote Sensing Centre , Norway
