@@ -28,13 +28,14 @@ This method only allows you to update one page at a time.
 ### More specifically
  
 - If you want to modify informations on people (https://sasip-climate.github.io/team/) :
-  - modify or a new md file in https://github.com/sasip-climate/sasip-climate.github.io/tree/master/content/team  
-  - modify or fill in :
+  - modify or duplicate a md file in https://github.com/sasip-climate/sasip-climate.github.io/tree/master/content/team  
+  - modify :
     - title : First Name Last Name
     - image : 'images/team/namefilephoto'
     - jobtitle : Job Title
-    - after the --- Name of the Institution then ```*keywords, separated, by commas*```
     - weight : the rank at which the person must appear on the team page (after the WP leaders and managers, the order is alphabetical, see [this doc](https://docs.google.com/spreadsheets/d/1w82EaZQmBjFyVzfjqaY7-1bz1y92GWeop9Sr6i5NhjM/edit?usp=sharing) to get the rank and reorder the list when adding a new person)
+    - after the --- Name of the Institution then ```*keywords, separated, by commas*```
+
   - upload the photo in [static/images/team](https://github.com/sasip-climate/sasip-climate.github.io/tree/master/static/images/team)
 
 - If you want to modify the description of a work package (https://sasip-climate.github.io/research/) :
