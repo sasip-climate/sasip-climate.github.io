@@ -66,3 +66,15 @@ You can also build the website locally on your own computer.
 This can be useful for debugging.
 To do this, you need to first [Install Hugo](https://gohugo.io/getting-started/quick-start/).
 Then inside the repository launch ```hugo```then ```hugo server``` and you can look at the website locally at ```localhost:1313```
+
+For the moment, we want a particular version of hgo, the 0.92.0, otherwise our website fails. to get it with brew on mac do these steps :
+
+```
+  - brew install hugo
+  - brew uninstal hugo
+  - wget https://raw.githubusercontent.com/Homebrew/homebrew-core/cb7b2c8709b7c4842f705b745b7cac591629f6be/Formula/hugo.rb > $(find $(brew --repository) -name hugo.rb)
+  - brew install hugo
+```
+
+(following the steps described [here](https://remarkablemark.org/blog/2017/02/03/install-brew-package-version/)
+
