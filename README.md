@@ -62,15 +62,7 @@ git commit -m '<your commit message>'
 git push origin master
 ```
 
-If you want to make a large change, it may be best to discuss it first via pull request.
-In that case you would want to create a new branch, push your branch to GitHub, and open a PR.
-The GitHub docs on [creating a pull request](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) are a useful reference here.
-
 You can also build the website locally on your own computer.
 This can be useful for debugging.
 To do this, you need to first [Install Hugo](https://gohugo.io/getting-started/quick-start/).
-You can then use the Hugo command line tools to do stuff like
-```bash
-hugo new content/<name of your page>.md # create a new page
-hugo server -D # serve the website on http://localhost:1313/.
-```
+Then inside the repository launch ```hugo```then ```hugo server``` and you can look at the website locally at ```localhost:1313```
