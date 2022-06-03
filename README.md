@@ -78,3 +78,9 @@ For the moment, we want a particular version of hgo, the 0.92.0, otherwise our w
 
 (following the steps described [here](https://remarkablemark.org/blog/2017/02/03/install-brew-package-version/)
 
+a nicer way of doing it is :
+
+```
+brew extract --version=0.92.0 hugo homebrew/cask
+brew install hugo@0.92.0
+```
