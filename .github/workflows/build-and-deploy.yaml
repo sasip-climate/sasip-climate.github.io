@@ -3,10 +3,7 @@ name: github pages
 on:
   push:
     branches:
-      - master
-  pull_request:
-    branches:
-      - master
+      - dev-new-pages
 
 jobs:
   deploy:
@@ -26,9 +23,3 @@ jobs:
       - name: Build
         run: hugo --minify
 
-      - name: Deploy
-        if: github.ref == 'refs/heads/master'
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./public
