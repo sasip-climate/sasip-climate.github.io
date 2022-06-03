@@ -70,15 +70,15 @@ Then inside the repository launch ```hugo```then ```hugo server``` and you can l
 For the moment, we want a particular version of hgo, the 0.92.0, otherwise our website fails. to get it with brew on mac do these steps :
 
 ```
-  - brew install hugo
-  - brew uninstal hugo
-  - wget https://raw.githubusercontent.com/Homebrew/homebrew-core/cb7b2c8709b7c4842f705b745b7cac591629f6be/Formula/hugo.rb > $(find $(brew --repository) -name hugo.rb)
-  - brew install hugo
+ brew install hugo
+ brew uninstal hugo
+ curl https://raw.githubusercontent.com/Homebrew/homebrew-core/cb7b2c8709b7c4842f705b745b7cac591629f6be/Formula/hugo.rb > $(find $(brew --repository) -name hugo.rb)
+ brew install hugo
 ```
 
 (following the steps described [here](https://remarkablemark.org/blog/2017/02/03/install-brew-package-version/)
 
-a nicer way of doing it is :
+a nicer way of doing it is (but doesn't always complete ...) :
 
 ```
 brew extract --version=0.92.0 hugo homebrew/cask
