@@ -23,52 +23,62 @@
 {{ $reusablePages := $headless.Resources.ByType "page" }}
 {{ $reusablePages := sort $reusablePages ".Params.weight" }}
 
-<div id="home" class="strip bg-cover bg-position-top bg-overlay" style='background-image: url("{{ .Params.background | relURL }}");'>
-  <div class="container pt-8 pb-8 pb-md-12 pt-md-12">
-    <div class="row justify-content-center">
-      <div class="col-12 col-md-8 text-center">
-        <h2>SASIP news</h2>
-        <a class="button button-primary" href="{{ .Site.BaseURL }}news">Click here !</a>
-      </div>
-    </div>
-  </div>
-</div>
 
 {{ $services := where (where .Site.RegularPages "Type" "services") ".Params.featured" true }}
 {{if gt (len $services) 0}}
-<div class="bg-primary bg-cover bg-position-top bg-overlay">
-  <div class="container pt-8 pb-8 pb-md-14 pt-md-14">
-    <div class="row justify-content-start">
-      <div class="col-12 text-white">
-        <h2 class="text-center mb-3">Our Research</h2>
-      </div>
-      {{ range first 6 (sort $services ".Params.weight") }}
-      <div class="col-12 col-md-4 mb-1 text-white">
-        {{ .Render "summary" }}
-      </div>
-      {{ end }}
-      <div class="col-12 text-center">
-        <a class="button button-white" href="{{ .Site.BaseURL }}research">More about our research</a>
-      </div>
+<div class="container pt-8 pb-8 pb-md-10 pt-md-10">
+  <div class="row justify-content-start">
+    <div class="col-12">
+      <h2 class="text-center mb-3">Our research</h2>
+
+    </div>
+    {{ range first 6 (sort $services ".Params.weight") }}
+    <div class="col-12 col-md-4 mb-1">
+      {{ .Render "summary" }}
+    </div>
+    {{ end }}
+    <div class="col-12 text-center">
+      <a class="button button-primary" href="{{ .Site.BaseURL }}research">Read more</a>
     </div>
   </div>
 </div>
 {{end}}
 
 
-
-<div id="home" class="strip bg-cover bg-position-top bg-overlay" style='background-image: url("{{ .Params.background | relURL }}");'>
-  <div class="container pt-8 pb-8 pb-md-12 pt-md-12">
+{{ range first 1  $reusablePages  }}
+<div id="home" class="strip bg-primary bg-cover bg-position-top bg-test2" style='background-image: url("{{ .Params.background | relURL }}");'>
+  <div class="container pt-8 pb-8 ">
     <div class="row justify-content-center">
-      <div class="col-12 col-md-8 text-center">
-        <h2>Our Team</h2>
-        <p>We are an international team of passionate researchers and engineers with expertise in polar sciences and applied mathematics. We like to focus on sea ice physics, physical oceanography, and climate modelling.
-</p>
-        <a class="button" href="{{ .Site.BaseURL }}team">Meet the team</a>
+      <div class="col-12 col-md-8 text-center text-white">
+        <h2>{{ .Title }}</h2>
+        {{ .Content }}
+        <a class="button button-white" href="{{ .Params.buttonLink | relURL }}">{{ .Params.button }}</a>
       </div>
     </div>
   </div>
 </div>
+{{ end }}
+
+{{ range first 1 (after 1 $reusablePages) }}
+<div id="home" class="strip bg-primary bg-cover bg-position-top bg-test" style="background-image: url('{{ .Params.background | relURL }}');">
+  <div class="container pt-15 pb-15">
+    <div class="row justify-content-center">
+      <div class="col-12 col-md-6 text-center text-white">
+        <h2 class=" text-capitalize ">{{ .Title }}</h2>
+        <p>{{ .Content }}</p>
+        <a class="button button-white" href="{{ .Params.buttonLink | relURL }}">{{ .Params.button }}</a>
+      </div>
+    </div>
+  </div>
+</div>
+{{ end }}
+
+
+
+
+
+
+
 {{ end }}
 
 {{ define "footer_js" }}

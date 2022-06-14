@@ -4,6 +4,7 @@ date: 2018-12-06T09:29:16+10:00
 weight: 2
 background: 'images/webinars/webinars1.png'
 align: right
+heroBackground: 'images/ice-bandeau.png'
 ---
 
 

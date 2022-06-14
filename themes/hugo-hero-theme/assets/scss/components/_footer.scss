@@ -1,5 +1,5 @@
 .footer {
-  background: $secondary;
+  background: darken($secondary, 15%);
   padding-top: 20px;
   padding-bottom: 20px;
   .footer-inner {
@@ -33,8 +33,8 @@
       display: block;
       margin-right: 10px;
       color: lighten($secondary, 50%);
-      font-size: 0.9rem;
-      line-height: 1.8;
+      font-size: 0.8rem;
+      line-height: 1.6;
       &:last-of-type {
         margin-right: 0;
       }
@@ -46,7 +46,17 @@
         }
       }
       &.copyright {
-        font-weight: bold;
+        font-weight: normal;
+        color: lighten($secondary, 50%);
+        display: inline-block;
+        @include media-breakpoint-up(md) {
+          display: inline-block;
+        }
+      }
+      &.text {
+        font-weight: lighter;
+        font-size: 0.8rem;
+        line-height: 1.2;
         color: lighten($secondary, 50%);
         display: inline-block;
         @include media-breakpoint-up(md) {

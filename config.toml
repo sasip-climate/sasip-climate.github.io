@@ -37,31 +37,32 @@ theme = "hugo-hero-theme"
   # Main Menu
 
   [[menu.main]]
-      name = "About"
-      url = "/pages/about"
-      weight = 3
-
-  [[menu.main]]
-      name = "Jobs"
-      url = "/jobs"
-      weight = 6
-
-  [[menu.main]]
       name = "News"
       url = "/news"
       weight = 1
 
   [[menu.main]]
-      name = "Webinars"
-      url = "/categories/webinars"
+      name = "About"
+      url = "/pages/about"
       weight = 2
 
   [[menu.main]]
       name = "Team"
       url = "/team/"
-      weight = 4
+      weight = 3
 
   [[menu.main]]
       name = "Research"
       url = "/research"
+      weight = 4
+
+
+  [[menu.main]]
+      name = "Code & Data"
+      url = "/code"
       weight = 5
+
+  [[menu.main]]
+      name = "Jobs"
+      url = "/jobs"
+      weight = 6

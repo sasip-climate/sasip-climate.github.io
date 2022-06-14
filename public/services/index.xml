@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Research on SASIP</title>
+    <link>https://sasip-climate.github.io/services/</link>
+    <description>Recent content in Research on SASIP</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 10 Feb 2018 11:52:18 +0700</lastBuildDate><atom:link href="https://sasip-climate.github.io/services/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://sasip-climate.github.io/services/theme1/</link>
+      <pubDate>Wed, 28 Nov 2018 15:15:34 +1000</pubDate>
+      
+      <guid>https://sasip-climate.github.io/services/theme1/</guid>
+      <description>Modelling sea-ice and its multi-scale dynamics.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://sasip-climate.github.io/services/theme2/</link>
+      <pubDate>Wed, 28 Nov 2018 15:15:34 +1000</pubDate>
+      
+      <guid>https://sasip-climate.github.io/services/theme2/</guid>
+      <description>Learning about the interplay between sea ice and upper ocean dynamics.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://sasip-climate.github.io/services/theme3/</link>
+      <pubDate>Wed, 28 Nov 2018 15:15:26 +1000</pubDate>
+      
+      <guid>https://sasip-climate.github.io/services/theme3/</guid>
+      <description>Improving existing climate models and climate projections with better sea ice representation.</description>
+    </item>
+    
+  </channel>
+</rss>
