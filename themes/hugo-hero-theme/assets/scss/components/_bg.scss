@@ -22,3 +22,11 @@
 .bg-secondary {
   background-color: $secondary;
 }
+
+.bg-test {
+  background-blend-mode: soft-light;
+}
+
+.bg-test2 {
+  background-blend-mode: multiply;
+}

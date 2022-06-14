@@ -1,0 +1,75 @@
+{{ define "title" }}{{ .Site.Title }}{{ end}}
+{{ define "header_css" }}{{ end }}
+{{ define "body_classes" }}page-home{{ end }}
+{{ define "header_classes" }}header-transparent{{ end }}
+
+{{ define "meta_tags" }}
+<meta name="description" content="{{ .Site.Params.homepage_meta_tags.meta_description }}" />
+<meta property="og:title" content="{{ .Site.Params.homepage_meta_tags.meta_og_title }}" />
+<meta property="og:type" content="{{ .Site.Params.homepage_meta_tags.meta_og_type }}" />
+<meta property="og:url" content="{{ .Site.Params.homepage_meta_tags.meta_og_url }}" />
+<meta property="og:image" content="{{ .Site.Params.homepage_meta_tags.meta_og_image }}" />
+<meta property="og:description" content="{{ .Site.Params.homepage_meta_tags.meta_og_description }}" />
+<meta name="twitter:card" content="{{ .Site.Params.homepage_meta_tags.meta_twitter_card }}" />
+<meta name="twitter:site" content="{{ .Site.Params.homepage_meta_tags.meta_twitter_site }}" />
+<meta name="twitter:creator" content="{{ .Site.Params.homepage_meta_tags.meta_twitter_creator }}" />
+{{ end }}
+
+{{ define "main" }}
+
+{{ partial "hero-image-fullscreen.html" (dict "background" .Params.heroBackground "heading" .Params.heroHeading "subheading" .Params.heroSubHeading "content" .)}}
+
+{{ $headless := .Site.GetPage "/homepage" }}
+{{ $reusablePages := $headless.Resources.ByType "page" }}
+{{ $reusablePages := sort $reusablePages ".Params.weight" }}
+
+<div id="home" class="strip bg-cover bg-position-top bg-overlay" style='background-image: url("{{ .Params.background | relURL }}");'>
+  <div class="container pt-8 pb-8 pb-md-12 pt-md-12">
+    <div class="row justify-content-center">
+      <div class="col-12 col-md-8 text-center">
+        <h2>SASIP news</h2>
+        <a class="button button-primary" href="{{ .Site.BaseURL }}news">Click here !</a>
+      </div>
+    </div>
+  </div>
+</div>
+
+{{ $services := where (where .Site.RegularPages "Type" "services") ".Params.featured" true }}
+{{if gt (len $services) 0}}
+<div class="bg-primary bg-cover bg-position-top bg-overlay">
+  <div class="container pt-8 pb-8 pb-md-14 pt-md-14">
+    <div class="row justify-content-start">
+      <div class="col-12 text-white">
+        <h2 class="text-center mb-3">Our Research</h2>
+      </div>
+      {{ range first 6 (sort $services ".Params.weight") }}
+      <div class="col-12 col-md-4 mb-1 text-white">
+        {{ .Render "summary" }}
+      </div>
+      {{ end }}
+      <div class="col-12 text-center">
+        <a class="button button-white" href="{{ .Site.BaseURL }}research">More about our research</a>
+      </div>
+    </div>
+  </div>
+</div>
+{{end}}
+
+
+
+<div id="home" class="strip bg-cover bg-position-top bg-overlay" style='background-image: url("{{ .Params.background | relURL }}");'>
+  <div class="container pt-8 pb-8 pb-md-12 pt-md-12">
+    <div class="row justify-content-center">
+      <div class="col-12 col-md-8 text-center">
+        <h2>Our Team</h2>
+        <p>We are an international team of passionate researchers and engineers with expertise in polar sciences and applied mathematics. We like to focus on sea ice physics, physical oceanography, and climate modelling.
+</p>
+        <a class="button" href="{{ .Site.BaseURL }}team">Meet the team</a>
+      </div>
+    </div>
+  </div>
+</div>
+{{ end }}
+
+{{ define "footer_js" }}
+{{ end }}

@@ -2,20 +2,24 @@
 title: "WP3 Ice–Ocean Interactions"
 draft: false
 featured: true
+icon: 'images/wp/sasip-logo-icon.png'
 weight: 3
-heroSubHeading: 'ICE–OCEAN INTERACTIONS'
+heroSubHeading: 'WP3 - Ice–Ocean InteractionsS'
 ---
 
 
-Across a single sea ice floe just a few meters wide, upper ocean exchanges of heat, momentum, and freshwater can vary by two orders of magnitude. Ocean surface waves flex and fragment sea ice altering its geometry, driving ocean mixing and sea ice melting. These effects, and their important impact on sea ice and ocean variability, are forced by variations in sea ice geometry much smaller than a continuum climate model grid scale.
+Across a single sea ice floe just a few meters wide, upper ocean exchanges of heat, momentum, and freshwater can vary by two orders of magnitude. 
+
+Ocean surface waves flex and fragment sea ice altering its geometry, driving ocean mixing and sea ice melting. These effects, and their important impact on sea ice and ocean variability, are forced by variations in sea ice geometry much smaller than a continuum climate model grid scale.
 
 Work Package 3 will connect sea ice model developments to the ocean underneath - using discrete element and continuum model simulations to drive an understanding of the interaction between sub-grid-scale sea ice geometry and ocean stratification, waves, eddies, and turbulence. We divide our work into three parts:
 
- - Developing new coupled discrete-element and continuum model configurations for evaluating wave-floe-eddy interactions.
- - Extending wave-driven turbulence parameterizations to regions covered by fragmented sea ice.
- - Developing parameterizations of mixed-layer eddies that relate to the sub-grid-scale floe size distribution.
+ 1. Developing new coupled discrete-element and continuum model configurations for evaluating wave-floe-eddy interactions.
+ 2. Extending wave-driven turbulence parameterizations to regions covered by fragmented sea ice.
+ 3. Developing parameterizations of mixed-layer eddies that relate to the sub-grid-scale floe size distribution.
 
-People involved in WP3:
+---
+#### People involved in WP3:
 
  - Christopher Horvat (christopher_horvat(at)brown.edu)
  - Baylor Fox-Kemper (baylor(at)brown.edu)

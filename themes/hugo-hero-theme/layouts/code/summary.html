@@ -1,0 +1,13 @@
+<div class="service service-summary">
+  {{ if .Params.icon }}
+  <div class="service-image">
+    <img src="{{ .Site.BaseURL }}{{ .Params.icon }}"/>
+  </div>
+  {{ end }}
+  <div class="service-content">
+    <h2 class="service-title">
+      {{ .Title }}
+    </h2>
+    {{ .Content | truncate 200 "..." }}
+  </div>
+</div>

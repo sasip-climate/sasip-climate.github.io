@@ -1,7 +1,6 @@
 ---
-title: 'News'
-heroHeading: 'News'
-heroSubHeading: "The SASIP News"
+title: 'SASIP news'
+heroHeading: 'SASIP news'
 heroBackground: '/images/ice-bandeau.png'
 summary_type: "summary-row"
 hero:
