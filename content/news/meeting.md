@@ -9,5 +9,4 @@ image: ''
 ---
 
 
-![pic](images/news/SASIP_Meeting_2022_Agenda_V1.png)
-
+<img src="[https://i.goopics.net/kn9pe.jpg](https://github.com/sasip-climate/sasip-climate.github.io/blob/master/static/images/news/SASIP_Meeting_2022_Agenda_V1.png)" />
