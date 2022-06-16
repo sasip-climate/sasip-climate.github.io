@@ -11,5 +11,3 @@ image: ''
 
 ![pic](images/news/SASIP_Meeting_2022_Agenda_V1.png)
 
-Click [here](https://cloud.univ-grenoble-alpes.fr/s/dL3ngaSp7XqQzaJ) for more informations on the agenda and [here](https://cloud.univ-grenoble-alpes.fr/s/pTEQwMdXBs2FFRc) for practical details.
-
