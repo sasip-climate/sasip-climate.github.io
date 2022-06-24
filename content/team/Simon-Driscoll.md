@@ -11,4 +11,4 @@ weight: 17
 
 University of Reading, UK
 
-*Data assimilation, Data assimilation, Parametrisation*
+*Data assimilation, Parameterisation*
