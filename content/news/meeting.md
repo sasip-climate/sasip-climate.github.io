@@ -1,9 +1,9 @@
 ---
-title: 'In-person SASIP meeting'
+title: '2022 Annual SASIP meeting!'
 date: 2022-06-16
 authors:
 categories: ['Meetings']
-description: The SASIP comittee is pleased to welcome all participants for the first in-person meeting next week in Grenoble.
+description: The SASIP comittee is pleased to welcome all participants to the 2022 annual meeting next week in Grenoble, France.
 thumbnail: 'images/news/meeting.png'
 image: ''
 ---
