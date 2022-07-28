@@ -6,6 +6,7 @@ categories: ['Webinars']
 description: Ivo Passmans talked about ensemble 4DVar to Galerkin data assimilation
 thumbnail: 'images/news/SASIP-webinar7-thumb.png'
 image: 'images/news/SASIP webinar 7.png'
+heroBackground: '/images/ice-bandeau.png'
 ---
 Our SASIP Webinar #7 with Ivo Passmans on 'From ensemble 4DVar to Galerkin data assimilation' took place on Wednesday 23 February at 3pm CEST.
 

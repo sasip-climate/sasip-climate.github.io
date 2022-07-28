@@ -6,6 +6,7 @@ categories: ['Webinars']
 description: Tobias Finn talks about the link between Gaussian process regression and ensemble data assimilation
 thumbnail: 'images/news/TobiasWebinar4thumb.png'
 image: 'images/news/TobiasWebinar4.png'
+heroBackground: '/images/ice-bandeau.png'
 ---
 Our SASIP Webinar #4 with Tobias Finn on 'Making the explicit link between Gaussian process regression and ensemble data assimilation' took place on Wednesday 24 November at 3pm CEST.
 

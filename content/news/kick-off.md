@@ -5,6 +5,7 @@ authors:
 categories: ['Meetings']
 description:
 thumbnail: 'images/news/kick-off-thumbnail.png'
+heroBackground: '/images/ice-bandeau.png'
 image: ''
 ---
 

@@ -6,6 +6,9 @@ categories: ['Webinars']
 description: Christopher Horvat talks about Observing and Modelling the Marginal Ice Zone
 thumbnail: 'images/news/SASIP-Webinar-2-thumb.jpg'
 image: 'images/webinars/webinars2.png'
+heroBackground: '/images/ice-bandeau.png'
 ---
+
+Christopher Horvat talked about Observing and Modelling the Marginal Ice Zone:
 
 The recording of the presentation is available here : https://www.youtube.com/watch?v=z8YAugYNNKU and the presentation's slides are available here : https://www.dropbox.com/s/8dnypn9byzdfn2g/SASIP-MIZ.pptx?dl=0

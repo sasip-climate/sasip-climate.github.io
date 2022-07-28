@@ -6,6 +6,7 @@ categories: ['Webinars']
 description: Polly Smith talks about Data Assimilation for State and Parameter Estimation
 thumbnail: 'images/news/Webinar3Polly-thumb.png'
 image: 'images/news/Webinar3Polly.png'
+heroBackground: '/images/ice-bandeau.png'
 ---
 Our SASIP Webinar #3 with Polly Smith on 'Data Assimilation for State and Parameter Estimation' took place on Wednesday 27 October at 3pm CEST.
 

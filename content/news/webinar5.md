@@ -6,6 +6,7 @@ categories: ['Webinars']
 description: Jean-Pierre Auclair talked about studying sea ice dynamics and wave-ice interactions in the marginal ice zone
 thumbnail: 'images/news/JeanPierreWebinar5thumb.png'
 image: 'images/news/JeanPierreWebinar5.png'
+heroBackground: '/images/ice-bandeau.png'
 ---
 Our SASIP Webinar #5 with Jean-Pierre Auclair on 'Studying sea ice dynamics and wave-ice interactions in the marginal ice zone' took place on Thursday 16 December at 3pm CEST.
 
