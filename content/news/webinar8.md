@@ -8,6 +8,7 @@ thumbnail: 'images/webinars/SASIP-webinar8-thumb.png'
 image: 'images/news/SASIP_webinar_8.png'
 heroBackground: '/images/ice-bandeau.png'
 ---
-Save the date for our SASIP Webinar #8 with Julien Brajard on 'Super resolution of sea ice thickness' that will take place on November the 2nd at 2pm CEST.
 
-You will be able to join at : https://univ-grenoble-alpes-fr.zoom.us/j/93329600098?pwd=YmQzcWU2U01ESm9vS0R2V2tXQlpKZz09 
+Our SASIP Webinar #8 with Julien Brajard on 'Super resolution of sea ice thickness' took place on November the 2nd at 2pm CEST.
+
+Check the recording here : https://www.youtube.com/watch?v=FqspK9azcCc&list=PLvzG0ke9xnX6gF2OXd6hvdAuapvv7XvOM&index=9
