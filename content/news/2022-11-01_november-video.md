@@ -3,12 +3,12 @@ title: 'Video of the month'
 date: 2022-11-01
 authors:
 categories: ['Vizualisation']
-description: 'Sea ice numerical simulation with the NEMO-neXtSIM coupled ocean/sea-ice model by L Brodeau and S Leroux @Datlas, Grenoble.'
+description: 'Sea ice numerical simulation with the NEMO-neXtSIM coupled ocean/sea-ice model by L. Brodeau (CNRS & Datlas) and S. Leroux (Datlas), in Grenoble.'
 thumbnail: 'images/news/screenshot_dam_vimeo2.png'
 heroBackground: '/images/ice-bandeau.png'
 ---
 
-This month we publish two videos  made for illustrative purposes in  WP0, provided by Laurent Brodeau and Stephanie Leroux @[Datlas](www.datlas.fr), Grenoble.
+This month we publish two videos  made for illustrative purposes in  WP0, provided by Laurent Brodeau (@CNRS @[Datlas](www.datlas.fr), and Stephanie Leroux @[Datlas](www.datlas.fr), Grenoble.
 
 
 
