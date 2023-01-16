@@ -8,7 +8,7 @@ thumbnail: 'images/news/screenshot_dam_vimeo2.png'
 heroBackground: '/images/ice-bandeau.png'
 ---
 
-This month we publish two videos  made for illustrative purposes in  WP0, provided by Laurent Brodeau (CNRS & [Datlas](https://www.datlas.fr)), and Stephanie Leroux ([Datlas](https://www.datlas.fr)), Grenoble.
+This month we publish two videos  made for illustrative purposes in  SASIP-WP0, provided by Laurent Brodeau (CNRS & [Datlas](https://www.datlas.fr)), and Stephanie Leroux ([Datlas](https://www.datlas.fr)), Grenoble.
 
 
 
