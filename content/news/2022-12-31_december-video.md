@@ -8,7 +8,7 @@ thumbnail: 'images/news/2023-01-01_Screenshot-video-of-the-month_JPAuclair.png'
 heroBackground: '/images/ice-bandeau.png'
 ---
 
-This month we publish a video from work in progress in WP2, provided by Jean-Pierre Auclair @ISTERRE, Grenoble.
+This month we publish a video from work in progress in SASIP-WP2, provided by Jean-Pierre Auclair @ISTERRE, Grenoble.
 
 
 {{< youtube x-ABgQHJ_7I  >}}
