@@ -1,7 +1,7 @@
 ---
-title: 'Contact us to hear about the latest job opportunities'
+title: 'Contact us for more job opportunities'
 draft: false
-weight: 1
+weight: 3
 heroHeading: ''
 heroSubHeading: ''
 heroBackground: ''
@@ -9,3 +9,4 @@ thumbnail: ''
 images: ['https://github.com/sasip-climate/sasip-climate.github.io/blob/master/static/images/ice.jpg']
 ---
 
+You can reach out to office(at)sasip-climate.com
