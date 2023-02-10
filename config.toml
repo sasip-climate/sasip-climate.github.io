@@ -56,13 +56,17 @@ theme = "hugo-hero-theme"
       url = "/research"
       weight = 4
 
-
   [[menu.main]]
       name = "Code & Data"
       url = "/code"
       weight = 5
 
   [[menu.main]]
+      name = "Publications"
+      url = "/pages/publications"
+      weight = 6
+
+  [[menu.main]]
       name = "Jobs"
       url = "/jobs"
-      weight = 6
+      weight = 7

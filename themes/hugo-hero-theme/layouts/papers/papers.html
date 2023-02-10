@@ -1,0 +1,25 @@
+{{ define "header_css" }}{{ end }}
+{{ define "body_classes" }}page-pages-aboutlayout{{ end }}
+{{ define "header_classes" }}{{ end }}
+
+{{ define "main" }}
+{{ partial "hero-image-setheight.html" (dict "background" .Params.heroBackground "heading" .Params.heroHeading "subheading" .Params.heroSubHeading "content" .)}}
+
+{{ $headless := .Site.GetPage "/pages/test" }}
+
+{{ $classes := slice "" }}
+{{ $styles := slice "" }}
+
+{{ if .Params.align }}
+    {{ if eq .Params.align "left" }}{{ $classes = $classes | append "info-left" }}{{ end }}
+    {{ if eq .Params.align "center" }}{{ $classes = $classes | append "info-center" }}{{ end }}
+    {{ if eq .Params.align "right" }}{{ $classes = $classes | append "info-right" }}{{ end }}
+{{ end }}
+
+
+        <div class="row">
+            <div class="col-12">
+   {{ .Content }}
+  </div>
+</div>
+{{ end }}
