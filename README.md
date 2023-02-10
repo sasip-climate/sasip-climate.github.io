@@ -44,6 +44,8 @@ This method only allows you to update one page at a time.
 - If you want to add a job position (https://sasip-climate.github.io/jobs/) :
   - create a md file that will look like https://github.com/sasip-climate/sasip-climate.github.io/blob/master/content/jobs/ponts.md, it will be added automatically to the list
 
+- If you want to add a new paper in our "Publications" list related to the project, just edit the markdown file here: https://github.com/sasip-climate/sasip-climate.github.io/blob/master/content/pages/publications/index.md
+
 After every modifications, have a look at https://github.com/sasip-climate/sasip-climate.github.io/actions to see if the workflow is complete (some extra time is needed for the modifications to appear on the website), we want a green light !
 
 
