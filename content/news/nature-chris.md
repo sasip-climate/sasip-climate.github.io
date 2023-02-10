@@ -1,9 +1,9 @@
 ---
-title: 'New SASIP-related paper'
+title: 'New paper: Horvat et al (2022)'
 date: 2021-04-20
 authors:
 categories: ['Publications']
-description: 'Chris Horvat from WP3 publishes a SASIP-related paper in Nature Communications.'
+description: 'Marginal ice zone fraction benchmarks sea ice and climate model skill (Nature Communications).'
 thumbnail: 'images/news/fig3-thumbnail.jpg'
 heroBackground: '/images/ice-bandeau.png'
 image: 'images/news/fig3.jpg'

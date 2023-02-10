@@ -1,9 +1,9 @@
 ---
-title: 'New SASIP-related paper'
+title: 'New paper: Dansereau et al (2022)'
 date: 2021-06-10
 authors:
 categories: ['Publications']
-description: 'Veronique Dansereau et al. from WP2 publishes a SASIP-related paper.'
+description: 'A Continuum Viscous-Elastic-Brittle, Finite Element DG Model for the Fracture and Drift of Sea Ice'
 thumbnail: 'images/news/fig-papier-vero-thumbnail.jpg'
 image: 'images/news/figures-papier-vero.jpeg'
 heroBackground: '/images/ice-bandeau.png'
