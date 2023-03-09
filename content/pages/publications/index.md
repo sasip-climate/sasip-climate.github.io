@@ -8,6 +8,9 @@ heroBackground: '/images/ice-bandeau.png'
 
 # 2023  
 
+- _Richter, Dansereauau,  Lessig, Minakowski_: [**_The neXtSIM-DG dynamical core: A Framework for Higher-order
+Finite Element Sea Ice Modeling_**](https://doi.org/10.5194/egusphere-2023-391), _under review in EGUsphere_. 
+
 - _Ayers, Lau,  Amezcua,  Carrassi, Ojha_: [**_Supervised machine learning to estimate instabilities in chaotic systems: estimation of local Lyapunov exponents_**](https://arxiv.org/abs/2202.04944), _under review in QJRMS_. 
 
 - _Boutin, Ólason,  Rampal, Regan, Lique, Talandier, Brodeau,  Ricker._ [**_Arctic Sea Ice Mass Balance in a New Coupled Ice–Ocean Model Using a Brittle Rheology Framework._**](https://doi.org/10.5194/tc-17-617-2023) The Cryosphere 17 (February): 617–638.
