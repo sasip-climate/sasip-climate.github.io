@@ -4,8 +4,8 @@ date: 2023-02-28
 authors:
 categories: ['Webinars']
 description: Sukun Cheng will talk about Arctic sea ice data assimilation
-thumbnail: ''
-image: ''
+thumbnail: 'images/news/picture-webinar.png'
+image: 'images/news/picture-webinar.png'
 heroBackground: '/images/ice-bandeau.png'
 ---
 
