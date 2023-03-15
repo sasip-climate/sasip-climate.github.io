@@ -1,5 +1,5 @@
 ---
-title: 'SASIP Job Offer'
+title: 'SASIP Job Offer in Grenoble, FR'
 draft: false
 weight: 1
 heroHeading: ''
