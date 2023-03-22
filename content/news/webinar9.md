@@ -3,14 +3,16 @@ title: 'SASIP Webinar #9 - Sukun Cheng - March 22nd 11am'
 date: 2023-02-28
 authors:
 categories: ['Webinars']
-description: Sukun Cheng will talk about Arctic sea ice data assimilation
-thumbnail: 'images/news/picture-webinar.png'
-image: 'images/news/picture-webinar.png'
+description: Sukun Cheng talked about Arctic sea ice data assimilation
+thumbnail: 'images/news/webinar9.png'
+image: 'images/news/webinar9.png'
 heroBackground: '/images/ice-bandeau.png'
 ---
 
 
-Our SASIP Webinar #9 with Sukun Cheng on the 'Arctic sea ice data assimilation combining ensemble Kalman filter with a novel Lagrangian sea ice model for the winter 2019-2020' will take place on March the 22nd at 11am
+Our SASIP Webinar #9 with Sukun Cheng on the 'Arctic sea ice data assimilation combining ensemble Kalman filter with a novel Lagrangian sea ice model for the winter 2019-2020' took place on March the 22nd at 11am
+
+{{< youtube v=Mx8oSa1fBsM >}}
 
 Abstract :
 
