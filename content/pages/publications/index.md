@@ -6,18 +6,20 @@ heroSubHeading: "related to the SASIP project"
 heroBackground: '/images/ice-bandeau.png'
 ---
 
-# 2023  
+# 2023
 
-- _Richter, Dansereauau,  Lessig, Minakowski_: [**_The neXtSIM-DG dynamical core: A Framework for Higher-order
+- _Cheng, Quilodran-Casas, Ouala, Farchi, Liu, Tandeo, Fablet, Lucor, Iooss, Brajard, Xiao, Janjic, Ding, Guo, Carrassi, Bocquet, Arcucci_: [**_Machine learning with data assimilation and uncertainty quantification for dynamical systems: a review_**](https://arxiv.org/abs/2303.10462), _accepted for publication on the IEEE/CAA Journal of Automatica Sinica_
+
+- _Richter, Dansereau,  Lessig, Minakowski_: [**_The neXtSIM-DG dynamical core: A Framework for Higher-order
 Finite Element Sea Ice Modeling_**](https://doi.org/10.5194/egusphere-2023-391), _under review in EGUsphere_. 
 
-- _Ayers, Lau,  Amezcua,  Carrassi, Ojha_: [**_Supervised machine learning to estimate instabilities in chaotic systems: estimation of local Lyapunov exponents_**](https://arxiv.org/abs/2202.04944), _under review in QJRMS_. 
+- _Ayers, Lau,  Amezcua,  Carrassi, Ojha_: [**_Supervised machine learning to estimate instabilities in chaotic systems: estimation of local Lyapunov exponents_**](https://arxiv.org/abs/2202.04944), _accepted for publication in Quarterly Journal of the Royal Meteorological Society _. 
 
 - _Boutin, Ólason,  Rampal, Regan, Lique, Talandier, Brodeau,  Ricker._ [**_Arctic Sea Ice Mass Balance in a New Coupled Ice–Ocean Model Using a Brittle Rheology Framework._**](https://doi.org/10.5194/tc-17-617-2023) The Cryosphere 17 (February): 617–638.
 
 - _Finn,  Durand,  Farchi,  Bocquet,  Chen,  Carrassi, Dansereau_: [**_Deep learning of subgrid-scale parametrisations for short-term forecasting of sea-ice dynamics with a Maxwell-Elasto-Brittle rheology._**](https://doi.org/10.5194/egusphere-2022-1342), EGUsphere.
 
-- _Cheng,  Chen, Aydoğdu,  Bertino, Carrassi, Rampal, Jones_: [**_Novel Arctic sea ice data assimilation combining ensemble Kalman filter with a Lagrangian sea ice model_**](https://doi.org/10.5194/egusphere-2022-627), EGUsphere.
+- _Cheng,  Chen, Aydoğdu,  Bertino, Carrassi, Rampal, Jones_: [**_Novel Arctic sea ice data assimilation combining ensemble Kalman filter with a Lagrangian sea ice model_**](https://doi.org/10.5194/egusphere-2022-627), published in EGUsphere.
 
 ---
 # 2022
