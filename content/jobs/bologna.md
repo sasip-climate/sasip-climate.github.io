@@ -1,7 +1,7 @@
 ---
 title: 'SASIP related Job Offer'
 draft: false
-weight: 4
+weight: 6
 heroHeading: ''
 heroSubHeading: 'University of Bologna, IT'
 heroBackground: ''

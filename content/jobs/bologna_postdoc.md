@@ -1,7 +1,7 @@
 ---
 title: 'SASIP Post-Doc Offer in Bologna, IT'
 draft: false
-weight: 2
+weight: 4
 heroHeading: ''
 heroSubHeading: 'University of Bologna, IT'
 heroBackground: ''

@@ -17,9 +17,8 @@ The researcher/post-doctoral fellow will work in the Multi-scalE Ocean Modeling 
 
 More information and the application link can be found [here](https://emploi.cnrs.fr/Offres/CDD/UMR5001-ALEVIA-004/Default.aspx?lang=EN)
 
-Deadline: 22 February 2023
 
-Start date: April 2023
+Start date: as soon as possible
 
 Contact: pierre.rampal(at)univ-grenoble-alpes.fr 
 
