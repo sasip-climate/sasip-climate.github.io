@@ -15,7 +15,7 @@ Within SASIP project, the successful candidate will focus particularly on formul
 
 The researcher/post-doctoral fellow will a work in a group specialized in the mechanics of continuous media and of sea ice in particular, including engineers, PhD students and postdoctoral fellows. He will be mainly supervised by Véronique Dansereau and will be based at ISTerre (Grenoble) but will actively interact with Stéphane Labbé at Sorbonne University (Paris) and with the large-scale sea ice modeling team at the Nansen Environmental and Remote Sensing Center (Bergen, Norway).
 
-More information and the application link can be found [here](https://emploi.cnrs.fr/Offres/CDD/UMR5275-VERDAN-003/Default.aspx?lang=EN)
+More information and the application link can be found [here](https://emploi.cnrs.fr/Offres/CDD/UMR5275-VERDAN-002/Default.aspx?lang=EN)
 
 Deadline: April, 14 2023
 
