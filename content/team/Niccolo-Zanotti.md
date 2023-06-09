@@ -11,4 +11,4 @@ weight: 43
 
 University of Bologna, Italy
 
-* Sea-ice dynamics, Numerical simulations, Discontinuous Galerkin method*
+*Sea-ice dynamics, Numerical simulations, Discontinuous Galerkin method*
