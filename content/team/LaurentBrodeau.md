@@ -5,7 +5,7 @@ draft: false
 image: "images/team/LaurentBrodeau.jpg"
 jobtitle: "Research Scientist - WP1,2"
 promoted: true
-weight: 9
+weight: 16
 ---
 
 
