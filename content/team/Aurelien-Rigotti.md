@@ -3,7 +3,7 @@ title: "Aurélien Rigotti"
 date: 2018-11-19T10:47:58+10:00
 draft: false
 image: "images/team/aurelien.png"
-jobtitle: "PHD - WP2"
+jobtitle: "PHD student - WP2"
 promoted: true
 Website:
 weight: 30
