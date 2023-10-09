@@ -31,3 +31,5 @@ Finite Element Sea Ice Modeling_**](https://doi.org/10.5194/egusphere-2023-391),
 # 2021
 
 - _Boutin, Williams, Horvat, Brodeau._ [**_Modelling the Arctic Wave-Affected Marginal Ice Zone: A Comparison with ICESat-2 Observations._**](https://doi.org/10.1098/rsta.2021.0262) Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences 380 (September).
+
+- _Olason, Rampal, Dansereau._ [**_On the statistical properties of sea-ice lead fraction and heat fluxes in the Arctic._**](https://doi.org/10.5194/tc-15-1053-2021) The Cryosphere, 15, 1053–1064.
