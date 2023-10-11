@@ -13,11 +13,11 @@ heroBackground: '/images/ice-bandeau.png'
 - _Richter, Dansereau,  Lessig, Minakowski_: [**_The neXtSIM-DG dynamical core: A Framework for Higher-order
 Finite Element Sea Ice Modeling_**](https://doi.org/10.5194/egusphere-2023-391), _under review in EGUsphere_. 
 
-- _Ayers, Lau,  Amezcua,  Carrassi, Ojha_: [**_Supervised machine learning to estimate instabilities in chaotic systems: estimation of local Lyapunov exponents_**](https://arxiv.org/abs/2202.04944), _accepted for publication in Quarterly Journal of the Royal Meteorological Society _.
+- _Ayers, Lau,  Amezcua,  Carrassi, Ojha_: [**_Supervised machine learning to estimate instabilities in chaotic systems: estimation of local Lyapunov exponents_**](https://arxiv.org/abs/2202.04944), _accepted for publication in Quarterly Journal of the Royal Meteorological Society_.
 
-- _Eric Maisonnave_: [**_NEMO/neXtSIM-DG preliminary coupling interface _**](https://cerfacs.fr/wp-content/uploads/2023/05/nemo_nxts_cpl_WN_CMGC_23_58.pdf), _Working Note, WN/CMGC/23/58, CECI, UMR CERFACS/CNRS No5318, France _.
+- _Maisonnave, E._: [**_NEMO/neXtSIM-DG preliminary coupling interface _**](https://cerfacs.fr/wp-content/uploads/2023/05/nemo_nxts_cpl_WN_CMGC_23_58.pdf), _Working Note, WN/CMGC/23/58, CECI, UMR CERFACS/CNRS No5318, France_.
 
-- _Boutin, Ólason,  Rampal, Regan, Lique, Talandier, Brodeau,  Ricker._ [**_Arctic Sea Ice Mass Balance in a New Coupled Ice–Ocean Model Using a Brittle Rheology Framework._**](https://doi.org/10.5194/tc-17-617-2023) _The Cryosphere 17 (February): 617–638 _.
+- _Boutin, Ólason,  Rampal, Regan, Lique, Talandier, Brodeau,  Ricker._ [**_Arctic Sea Ice Mass Balance in a New Coupled Ice–Ocean Model Using a Brittle Rheology Framework._**](https://doi.org/10.5194/tc-17-617-2023) _The Cryosphere 17 (February): 617–638_.
 
 - _Finn,  Durand,  Farchi,  Bocquet,  Chen,  Carrassi, Dansereau_: [**_Deep learning of subgrid-scale parametrisations for short-term forecasting of sea-ice dynamics with a Maxwell-Elasto-Brittle rheology._**](https://doi.org/10.5194/egusphere-2022-1342), EGUsphere.
 
