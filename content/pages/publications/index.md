@@ -26,6 +26,8 @@ Finite Element Sea Ice Modeling_**](https://doi.org/10.5194/egusphere-2023-391),
 
 - _Ólason, Boutin, Korosov, Rampal, Williams, Kimmritz, Dansereau, Samaké:_ [**_A New Brittle Rheology and Numerical Framework for Large-Scale Sea-Ice Models._**]( https://doi.org/10.1029/2021MS002685) Journal of Advances in Modeling Earth Systems, 2022, 14.
 
+- _Serripierri, Moreau, Boué, Weiss, Roux:_ [**_Recovering and monitoring the thickness, density and elastic properties of sea ice from seismic noise recorded in Svalbard._**](https://doi.org/10.5194/tc-16-2527-2022) The Cryosphere, 16, 2527–2543, 2022.
+
 
 ---
 # 2021
@@ -33,3 +35,6 @@ Finite Element Sea Ice Modeling_**](https://doi.org/10.5194/egusphere-2023-391),
 - _Boutin, Williams, Horvat, Brodeau._ [**_Modelling the Arctic Wave-Affected Marginal Ice Zone: A Comparison with ICESat-2 Observations._**](https://doi.org/10.1098/rsta.2021.0262) Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences 380 (September).
 
 - _Olason, Rampal, Dansereau._ [**_On the statistical properties of sea-ice lead fraction and heat fluxes in the Arctic._**](https://doi.org/10.5194/tc-15-1053-2021) The Cryosphere, 15, 1053–1064.
+
+- _Boutin, Williams, Rampal, Olason, Lique._ [**_Wave–sea-ice interactions in a brittle rheological framework._**](https://doi.org/10.5194/tc-15-431-2021) The Cryosphere, 15, 431–457.
+
