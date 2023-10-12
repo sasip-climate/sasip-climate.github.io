@@ -4,7 +4,7 @@ date: 2023-10-03
 authors:
 categories: ['Meetings']
 description: The 2023 VESRI midterm review meeting took place in Grenoble (02-03 October 2023) and was the opportunity to focus on SASIP's progress. 
-thumbnail: 'images/news/SASIP2023_review-meeting-group-photo_1.png'
+thumbnail: '/images/news/SASIP2023_review-meeting-group-photo.jpg'
 heroBackground: '/images/ice-bandeau.png'
 ---
 
@@ -15,10 +15,6 @@ We were extremely pleased to welcome about 35 participants of 7 countries (Franc
 Thank you to all the participants for these ever more passionated science talks and discussions ! 
 
 Always a pleasure to see each other in person ! 
-
-The program of these 2 days can be found [**here**]
-
-
 
 ![meeting_pic](/images/news/SASIP2023_review-meeting-group-photo.jpg)
 _SASIP meeting participants, Oct. 02, 2023._
