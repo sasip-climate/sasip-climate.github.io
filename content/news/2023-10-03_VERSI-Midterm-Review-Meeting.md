@@ -4,7 +4,7 @@ date: 2023-10-03
 authors:
 categories: ['Meetings']
 description: The 2023 VESRI midterm review meeting took place in Grenoble (02-03 October 2023). After 2 years since the beginning of SASIP, it was time to gather with SASIP and Shmidt Futures team members for the midterm review meeting ! 
-thumbnail: 'static/images/news/SASIP2023_review-meeting-group-photo.jpg'
+thumbnail: 'images/news/SASIP2023_review-meeting-group-photo_1.png'
 heroBackground: '/images/ice-bandeau.png'
 ---
 
