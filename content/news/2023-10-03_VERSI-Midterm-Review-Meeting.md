@@ -16,7 +16,9 @@ Thank you to all the participants for these ever more passionated science talks 
 
 Always a pleasure to see each other in person ! 
 
-The program of these 2 days can be found [**here**](https://cloud.univ-grenoble-alpes.fr/s/iQ55MFAXFrY6AtN?dir=undefined&path=%2Fcloud%2Fmeetings%2Fvesri_midterm_review_2023&openfile=735251171)
+The program of these 2 days can be found [**here**]
+
+
 
 ![meeting_pic](/images/news/SASIP2023_review-meeting-group-photo.jpg)
 _SASIP meeting participants, Oct. 02, 2023._
