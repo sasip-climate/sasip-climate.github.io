@@ -11,4 +11,4 @@ weight: 2
 
 Centre National de la Recherche Scientifique, France
 
-*Project management, international solidarity, scientific cooperation *
+*Project management, solidarity, scientific cooperation*
