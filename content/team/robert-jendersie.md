@@ -11,4 +11,4 @@ weight: 47
 
 Otto-von-Guericke University of Magdeburg, Germany
 
-*High performance computing, Numerical methods, Machine*
+*High performance computing, Numerical methods, Machine learning*
