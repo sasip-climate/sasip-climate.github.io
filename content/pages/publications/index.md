@@ -25,7 +25,7 @@ Finite Element Sea Ice Modeling_**](https://doi.org/10.5194/egusphere-2023-391),
 
 - _Simon Driscoll, Alberto Carrassi, Julien Brajard, Laurent Bertino, Marc Bocquet, Einar Olason_: [**_Parameter sensitivity analysis of a sea ice melt pond parametrisation and its emulation using neural networks_**](https://arxiv.org/abs/2304.05407), 	arXiv:2304.05407, 2023.
 
-- _Ivo Pasmans, Yumeng Chen, Alberto Carrassi, Chris K.R.T. Jones_: [**_Tailoring data assimilation to discontinuous Galerkin models_**](https://doi.org/10.48550/arXiv.2305.02950), 	arXiv:2305.02950, 2022.
+- _Ivo Pasmans, Yumeng Chen, Alberto Carrassi, Chris K.R.T. Jones_: [**_Tailoring data assimilation to discontinuous Galerkin models_**](https://doi.org/10.48550/arXiv.2305.02950), 	arXiv:2305.02950, 2023.
 
 - _Durand, Finn, Farchi, Bocquet, andOlason_: [**_Data-driven surrogate modeling of high-resolution sea-ice thickness in the Arctic_**](https://doi.org/10.5194/egusphere-2023-1384), The Cryosphere, 17, 2965–2991, 2023. 
   
