@@ -16,7 +16,7 @@ heroBackground: '/images/ice-bandeau.png'
 
 - _Maisonnave, E._: [**_NEMO/neXtSIM-DG preliminary coupling interface _**](https://cerfacs.fr/wp-content/uploads/2023/05/nemo_nxts_cpl_WN_CMGC_23_58.pdf), _Working Note, WN/CMGC/23/58, CECI, UMR CERFACS/CNRS No5318, France_.
 
-- _Boutin, Ólason,  Rampal, Regan, Lique, Talandier, Brodeau,  Ricker._ [**_Arctic Sea Ice Mass Balance in a New Coupled Ice–Ocean Model Using a Brittle Rheology Framework._**](https://doi.org/10.5194/tc-17-617-2023) _The Cryosphere 17 (February): 617–638_.
+- _Boutin, Ólason,  Rampal, Regan, Lique, Talandier, Brodeau,  Ricker._ [**_Arctic Sea Ice Mass Balance in a New Coupled Ice–Ocean Model Using a Brittle Rheology Framework._**](https://doi.org/10.5194/tc-17-617-2023) _The Cryosphere, 17, 617–638, 2023
 
 - _Finn,  Durand,  Farchi,  Bocquet,  Chen,  Carrassi, Dansereau_: [**_Deep learning of subgrid-scale parametrisations for short-term forecasting of sea-ice dynamics with a Maxwell-Elasto-Brittle rheology._**](https://doi.org/10.5194/egusphere-2022-1342), EGUsphere.
 
