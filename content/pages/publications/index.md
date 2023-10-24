@@ -39,7 +39,7 @@ heroBackground: '/images/ice-bandeau.png'
 
  - _Boutin, Williams, Horvat, Brodeau:_ [**_Modelling the Arctic Wave-Affected Marginal Ice Zone: A Comparison with ICESat-2 Observations_**](https://doi.org/10.1098/rsta.2021.0262) Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences 380, 2022.
 
-- _- _Horvat:_ [**_Floes, the Marginal Ice Zone, and Coupled Wave-Sea-Ice Feedbacks._**](https://doi.org/10.1098/rsta.2021.0252) Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences 380, 2022.
+- _Horvat:_ [**_Floes, the Marginal Ice Zone, and Coupled Wave-Sea-Ice Feedbacks._**](https://doi.org/10.1098/rsta.2021.0252) Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences 380, 2022.
 
 - _Horvat, Seabrook, Cristi, Matthes, Bisson:_ [**_Evidence of phytoplankton Blooms Under Antarctic Sea Ice._**](https://doi.org/10.3389/fmars.2022.942799) Frontiers in Marine Science, November 17, 2022.
 
