@@ -18,7 +18,7 @@ heroBackground: '/images/ice-bandeau.png'
 
 - _Boutin, Ólason,  Rampal, Regan, Lique, Talandier, Brodeau,  Ricker._ [**_Arctic Sea Ice Mass Balance in a New Coupled Ice–Ocean Model Using a Brittle Rheology Framework._**](https://doi.org/10.5194/tc-17-617-2023) _The Cryosphere, 17, 617–638, 2023
 
-- _Finn,  Durand,  Farchi,  Bocquet,  Chen,  Carrassi, Dansereau_: [**_Deep learning of subgrid-scale parametrisations for short-term forecasting of sea-ice dynamics with a Maxwell-Elasto-Brittle rheology._**](https://doi.org/10.5194/egusphere-2022-1342), EGUsphere.
+- _Finn,  Durand,  Farchi,  Bocquet,  Chen,  Carrassi, Dansereau_: [**_Deep learning of subgrid-scale parametrisations for short-term forecasting of sea-ice dynamics with a Maxwell-Elasto-Brittle rheology._**](https://tc.copernicus.org/articles/17/2965/2023/), The Cryosphere, 17, 2965–2991, 2023
 
 - _Cheng,  Chen, Aydoğdu,  Bertino, Carrassi, Rampal, Jones_: [**_Novel Arctic sea ice data assimilation combining ensemble Kalman filter with a Lagrangian sea ice model_**](https://doi.org/10.5194/egusphere-2022-627), published in EGUsphere.
 
