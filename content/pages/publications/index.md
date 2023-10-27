@@ -8,7 +8,11 @@ heroBackground: '/images/ice-bandeau.png'
 
 # 2023
 
-- _Cheng, Quilodran-Casas, Ouala, Farchi, Liu, Tandeo, Fablet, Lucor, Iooss, Brajard, Xiao, Janjic, Ding, Guo, Carrassi, Bocquet, Arcucci_: [**_Machine learning with data assimilation and uncertainty quantification for dynamical systems: a review_**](https://arxiv.org/abs/2303.10462), _accepted for publication on the IEEE/CAA Journal of Automatica Sinica_
+- _Van Katwyk, Fox-Kemper, Seroussi, et al._: [**_A variational LSTM emulator of sea level contribution from the Antarctic ice sheet_**](10.22541/essoar.168874913.31606296/v1), _ESS Open Archive . July 07, 2023_.
+
+- _Chen, Smith, Carrassi, Pasmans, Bertino, Bocquet, Finn, Rampal, and Dansereau_: [**_Multivariate state and parameter estimation with data assimilation on sea-ice models using a Maxwell-Elasto-Brittle rheology_**](https://doi.org/10.5194/egusphere-2023-1809), _EGUsphere, 2023_.
+
+- _Cheng, Quilodran-Casas, Ouala, Farchi, Liu, Tandeo, Fablet, Lucor, Iooss, Brajard, Xiao, Janjic, Ding, Guo, Carrassi, Bocquet, Arcucci_: [**_Machine learning with data assimilation and uncertainty quantification for dynamical systems: a review_**](https://arxiv.org/abs/2303.10462), _accepted for publication on the IEEE/CAA Journal of Automatica Sinica_.
 
 - _Richter, Dansereau,  Lessig, Minakowski_: [**_A dynamical core based on a discontinuous Galerkin method for higher-order finite-element sea ice modeling_**](https://gmd.copernicus.org/articles/16/3907/2023/), _Geosci. Model Dev., 16, 3907–3926, 2023_. 
 
@@ -16,9 +20,9 @@ heroBackground: '/images/ice-bandeau.png'
 
 - _Maisonnave, E._: [**_NEMO/neXtSIM-DG preliminary coupling interface _**](https://cerfacs.fr/wp-content/uploads/2023/05/nemo_nxts_cpl_WN_CMGC_23_58.pdf), _Working Note, WN/CMGC/23/58, CECI, UMR CERFACS/CNRS No5318, France_.
 
-- _Boutin, Ólason,  Rampal, Regan, Lique, Talandier, Brodeau,  Ricker._ [**_Arctic Sea Ice Mass Balance in a New Coupled Ice–Ocean Model Using a Brittle Rheology Framework._**](https://doi.org/10.5194/tc-17-617-2023) _The Cryosphere, 17, 617–638, 2023
+- _Boutin, Ólason,  Rampal, Regan, Lique, Talandier, Brodeau,  Ricker._ [**_Arctic Sea Ice Mass Balance in a New Coupled Ice–Ocean Model Using a Brittle Rheology Framework._**](https://doi.org/10.5194/tc-17-617-2023) _The Cryosphere, 17, 617–638, 2023_.
 
-- _Finn,  Durand,  Farchi,  Bocquet,  Chen,  Carrassi, Dansereau_: [**_Deep learning of subgrid-scale parametrisations for short-term forecasting of sea-ice dynamics with a Maxwell-Elasto-Brittle rheology._**](https://tc.copernicus.org/articles/17/2965/2023/), The Cryosphere, 17, 2965–2991, 2023
+- _Finn,  Durand,  Farchi,  Bocquet,  Chen,  Carrassi, Dansereau_: [**_Deep learning of subgrid-scale parametrisations for short-term forecasting of sea-ice dynamics with a Maxwell-Elasto-Brittle rheology._**](https://tc.copernicus.org/articles/17/2965/2023/), The Cryosphere, 17, 2965–2991, 2023_.
 
 - _Cheng,  Chen, Aydoğdu,  Bertino, Carrassi, Rampal, Jones_: [**_Novel Arctic sea ice data assimilation combining ensemble Kalman filter with a Lagrangian sea ice model_**](https://doi.org/10.5194/egusphere-2022-627), published in EGUsphere.
 
