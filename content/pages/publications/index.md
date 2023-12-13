@@ -8,7 +8,9 @@ heroBackground: '/images/ice-bandeau.png'
 
 # 2023
 
-- _Van Katwyk, Fox-Kemper, Seroussi, et al._: [**_A variational LSTM emulator of sea level contribution from the Antarctic ice sheet_**](10.22541/essoar.168874913.31606296/v1), _ESS Open Archive . July 07, 2023_.
+- _Finn, Disson, Farchi, Bocquet, Durand_: [**_Representation learning with unconditional denoising diffusion models for dynamical systems_**](https://doi.org/10.5194/egusphere-2023-2261), _EGUsphere, July 07, 2023, submitted_.
+
+- _Van Katwyk, Fox-Kemper, Seroussi, et al._: [**_A variational LSTM emulator of sea level contribution from the Antarctic ice sheet_**](10.22541/essoar.168874913.31606296/v1), _ESS Open Archive, July 07, 2023_.
 
 - _Chen, Smith, Carrassi, Pasmans, Bertino, Bocquet, Finn, Rampal, and Dansereau_: [**_Multivariate state and parameter estimation with data assimilation on sea-ice models using a Maxwell-Elasto-Brittle rheology_**](https://doi.org/10.5194/egusphere-2023-1809), _EGUsphere, 2023_.
 
