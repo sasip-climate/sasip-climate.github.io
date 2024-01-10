@@ -1,6 +1,6 @@
 ---
 title: 'Video of the month'
-date: 2023-01-10
+date: 2024-01-10
 authors:
 categories: ['Vizualisation']
 description: 'Numerical simulation of the marginal ice zone, produced with "FloeDyn" sea ice discrete element model.'
