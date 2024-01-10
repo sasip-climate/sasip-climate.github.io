@@ -14,6 +14,7 @@ In a new paper in Geophysical Research Letters, S. Brenner and members of the SA
 
 
 ![meeting_pic](/images/news/2024-01-10_Simulation_Brenner.gif)
+
 _Fig.: Movie produced by S. Brenner @ Brown University, USA. 
 Ocean current field and sea ice motion, 50%SIC, large floes.
 Sea ice floes are modelled using "FloeDyn" (Rabatel et. al., 2015; https://doi.org/10.1002/2015JC010909)._
