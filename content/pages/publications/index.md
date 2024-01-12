@@ -6,11 +6,16 @@ heroSubHeading: "related to the SASIP project"
 heroBackground: '/images/ice-bandeau.png'
 ---
 
+# 2024
+
+- _Brodeau, Rampal, Òlason, Dansereau_: [**_Implementation of a brittle sea-ice rheology in an Eulerian, finite-difference, C-grid modeling framework: Impact on the simulated deformation of sea-ice in the Arctic_**](https://doi.org/10.5194/gmd-2023-231), _Geosci. Model Dev. Discuss., January 2024, preprint_.
+
+---
 # 2023
 
 - _Brenner, Horvat, Hall, Lo Piccolo, Fox-Kemper, Labbé, Dansereau_: [**_Scale-Dependent Air-Sea Exchange in the Polar Oceans: Floe-Floe and Floe-Flow Coupling in the Generation of Ice-Ocean Boundary Layer Turbulence_**](https://doi.org/10.1029/2023GL105703), _Geophysical Reserch Letters (GRL), December 07, 2023_.
 
-- _Finn, Disson, Farchi, Bocquet, Durand_: [**_Representation learning with unconditional denoising diffusion models for dynamical systems_**](https://doi.org/10.5194/egusphere-2023-2261), _EGUsphere, July 07, 2023, submitted_.
+- _Finn, Disson, Farchi, Bocquet, Durand_: [**_Representation learning with unconditional denoising diffusion models for dynamical systems_**](https://doi.org/10.5194/egusphere-2023-2261), _EGUsphere, July 07, 2023, preprint_.
 
 - _Van Katwyk, Fox-Kemper, Seroussi, et al._: [**_A variational LSTM emulator of sea level contribution from the Antarctic ice sheet_**](10.22541/essoar.168874913.31606296/v1), _ESS Open Archive, July 07, 2023_.
 
