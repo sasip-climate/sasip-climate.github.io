@@ -1,14 +1,14 @@
 ---
-title: "Abdoulaye Samaké"
+title: "Allison Cavallo"
 date: 2018-11-19T10:47:58+10:00
 draft: false
-image: "/images/team/DSC_0752.jpg"
-jobtitle: "Professor - WP1"
+image: "/images/team/Allison_Cavallo.jpeg"
+jobtitle: "Research assistant - WP3"
 promoted: true
 Website:
-weight: 32
+weight: 53
 ---
 
-University of Sciences, Techniques and Technologies of Bamako, Mali
+Brown University, United States
 
-*High performance computing, numerical modeling, finite element analysis*
+*Waves in polar oceans, Sea-ice wave interactions, Relationship between global warming and ocean wave climate*
