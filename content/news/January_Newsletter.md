@@ -1,6 +1,6 @@
 ---
 title: 'January Newsletter'
-date: 2024-01-10
+date: 2024-01-18
 authors:
 categories: ['Newsletter']
 description: 'SASIP first newsletter is out!'
