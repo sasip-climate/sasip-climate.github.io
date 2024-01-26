@@ -8,6 +8,8 @@ heroBackground: '/images/ice-bandeau.png'
 
 # 2024
 
+- _C.Hell, Horvat_: [**_A method for constructing directional surface wave spectra from ICESat-2 altimetry_**](https://doi.org/10.5194/tc-18-341-2024), _The Cryosphere, 18, 341–361, January 2024_.
+
 - _Brodeau, Rampal, Òlason, Dansereau_: [**_Implementation of a brittle sea-ice rheology in an Eulerian, finite-difference, C-grid modeling framework: Impact on the simulated deformation of sea-ice in the Arctic_**](https://doi.org/10.5194/gmd-2023-231), _Geosci. Model Dev. Discuss., January 2024, preprint_.
 
 ---
