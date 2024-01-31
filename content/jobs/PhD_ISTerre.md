@@ -9,6 +9,8 @@ thumbnail: ''
 images: ['https://github.com/sasip-climate/sasip-climate.github.io/blob/master/static/images/ice.jpg']
 ---
 
+PhD position in Grenoble, France, on phase field sea ice modelling
+
 Sea ice, is a very complex material that exhibits different mechanical behaviors depending on its local state. Indeed, when and where it is dense (like in winter and in the central Arctic), it behaves as a continuous and breakable solid. Where it is broken and loosened, it behaves like a frictional granular media. Between these two different regimes - solid and granular - the intensity of energy, gas, and momentum exchanges between the ice, the atmosphere and the ocean are widely different, hence the importance of capturing their essence in the continuum models that are used for climate predictions. Equally important is the capability to simulate the transition between these regimes, or granularization of the sea ice cover, as it strongly controls both its local/seasonal and large-scale/long-term evolution.
 
 This Ph.D. project aims at developing a model able to capture this granularization transition, by representing the propagation of a fragmented (i.e., damaged) phase into a continuous solid using the phase field approach.
