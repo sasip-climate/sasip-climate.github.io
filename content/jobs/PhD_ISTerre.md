@@ -15,7 +15,7 @@ This Ph.D. project aims at developing a model able to capture this granularizati
 
 Regarding this approach, the project will tackle several fundamental challenges that stem from the context of sea ice and similarly behaving geophysical objects, for instance: coupling the phase field to a visco-elastic constitutive equation to allow irreversible deformations in the damaged phase as well as formulating theoretically and numerically a critical energy criterion for shear-compressive failure.
 
-In the context of SASIP and the [WP2] (https://sasip-climate.github.io/research/work-package-two/), the model developed will be used to investigate the evolution of the macroscopic mechanical resistance of sea ice across the granularization transition and thereby inform large-scale constitutive equations and parameterizations of this transition.
+In the context of SASIP and the [WP2](https://sasip-climate.github.io/research/work-package-two/), the model developed will be used to investigate the evolution of the macroscopic mechanical resistance of sea ice across the granularization transition and thereby inform large-scale constitutive equations and parameterizations of this transition.
 
 The Ph.D. project will be based in Grenoble. It will be supervised by Véronique Dansereau (Université Grenoble Alpes, ISTerre and IGE) and Luiza Angheluta-Bauer (University of Oslo). 
 
