@@ -58,7 +58,7 @@ Plus, SASIP will allow a better understanding of the warming of the polar region
 Personally, I felt I should apply for the position I am currently in, because it will allow me to use my skills in Data Assimilation. At the same time, however, as you may have deduced, I have never worked on sea ice. This is very challenging for me from a scientifical point of view. I am intrigued by the idea of studying and learning something new about scientific aspects that were only dealt with during my studies.
 
 
-[^1]_-French National Center for Meteorological Research_. 
+[^1]:-French National Center for Meteorological Research_. 
 [^2]_French National Centre for Scientific Research_.
 [^3]_French National Meteorological Service_.
 [^4]_French Space Agency_.
