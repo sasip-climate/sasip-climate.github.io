@@ -10,7 +10,7 @@ heroBackground: '/images/ice-bandeau.png'
 
 _"SASIP will allow a better understanding of the warming of the polar regions. Given the historical moment that planet Earth is currently experiencing, I find this a study with excellent motivation and potential"_. 
 
-### Francesca Vittorioso, postdoc at the University of Bologna, Italy, recently joined the SASIP team to work on data assimilation. On February 21st, she will give a webinar presenting her latest research on the Contribution of the assimilation of MTG/IRS radiances for the characterisation of the atmospheric chemical composition over Europe. On this occasion, we asked her to share some of her personal and scientific history. 
+#### Francesca Vittorioso, postdoc at the University of Bologna, Italy, recently joined the SASIP team to work on data assimilation. On February 21st, she will give a webinar presenting her latest research on the Contribution of the assimilation of MTG/IRS radiances for the characterisation of the atmospheric chemical composition over Europe. On this occasion, we asked her to share some of her personal and scientific history. 
 
 _An interview with Francesca Vittorioso, Postdoc at the University of Bologna_.
 
@@ -60,7 +60,7 @@ Plus, SASIP will allow a better understanding of the warming of the polar region
 Personally, I felt I should apply for the position I am currently in, because it will allow me to use my skills in Data Assimilation. At the same time, however, as you may have deduced, I have never worked on sea ice. This is very challenging for me from a scientifical point of view. I am intrigued by the idea of studying and learning something new about scientific aspects that were only dealt with during my studies.
 
 
-[^1]:-French National Center for Meteorological Research_. 
+[^1]:French National Center for Meteorological Research_. 
 [^2]:French National Centre for Scientific Research_.
 [^3]:French National Meteorological Service_.
 [^4]:French Space Agency_.
