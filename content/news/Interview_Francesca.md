@@ -61,11 +61,11 @@ Personally, I felt I should apply for the position I am currently in, because it
 
 
 [^1]:-French National Center for Meteorological Research_. 
-[^2]_French National Centre for Scientific Research_.
-[^3]_French National Meteorological Service_.
-[^4]_French Space Agency_.
-[^5]_Cheng et al., 2024_.
-[^6]_Dansereau, 2016_.
-[^7]_Pasmans et al., 2024_. 
-[^8]_Euro-Mediterranean Center on Climate Change, SASIP partner, Italy
-[^9]_Nansen Environmental and Remote Sensing Center, SASIP partner, Norway
+[^2]:French National Centre for Scientific Research_.
+[^3]:French National Meteorological Service_.
+[^4]:French Space Agency_.
+[^5]:Cheng et al., 2024_.
+[^6]:Dansereau, 2016_.
+[^7]:Pasmans et al., 2024_. 
+[^8]:Euro-Mediterranean Center on Climate Change, SASIP partner, Italy
+[^9]:Nansen Environmental and Remote Sensing Center, SASIP partner, Norway
