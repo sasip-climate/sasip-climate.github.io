@@ -34,6 +34,18 @@
   </div>
 </div>
 
+<div id="home" class="strip bg-cover bg-position-top bg-overlay" style='background-image: url("{{ .Params.background | relURL }}");'>
+  <div class="container pt-8 pb-8 pb-md-12 pt-md-12">
+    <div class="row justify-content-center">
+      <div class="col-12 col-md-8 text-center">
+        <h2>SASIP newsletter</h2>
+        <p>New articles, Science updates, Conferences, webinars, vacancies and more !</p>
+        <a class="button button-primary" href="eepurl.com/iHP3zM">Suscribe</a>
+      </div>
+    </div>
+  </div>
+</div>
+
 {{ $services := where (where .Site.RegularPages "Type" "services") ".Params.featured" true }}
 {{if gt (len $services) 0}}
 <div class="bg-primary bg-cover bg-position-top bg-overlay">
