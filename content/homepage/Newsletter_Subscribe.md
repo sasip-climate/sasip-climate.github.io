@@ -6,4 +6,4 @@ button: 'Subscribe'
 buttonLink: 'eepurl.com/iHP3zM'
 ---
 
-New articles, Sciences updates, Conferences, webinars, vacancies and more !
+New articles, Science updates, Conferences, webinars, vacancies and more !
