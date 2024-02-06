@@ -12,7 +12,7 @@ heroBackground: '/images/ice-bandeau.png'
 
 <p align="center">"SASIP will allow a better understanding of the warming of the polar regions. Given the historical moment that planet Earth is currently experiencing, I find this a study with excellent motivation and potential"</p>
 
-> "SASIP will allow a better understanding of the warming of the polar regions. Given the historical moment that planet Earth is currently experiencing, I find this a study with excellent motivation and potential"
+> _"SASIP will allow a better understanding of the warming of the polar regions. Given the historical moment that planet Earth is currently experiencing, I find this a study with excellent motivation and potential"_
 
 _An interview with Francesca Vittorioso, Postdoc at the University of Bologna_.
 
