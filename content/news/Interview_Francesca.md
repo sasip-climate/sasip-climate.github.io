@@ -4,13 +4,13 @@ date: 2024-02-06
 authors:
 categories: ['Interviews']
 description: Francesca has recently joined our team to work on Data Assimilation. On the occasion of her upcoming webinar, she accepted to share some of her personnal history and scientific background. 
-thumbnail: 'images/news/Interview_Francesca'
+thumbnail: 'images/news/Interview_Francesca.png'
 heroBackground: '/images/ice-bandeau.png'
 ---
 
  Francesca Vittorioso, postdoc at the University of Bologna, Italy, recently joined SASIP to work on Data Assimilation. On February 21st, she will give a webinar [(register here)](https://forms.gle/YKoBQK3XBLgjULnr6) presenting her latest research on the Contribution of the assimilation of MTG/IRS radiances for the characterisation of the atmospheric chemical composition over Europe. On this occasion, we asked her to share some of her personal and scientific history. 
 
-> "SASIP will allow a better understanding of the warming of the polar regions. Given the historical moment that planet Earth is currently experiencing, I find this a study with excellent motivation and potential".
+> SASIP will allow a better understanding of the warming of the polar regions. Given the historical moment that planet Earth is currently experiencing, I find this a study with excellent motivation and potential.
 
 _An interview with Francesca Vittorioso, Postdoc at the University of Bologna_.
 
