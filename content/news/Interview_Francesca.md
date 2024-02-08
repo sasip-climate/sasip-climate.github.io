@@ -8,7 +8,7 @@ thumbnail: 'images/news/Interview_Francesca.png'
 heroBackground: '/images/ice-bandeau.png'
 ---
 
-![Image](/images/news/Interview_Francesca.png)
+![Image](/images/news/Francesca Vittorioso Postodoc, University of Bologna-2-2.jpg)
 
 Francesca Vittorioso, postdoc at the University of Bologna, Italy, recently joined SASIP to work on Data Assimilation. On February 21st, she will give a webinar [(register here)](https://forms.gle/YKoBQK3XBLgjULnr6) presenting her latest research on the Contribution of the assimilation of MTG/IRS radiances for the characterisation of the atmospheric chemical composition over Europe. On this occasion, we asked her to share some of her personal and scientific history. 
 
