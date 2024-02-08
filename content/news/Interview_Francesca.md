@@ -4,7 +4,7 @@ date: 2024-02-06
 authors:
 categories: ['Interviews']
 description: Francesca has recently joined our team to work on Data Assimilation. On the occasion of her upcoming webinar, she accepted to share some of her personnal history and scientific background. 
-thumbnail: 'images/news/Interview_Francesca'
+thumbnail: 'images/news/Interview_Francesca.jpg'
 heroBackground: '/images/ice-bandeau.png'
 ---
 
