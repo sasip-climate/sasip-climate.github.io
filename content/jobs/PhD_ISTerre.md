@@ -23,7 +23,7 @@ The Ph.D. project will be based in Grenoble. It will be supervised by Véronique
 
 More information and the application link can be found [here](https://emploi.cnrs.fr/Offres/Doctorant/UMR5275-VERDAN-005/Default.aspx?lang=EN)
 
-Deadline: February, 8 2024
+Deadline: February 22, 2024
 
 Start date: October, 1 2024
 
