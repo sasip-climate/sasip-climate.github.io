@@ -4,8 +4,8 @@ date: 2024-02-21
 authors:
 categories: ['Webinars']
 description: Francesca Vittorioso presents her work on the Contribution of the assimilation of MTG/IRS radiances for the characterisation of the atmospheric chemical composition over Europe
-thumbnail: 'images/webinars/February_2024_Francesca_Vittorioso.png'
-image: 'images/webinars/February_2024_Francesca_Vittorioso.png'
+thumbnail: '/images/news/February_Webinar_2024.png'
+image: '/images/news/February_Webinar_2024.png'
 heroBackground: '/images/ice-bandeau.png'
 ---
 
