@@ -12,9 +12,9 @@ Romain Caneill, postdoc at the  French National Center for Scientific Research (
 
 ![Image](/images/news/interview_romain_caneill.png)
 
->"I hope that at the end of the SASIP project, the ocean-atmosphere community will acknowledge the important role of sea ice and the fact that its dynamics need to be well represented in climate models."
+_"I hope that at the end of the SASIP project, the ocean-atmosphere community will acknowledge the important role of sea ice and the fact that its dynamics need to be well represented in climate models_."
 
-_An interview with Romain Caneill, Postdoc at CNRS,France.
+_An interview with Romain Caneill, Postdoc at CNRS,France_.
 
 _By: Solène Guyard_.
 
