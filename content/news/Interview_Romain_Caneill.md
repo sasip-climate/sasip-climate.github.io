@@ -4,7 +4,7 @@ date: 2024-03-07
 authors:
 categories: ['Interviews']
 description: Romain has recently joined our team to work on sea-ice physical parameterizations and Climate Implications. Welcome aboard !
-thumbnail: '/images/news/Interview_Romain_Caneill.png'
+thumbnail: 'images/news/Interview_Romain_Caneill.png'
 heroBackground: '/images/ice-bandeau.png'
 ---
 
