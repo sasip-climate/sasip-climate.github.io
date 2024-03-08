@@ -23,13 +23,13 @@ _Thursday, March 7, 2024_.
 **How did you become a scientist ? Was a life in research something you always have envisioned for yourself ?**
 
 As far as I remember, I have always been interested in understanding the world around me. This is probably why I studied physics. Very early, I knew I would follow a scientific career.
-	
+
 **What do you study ? What has ignited your passion for studying these questions in particular ?**
 
 I completed my PhD in physical oceanography. I studied the interlinked role of the thermodynamics of seawater and buoyancy fluxes in shaping the upper ocean stratification. This was a quite theoretical study in which I aimed to understand the large-scale properties of the ocean based only on some key processes. The thermodynamics of seawater largely control the location of the transition between temperature-controlled stratification (called alpha oceans, located in the subtropics) and salinity-controlled stratification (beta oceans, located in polar regions). Near the transitions are deep mixed layers in winter that help bring anthropogenic carbon to depth, thus mitigating climate change. These key processes I mentioned are thus important for the large-scale circulation of the ocean, thereby impacting the whole climate system.
 
 The passion for studying the Earth probably still lays in a little child who wants to understand the world around him.
-
+
 **Why is it important to study these questions ?**
 
 I believe that knowledge is one great cause we can work for. It seems to me that humans have always wanted to understand the world. Nowadays, in the context of human induced climate change, better understanding of the climate becomes crucial. Without the pioneer work of scientists in the previous century, we may have never noticed that humans are impacting the climate and all life on Earth. Climate policies and habit changes may be slow to happen, but in any case, they need to be backed up by science.
@@ -41,7 +41,8 @@ SASIP is a great and ambitious project. The polar regions encounter the largest 
 **What’s difficult ?**
 
 Research is difficult, as usually you don’t really know what you are doing until you find something and see the bigger picture. So it is sometimes hard to not get lost and keep the motivation. Being in a big project like SASIP will for sure help me staying on track with the help of all connections between people. 
-	
+
 **What kind of impact do you hope the project will have ?**
+
 I hope that at the end of the SASIP project, the ocean-atmosphere community will acknowledge the important role of sea ice and the fact that its dynamics need to be well represented in climate models. SASIP is also motivating climate-friendly research, and I believe that such a big project with great scientific outcomes can show the community that good research can be done with a reduction of the carbon footprint.
 
