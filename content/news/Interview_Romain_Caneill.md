@@ -6,7 +6,7 @@ categories: ['Interviews']
 description: Romain has recently joined our team to work on sea-ice physical parameterizations and Climate Implications. Welcome aboard !
 thumbnail: 'images/news/Interview_Romain_Caneill.png'
 heroBackground: '/images/ice-bandeau.png'
-heroSubHeading: 'SASIP news: Stay tuned by subscribing from the top menu'
+heroSubHeading: 'Subscribe to our monthly newsletter from the top navigation menu.'
 ---
 
 Romain Caneill, postdoc at the  French National Center for Scientific Research (CNRS), recently joined SASIP to work on sea-ice rheology [(WP2)](https://sasip-climate.github.io/research/work-package-two/) and climate implications [WP5](https://sasip-climate.github.io/research/work-package-five/). He accepted to share his scientific history, vision of science, motivations and hopes. 
