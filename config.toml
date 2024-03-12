@@ -37,7 +37,7 @@ theme = "hugo-hero-theme"
   # Main Menu
 
   [[menu.main]]
-      name = "Subscribe"
+      name = "Subscribe!"
       url = "https://github.us21.list-manage.com/subscribe?u=87628ce091a6cd0b5a69e6bfa&id=29c185da6b"
       weight = 1
       
