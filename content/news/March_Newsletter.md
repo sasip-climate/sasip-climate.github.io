@@ -1,6 +1,6 @@
 ---
 title: 'March Newsletter'
-date: 2024-02-06
+date: 2024-03-15
 authors:
 categories: ['Newsletter']
 description: 'Latest news from SASIP! Opening of FloeDyn and many other exciting news'
