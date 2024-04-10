@@ -37,9 +37,9 @@ heroBackground: '/images/ice-bandeau.png'
 
 - _Cheng,  Chen, Aydoğdu,  Bertino, Carrassi, Rampal, Jones_: [**_Novel Arctic sea ice data assimilation combining ensemble Kalman filter with a Lagrangian sea ice model_**](https://doi.org/10.5194/egusphere-2022-627), published in EGUsphere.
 
-- _Sibo Cheng, Ce ́sar Quilodra ́n-Casas, Said Ouala, Alban Farchi,Alberto Carrassi, Marc Bocquect et al._: [**_Machine Learning With Data Assimilation and Uncertainty Quantification for Dynamical Systems: A Review_**](10.1109/JAS.2023.123537), EEE/CAA JOURNAL OF AUTOMATICA SINICA, June, 2023.
+- _Cheng, Quilodra ́n-Casas, Ouala, Farchi, Carrassi, Bocquect et al._: [**_Machine Learning With Data Assimilation and Uncertainty Quantification for Dynamical Systems: A Review_**](10.1109/JAS.2023.123537), EEE/CAA JOURNAL OF AUTOMATICA SINICA, June, 2023.
 
-- - _Ayers, Lau, Amezcua, Carrassi, Ojha_: [**_Supervised machine learning to estimate instabilities in chaotic systems: Estimation of local Lyapunov exponents_**](https://doi.org/10.1002/qj.4450), Quarterly Journal of the Royal Meteorological Society, March 2023_.
+- _Ayers, Lau, Amezcua, Carrassi, Ojha_: [**_Supervised machine learning to estimate instabilities in chaotic systems: Estimation of local Lyapunov exponents_**](https://doi.org/10.1002/qj.4450), Quarterly Journal of the Royal Meteorological Society, March 2023_.
 
 - _Simon Driscoll, Alberto Carrassi, Julien Brajard, Laurent Bertino, Marc Bocquet, Einar Olason_: [**_Parameter sensitivity analysis of a sea ice melt pond parametrisation and its emulation using neural networks_**](https://arxiv.org/abs/2304.05407), 	arXiv:2304.05407, 2023, preprint_.
 
