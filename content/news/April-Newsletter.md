@@ -1,9 +1,9 @@
 ---
-title: 'April Newsletter'
+title: 'April Newsletter: EGU special edition!'
 date: 2024-04-08
 authors:
 categories: ['Newsletter']
-description: 'Latest news from SASIP!'
+description: 'SASIP at EGU and Latest news!'
 thumbnail: '/images/news/2024_04_EGU24.png'
 heroBackground: '/images/ice-bandeau.png'
 ---
