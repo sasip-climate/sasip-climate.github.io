@@ -8,6 +8,8 @@ heroBackground: '/images/ice-bandeau.png'
 
 # 2024
 
+- _Simon Driscoll, Alberto Carrassi, Julien Brajard, Laurent Bertino, Marc Bocquet, Einar Olason_: [**_Parameter sensitivity analysis of a sea ice melt pond parametrisation and its emulation using neural networks_**](https://doi.org/10.1016/j.jocs.2024.102231), 	Journal of Computational Science, 2024_.
+
 - _C.Hell, Horvat_: [**_A method for constructing directional surface wave spectra from ICESat-2 altimetry_**](https://doi.org/10.5194/tc-18-341-2024), _The Cryosphere, 18, 341–361, January 2024_.
 
 - _Brodeau, Rampal, Òlason, Dansereau_: [**_Implementation of a brittle sea-ice rheology in an Eulerian, finite-difference, C-grid modeling framework: Impact on the simulated deformation of sea-ice in the Arctic_**](https://doi.org/10.5194/gmd-2023-231), _Geosci. Model Dev. Discuss., January 2024, preprint_.
@@ -40,8 +42,6 @@ heroBackground: '/images/ice-bandeau.png'
 - _Cheng, Quilodra ́n-Casas, Ouala, Farchi, Carrassi, Bocquect et al._: [**_Machine Learning With Data Assimilation and Uncertainty Quantification for Dynamical Systems: A Review_**](10.1109/JAS.2023.123537), EEE/CAA JOURNAL OF AUTOMATICA SINICA, June, 2023.
 
 - _Ayers, Lau, Amezcua, Carrassi, Ojha_: [**_Supervised machine learning to estimate instabilities in chaotic systems: Estimation of local Lyapunov exponents_**](https://doi.org/10.1002/qj.4450), Quarterly Journal of the Royal Meteorological Society, March 2023_.
-
-- _Simon Driscoll, Alberto Carrassi, Julien Brajard, Laurent Bertino, Marc Bocquet, Einar Olason_: [**_Parameter sensitivity analysis of a sea ice melt pond parametrisation and its emulation using neural networks_**](https://arxiv.org/abs/2304.05407), 	arXiv:2304.05407, 2023, preprint_.
 
 - _Ivo Pasmans, Yumeng Chen, Alberto Carrassi, Chris K.R.T. Jones_: [**_Tailoring data assimilation to discontinuous Galerkin models_**](https://doi.org/10.48550/arXiv.2305.02950), 	arXiv:2305.02950, 2023.
 
