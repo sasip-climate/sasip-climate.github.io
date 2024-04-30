@@ -10,7 +10,7 @@ heroBackground: '/images/ice-bandeau.png'
 
 - _Finn, Durand, Farchi, Bocquet, Rampal, Carrassi_: [**_Generative diffusion for regional surrogate models from sea-ice simulations_**](https://doi.org/10.22541/au.171386536.64344222/v1), Journal of Advances in Modeling Earth Systems, 2024, preprint_.
 
-- _Driscoll, Carrassi, Brajard, Bertino, Bocquet, Olason_: [**_Parameter sensitivity analysis of a sea ice melt pond parametrisation and its emulation using neural networks_**](https://doi.org/10.1016/j.jocs.2024.102231), 	Journal of Computational Science, 2024_.
+- _Driscoll, Carrassi, Brajard, Bertino, Bocquet, Olason_: [**_Parameter sensitivity analysis of a sea ice melt pond parametrisation and its emulation using neural networks_**](https://doi.org/10.1016/j.jocs.2024.102231), 	Journal of Computational Science, March 2024_.
 
 - _C.Hell, Horvat_: [**_A method for constructing directional surface wave spectra from ICESat-2 altimetry_**](https://doi.org/10.5194/tc-18-341-2024), _The Cryosphere, 18, 341–361, January 2024_.
 
