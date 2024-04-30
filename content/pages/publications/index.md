@@ -23,7 +23,7 @@ heroBackground: '/images/ice-bandeau.png'
 
 - _Finn, Disson, Farchi, Bocquet, Durand_: [**_Representation learning with unconditional denoising diffusion models for dynamical systems_**](https://doi.org/10.5194/egusphere-2023-2261), _EGUsphere, July 07, 2023, preprint_.
 
-- _Chen, Smith, Carrassi, Pasmans, Bertino, Bocquet, Finn, Rampal, and Dansereau_: [**_Multivariate state and parameter estimation with data assimilation on sea-ice models using a Maxwell-Elasto-Brittle rheology_**](https://doi.org/10.5194/egusphere-2023-1809), _EGUsphere, 2023, preprint_.
+- _Chen, Smith, Carrassi, Pasmans, Bertino, Bocquet, Finn, Rampal, and Dansereau_: [**_Multivariate state and parameter estimation with data assimilation on sea-ice models using a Maxwell-Elasto-Brittle rheology_**](https://doi.org/10.5194/egusphere-2023-1809), _EGUsphere, October, 2023, preprint_.
 
 - _Cheng, Quilodran-Casas, Ouala, Farchi, Liu, Tandeo, Fablet, Lucor, Iooss, Brajard, Xiao, Janjic, Ding, Guo, Carrassi, Bocquet, Arcucci_: [**_Machine learning with data assimilation and uncertainty quantification for dynamical systems: a review_**](https://arxiv.org/abs/2303.10462), _accepted for publication on the IEEE/CAA Journal of Automatica Sinica_.
 
