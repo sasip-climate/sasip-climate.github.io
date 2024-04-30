@@ -14,7 +14,9 @@ heroBackground: '/images/ice-bandeau.png'
 
 - _Driscoll, Carrassi, Brajard, Bertino, Bocquet, Olason_: [**_Parameter sensitivity analysis of a sea ice melt pond parametrisation and its emulation using neural networks_**](https://doi.org/10.1016/j.jocs.2024.102231), _Journal of Computational Science, March, 2024_.
 
-- - _Driscoll, Carrassi, Brajard, Bertino, Bocquet, Olason_: [**_Do AI models produce better weather forecasts than physics-based models? A quantitative evaluation case study of Storm Ciarán_**](https://www.nature.com/articles/s41612-024-00638-w), _Nature npj Climate and Atmospheric Science, April, 2024_.
+- _Driscoll, Carrassi, Brajard, Bertino, Bocquet, Olason_: [**_Do AI models produce better weather forecasts than physics-based models? A quantitative evaluation case study of Storm Ciarán_**](https://www.nature.com/articles/s41612-024-00638-w), _Nature npj Climate and Atmospheric Science, April, 2024_.
+ 
+- _Durand, Finn, Farchi, Bocquet, Boutin, Olason_: [**_Data-driven surrogate modeling of high-resolution sea-ice thickness in the Arctic_**](https://doi.org/10.5194/tc-18-1791-2024), _The Cryosphere, 17, 2965–2991, April, 2024_.
 
 - _Finn, Durand, Farchi, Bocquet, Rampal, Carrassi_: [**_Generative diffusion for regional surrogate models from sea-ice simulations_**](https://doi.org/10.22541/au.171386536.64344222/v1), _Journal of Advances in Modeling Earth Systems, April, 2024, preprint_.
 
@@ -44,8 +46,6 @@ heroBackground: '/images/ice-bandeau.png'
 - _Ayers, Lau, Amezcua, Carrassi, Ojha_: [**_Supervised machine learning to estimate instabilities in chaotic systems: Estimation of local Lyapunov exponents_**](https://doi.org/10.1002/qj.4450), _Quarterly Journal of the Royal Meteorological Society, March 2023_.
 
 - _Ivo Pasmans, Yumeng Chen, Alberto Carrassi, Chris K.R.T. Jones_: [**_Tailoring data assimilation to discontinuous Galerkin models_**](https://doi.org/10.48550/arXiv.2305.02950), 	_arXiv:2305.02950, 2023_.
-
-- _Durand, Finn, Farchi, Bocquet, Boutin, Olason_: [**_Data-driven surrogate modeling of high-resolution sea-ice thickness in the Arctic_**](https://doi.org/10.5194/tc-18-1791-2024), _The Cryosphere, 17, 2965–2991, August, 2023_.
 
 - _Wang, Hwang, Bateson, Aksenov, Horvat:_ [**_Summer sea ice floe size distribution in the Arctic: High-resolution optical satellite imagery and model evaluation._**](https://doi.org/10.5194/tc-17-3575-2023) _The Cryosphere,August, 2023_.
 
