@@ -8,7 +8,9 @@ heroBackground: '/images/ice-bandeau.png'
 
 # 2024
 
-- _Simon Driscoll, Alberto Carrassi, Julien Brajard, Laurent Bertino, Marc Bocquet, Einar Olason_: [**_Parameter sensitivity analysis of a sea ice melt pond parametrisation and its emulation using neural networks_**](https://doi.org/10.1016/j.jocs.2024.102231), 	Journal of Computational Science, 2024_.
+- _Finn, Durand, Farchi, Bocquet, Rampal, Carrassi_: [**_Generative diffusion for regional surrogate models from sea-ice simulations_**](https://doi.org/10.22541/au.171386536.64344222/v1), Journal of Advances in Modeling Earth Systems, 2024, preprint_.
+
+- _Driscoll, Carrassi, Brajard, Bertino, Bocquet, Olason_: [**_Parameter sensitivity analysis of a sea ice melt pond parametrisation and its emulation using neural networks_**](https://doi.org/10.1016/j.jocs.2024.102231), 	Journal of Computational Science, 2024_.
 
 - _C.Hell, Horvat_: [**_A method for constructing directional surface wave spectra from ICESat-2 altimetry_**](https://doi.org/10.5194/tc-18-341-2024), _The Cryosphere, 18, 341–361, January 2024_.
 
@@ -31,7 +33,7 @@ heroBackground: '/images/ice-bandeau.png'
 
 - _Ayers, Lau,  Amezcua,  Carrassi, Ojha_: [**_Supervised machine learning to estimate instabilities in chaotic systems: estimation of local Lyapunov exponents_**](https://arxiv.org/abs/2202.04944), _accepted for publication in Quarterly Journal of the Royal Meteorological Society_.
 
-- _Maisonnave, E._: [**_NEMO/neXtSIM-DG preliminary coupling interface _**](https://cerfacs.fr/wp-content/uploads/2023/05/nemo_nxts_cpl_WN_CMGC_23_58.pdf), _Working Note, WN/CMGC/23/58, CECI, UMR CERFACS/CNRS No5318, France_.
+- _Maisonnave_: [**_NEMO/neXtSIM-DG preliminary coupling interface _**](https://cerfacs.fr/wp-content/uploads/2023/05/nemo_nxts_cpl_WN_CMGC_23_58.pdf), _Working Note, WN/CMGC/23/58, CECI, UMR CERFACS/CNRS No5318, France_.
 
 - _Boutin, Ólason,  Rampal, Regan, Lique, Talandier, Brodeau,  Ricker._ [**_Arctic Sea Ice Mass Balance in a New Coupled Ice–Ocean Model Using a Brittle Rheology Framework._**](https://doi.org/10.5194/tc-17-617-2023) _The Cryosphere, 17, 617–638, 2023_.
 
@@ -45,7 +47,7 @@ heroBackground: '/images/ice-bandeau.png'
 
 - _Ivo Pasmans, Yumeng Chen, Alberto Carrassi, Chris K.R.T. Jones_: [**_Tailoring data assimilation to discontinuous Galerkin models_**](https://doi.org/10.48550/arXiv.2305.02950), 	arXiv:2305.02950, 2023.
 
-- _Durand, Finn, Farchi, Bocquet, andOlason_: [**_Data-driven surrogate modeling of high-resolution sea-ice thickness in the Arctic_**](https://doi.org/10.5194/egusphere-2023-1384), The Cryosphere, 17, 2965–2991, 2023. 
+- _Durand, Finn, Farchi, Bocquet, Olason_: [**_Data-driven surrogate modeling of high-resolution sea-ice thickness in the Arctic_**](https://doi.org/10.5194/egusphere-2023-1384), The Cryosphere, 17, 2965–2991, 2023. 
   
 ---
 # 2022
@@ -68,7 +70,7 @@ heroBackground: '/images/ice-bandeau.png'
 
 - _Brouwer, Fraser, Murphy, Wongpan, Alberello, Kohout, Horvat, Wotherspoon Massom, J. Cartwright, G. Williams:_ [**_Altimetric observation of wave attenuation through the Antarctic marginal ice zone using ICESat-2._**](https://doi.org/10.5194/tc-16-2325-2022) The Cryosphere, 16, 2325–2353, 2022. 
 
-- _Eric Maisonnave, Romain Bourdallé-Badie_ [**_Coupling NEMO global ocean with hemispheric Arctic and Antarctic ice models_**](https://cerfacs.fr/wp-content/uploads/2022/03/support_esiwace_TR_CMGC_22_18.pdf) Technical Report, TR/CMGC/22/18, CECI, UMR CERFACS/CNRS No5318, France. 
+- _Maisonnave, Bourdallé-Badie_ [**_Coupling NEMO global ocean with hemispheric Arctic and Antarctic ice models_**](https://cerfacs.fr/wp-content/uploads/2022/03/support_esiwace_TR_CMGC_22_18.pdf) Technical Report, TR/CMGC/22/18, CECI, UMR CERFACS/CNRS No5318, France. 
 
 ---
 # 2021
