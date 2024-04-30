@@ -41,13 +41,13 @@ heroBackground: '/images/ice-bandeau.png'
 
 - _Cheng,  Chen, Aydoğdu,  Bertino, Carrassi, Rampal, Jones_: [**_Arctic sea ice data assimilation combining an ensemble Kalman filter with a novel Lagrangian sea ice model for the winter 2019–2020_**](https://doi.org/10.5194/tc-17-1735-2023), The Cryosphere, April, 2023.
 
-- _Cheng, Quilodra ́n-Casas, Ouala, Farchi, Carrassi, Bocquect et al._: [**_Machine Learning With Data Assimilation and Uncertainty Quantification for Dynamical Systems: A Review_**](10.1109/JAS.2023.123537), EEE/CAA JOURNAL OF AUTOMATICA SINICA, June, 2023.
+- _Cheng, Quilodra ́n-Casas, Ouala, Farchi, Carrassi, Bocquect et al._: [**_Machine Learning With Data Assimilation and Uncertainty Quantification for Dynamical Systems: A Review_**](https://www.ieee-jas.net/article/doi/10.1109/JAS.2023.123537), EEE/CAA JOURNAL OF AUTOMATICA SINICA, June, 2023.
 
 - _Ayers, Lau, Amezcua, Carrassi, Ojha_: [**_Supervised machine learning to estimate instabilities in chaotic systems: Estimation of local Lyapunov exponents_**](https://doi.org/10.1002/qj.4450), Quarterly Journal of the Royal Meteorological Society, March 2023_.
 
 - _Ivo Pasmans, Yumeng Chen, Alberto Carrassi, Chris K.R.T. Jones_: [**_Tailoring data assimilation to discontinuous Galerkin models_**](https://doi.org/10.48550/arXiv.2305.02950), 	arXiv:2305.02950, 2023.
 
-- _Durand, Finn, Farchi, Bocquet, Olason_: [**_Data-driven surrogate modeling of high-resolution sea-ice thickness in the Arctic_**](https://doi.org/10.5194/egusphere-2023-1384), The Cryosphere, 17, 2965–2991, 2023. 
+- _Durand, Finn, Farchi, Bocquet, Boutin, Olason_: [**_Data-driven surrogate modeling of high-resolution sea-ice thickness in the Arctic_**](https://doi.org/10.5194/tc-18-1791-2024), The Cryosphere, 17, 2965–2991, August, 2023. 
   
 ---
 # 2022
