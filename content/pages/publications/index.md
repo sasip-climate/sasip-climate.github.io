@@ -23,9 +23,9 @@ heroBackground: '/images/ice-bandeau.png'
 
 - _Finn, Disson, Farchi, Bocquet, Durand_: [**_Representation learning with unconditional denoising diffusion models for dynamical systems_**](https://doi.org/10.5194/egusphere-2023-2261), _EGUsphere, July 07, 2023, preprint_.
 
-- _Van Katwyk, Fox-Kemper, Seroussi, et al._: [**_A variational LSTM emulator of sea level contribution from the Antarctic ice sheet_**](10.22541/essoar.168874913.31606296/v1), _ESS Open Archive, July 07, 2023_.
+- _Van Katwyk, Fox-Kemper, Seroussi, et al._: [**_A variational LSTM emulator of sea level contribution from the Antarctic ice sheet_**](https://doi.org/10.1029/2023MS003899), _Journal of in Modeling Earth Systems, December, 2023_.
 
-- _Chen, Smith, Carrassi, Pasmans, Bertino, Bocquet, Finn, Rampal, and Dansereau_: [**_Multivariate state and parameter estimation with data assimilation on sea-ice models using a Maxwell-Elasto-Brittle rheology_**](https://doi.org/10.5194/egusphere-2023-1809), _EGUsphere, 2023_.
+- _Chen, Smith, Carrassi, Pasmans, Bertino, Bocquet, Finn, Rampal, and Dansereau_: [**_Multivariate state and parameter estimation with data assimilation on sea-ice models using a Maxwell-Elasto-Brittle rheology_**](https://doi.org/10.5194/egusphere-2023-1809), _EGUsphere, 2023, preprint_.
 
 - _Cheng, Quilodran-Casas, Ouala, Farchi, Liu, Tandeo, Fablet, Lucor, Iooss, Brajard, Xiao, Janjic, Ding, Guo, Carrassi, Bocquet, Arcucci_: [**_Machine learning with data assimilation and uncertainty quantification for dynamical systems: a review_**](https://arxiv.org/abs/2303.10462), _accepted for publication on the IEEE/CAA Journal of Automatica Sinica_.
 
@@ -39,7 +39,7 @@ heroBackground: '/images/ice-bandeau.png'
 
 - _Finn,  Durand,  Farchi,  Bocquet,  Chen,  Carrassi, Dansereau_: [**_Deep learning of subgrid-scale parametrisations for short-term forecasting of sea-ice dynamics with a Maxwell-Elasto-Brittle rheology._**](https://tc.copernicus.org/articles/17/2965/2023/), The Cryosphere, 17, 2965–2991, 2023_.
 
-- _Cheng,  Chen, Aydoğdu,  Bertino, Carrassi, Rampal, Jones_: [**_Novel Arctic sea ice data assimilation combining ensemble Kalman filter with a Lagrangian sea ice model_**](https://doi.org/10.5194/egusphere-2022-627), published in EGUsphere.
+- _Cheng,  Chen, Aydoğdu,  Bertino, Carrassi, Rampal, Jones_: [**_Arctic sea ice data assimilation combining an ensemble Kalman filter with a novel Lagrangian sea ice model for the winter 2019–2020_**](https://doi.org/10.5194/tc-17-1735-2023), The Cryosphere, April, 2023.
 
 - _Cheng, Quilodra ́n-Casas, Ouala, Farchi, Carrassi, Bocquect et al._: [**_Machine Learning With Data Assimilation and Uncertainty Quantification for Dynamical Systems: A Review_**](10.1109/JAS.2023.123537), EEE/CAA JOURNAL OF AUTOMATICA SINICA, June, 2023.
 
