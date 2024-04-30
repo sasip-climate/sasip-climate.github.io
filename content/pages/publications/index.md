@@ -49,12 +49,14 @@ heroBackground: '/images/ice-bandeau.png'
 
 - _Durand, Finn, Farchi, Bocquet, Boutin, Olason_: [**_Data-driven surrogate modeling of high-resolution sea-ice thickness in the Arctic_**](https://doi.org/10.5194/tc-18-1791-2024), The Cryosphere, 17, 2965–2991, August, 2023.
 
+- - _Wang, Hwang, Bateson, Aksenov, Horvat:_ [**_Summer sea ice floe size distribution in the Arctic: High-resolution optical satellite imagery and model evaluation._**](https://doi.org/10.5194/tc-17-3575-2023) The Cryosphere,August, 2023.
+
 -  - _Kopp, Oppenheimer, O'Reilly, Drijfhout, Edwards, Fox-Kemper, Garner, Golledge, Hermans, Hewitt, Horton, Krinner, Notz, Nowicki, Palmer, Slangen, and Xiao_: [**_Communicating projection uncertainty and ambiguity in sea-level assessment_**](10.1038/s41558-023-01691-8), Nature Climate Change, June, 2023.
   
 ---
 # 2022
 
-- _Ólason, Boutin, Korosov, Rampal, Williams, Kimmritz, Dansereau, Samaké:_ [**_A New Brittle Rheology and Numerical Framework for Large-Scale Sea-Ice Models._**]( https://doi.org/10.1029/2021MS002685) Journal of Advances in Modeling Earth Systems, 2022, 14.
+- _Ólason, Boutin, Korosov, Rampal, Williams, Kimmritz, Dansereau, Samaké:_ [**_A New Brittle Rheology and Numerical Framework for Large-Scale Sea-Ice Models._**]( https://doi.org/10.1029/2021MS002685) Journal of Advances in Modeling Earth Systems, July, 2022.
 
 - _Serripierri, Moreau, Boué, Weiss, Roux:_ [**_Recovering and monitoring the thickness, density and elastic properties of sea ice from seismic noise recorded in Svalbard._**](https://doi.org/10.5194/tc-16-2527-2022) The Cryosphere, 16, 2527–2543, June, 2022.
 
@@ -64,22 +66,21 @@ heroBackground: '/images/ice-bandeau.png'
 
 - _Horvat, Seabrook, Cristi, Matthes, Bisson:_ [**_Evidence of phytoplankton Blooms Under Antarctic Sea Ice._**](https://doi.org/10.3389/fmars.2022.942799) Frontiers in Marine Science, November, 2022.
 
-- _Wang, Hwang, Bateson, Aksenov, Horvat:_ [**_Summer sea ice floe size distribution in the Arctic: High-resolution optical satellite imagery and model evaluation._**](https://doi.org/10.5194/tc-2022-130) The Cryosphere Discussions, 2022.
+- _Brouwer, Fraser, Murphy, Wongpan, Alberello, Kohout, Horvat, Wotherspoon Massom, J. Cartwright, G. Williams:_ [**_Altimetric observation of wave attenuation through the Antarctic marginal ice zone using ICESat-2._**](https://doi.org/10.5194/tc-16-2325-2022) The Cryosphere, 16, 2325–2353, June, 2022. 
 
-- _Brouwer, Fraser, Murphy, Wongpan, Alberello, Kohout, Horvat, Wotherspoon Massom, J. Cartwright, G. Williams:_ [**_Altimetric observation of wave attenuation through the Antarctic marginal ice zone using ICESat-2._**](https://doi.org/10.5194/tc-16-2325-2022) The Cryosphere, 16, 2325–2353, 2022. 
+- _Maisonnave, Bourdallé-Badie_ [**_Coupling NEMO global ocean with hemispheric Arctic and Antarctic ice models_**](https://cerfacs.fr/wp-content/uploads/2022/03/support_esiwace_TR_CMGC_22_18.pdf) Technical Report, TR/CMGC/22/18, CECI, UMR CERFACS/CNRS No5318, France.
 
-- _Maisonnave, Bourdallé-Badie_ [**_Coupling NEMO global ocean with hemispheric Arctic and Antarctic ice models_**](https://cerfacs.fr/wp-content/uploads/2022/03/support_esiwace_TR_CMGC_22_18.pdf) Technical Report, TR/CMGC/22/18, CECI, UMR CERFACS/CNRS No5318, France. 
+- _Horvat, Roach._ [**_WIFF1.0: A hybrid machine-learning-based parameterization of Wave-Induced sea-ice Floe Fracture._**](https://doi.org/10.5194/gmd-15-803-2022)) Geoscientific Model Development, January, 2022. 
 
 ---
 # 2021
 
-- _Olason, Rampal, Dansereau._ [**_On the statistical properties of sea-ice lead fraction and heat fluxes in the Arctic._**](https://doi.org/10.5194/tc-15-1053-2021) The Cryosphere, 15, 1053–1064.
+- _Olason, Rampal, Dansereau._ [**_On the statistical properties of sea-ice lead fraction and heat fluxes in the Arctic._**](https://doi.org/10.5194/tc-15-1053-2021) The Cryosphere, 15, 1053–1064, February, 2021. 
 
-- _Boutin, Williams, Rampal, Olason, Lique._ [**_Wave–sea-ice interactions in a brittle rheological framework._**](https://doi.org/10.5194/tc-15-431-2021) The Cryosphere, 15, 431–457.
+- _Boutin, Williams, Rampal, Olason, Lique._ [**_Wave–sea-ice interactions in a brittle rheological framework._**](https://doi.org/10.5194/tc-15-431-2021) The Cryosphere, 15, 431–457, January, 2021. 
 
 - _Horvat._ [**_Wave–sea-ice interactions in a brittle rheological framework._**](https://doi.org/10.1038/s41467-021-22004-7) Nature Communications volume 12, Article number: 2221 (2021)
 
-- _Horvat, Roach._ [**_WIFF1.0: A hybrid machine-learning-based parameterization of Wave-Induced sea-ice Floe Fracture._**](https://doi.org/10.5194/gmd-2021-281) Geoscientific Model Development, 2021
   
 
 
