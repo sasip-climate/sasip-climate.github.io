@@ -8,9 +8,9 @@ heroBackground: '/images/ice-bandeau.png'
 
 # 2024
 
-- _Finn, Durand, Farchi, Bocquet, Rampal, Carrassi_: [**_Generative diffusion for regional surrogate models from sea-ice simulations_**](https://doi.org/10.22541/au.171386536.64344222/v1), Journal of Advances in Modeling Earth Systems, 2024, preprint_.
+- _Finn, Durand, Farchi, Bocquet, Rampal, Carrassi_: [**_Generative diffusion for regional surrogate models from sea-ice simulations_**](https://doi.org/10.22541/au.171386536.64344222/v1), _Journal of Advances in Modeling Earth Systems, 2024, preprint_.
 
-- _Driscoll, Carrassi, Brajard, Bertino, Bocquet, Olason_: [**_Parameter sensitivity analysis of a sea ice melt pond parametrisation and its emulation using neural networks_**](https://doi.org/10.1016/j.jocs.2024.102231), 	Journal of Computational Science, March 2024_.
+- _Driscoll, Carrassi, Brajard, Bertino, Bocquet, Olason_: [**_Parameter sensitivity analysis of a sea ice melt pond parametrisation and its emulation using neural networks_**](https://doi.org/10.1016/j.jocs.2024.102231), _Journal of Computational Science, March 2024_.
 
 - _C.Hell, Horvat_: [**_A method for constructing directional surface wave spectra from ICESat-2 altimetry_**](https://doi.org/10.5194/tc-18-341-2024), _The Cryosphere, 18, 341–361, January 2024_.
 
@@ -37,49 +37,49 @@ heroBackground: '/images/ice-bandeau.png'
 
 - _Boutin, Ólason,  Rampal, Regan, Lique, Talandier, Brodeau,  Ricker._ [**_Arctic Sea Ice Mass Balance in a New Coupled Ice–Ocean Model Using a Brittle Rheology Framework._**](https://doi.org/10.5194/tc-17-617-2023) _The Cryosphere, 17, 617–638, 2023_.
 
-- _Finn,  Durand,  Farchi,  Bocquet,  Chen,  Carrassi, Dansereau_: [**_Deep learning of subgrid-scale parametrisations for short-term forecasting of sea-ice dynamics with a Maxwell-Elasto-Brittle rheology._**](https://tc.copernicus.org/articles/17/2965/2023/), The Cryosphere, 17, 2965–2991, 2023_.
+- _Finn,  Durand,  Farchi,  Bocquet,  Chen,  Carrassi, Dansereau_: [**_Deep learning of subgrid-scale parametrisations for short-term forecasting of sea-ice dynamics with a Maxwell-Elasto-Brittle rheology._**](https://tc.copernicus.org/articles/17/2965/2023/), _The Cryosphere, 17, 2965–2991, 2023_.
 
-- _Cheng,  Chen, Aydoğdu,  Bertino, Carrassi, Rampal, Jones_: [**_Arctic sea ice data assimilation combining an ensemble Kalman filter with a novel Lagrangian sea ice model for the winter 2019–2020_**](https://doi.org/10.5194/tc-17-1735-2023), The Cryosphere, April, 2023.
+- _Cheng,  Chen, Aydoğdu,  Bertino, Carrassi, Rampal, Jones_: [**_Arctic sea ice data assimilation combining an ensemble Kalman filter with a novel Lagrangian sea ice model for the winter 2019–2020_**](https://doi.org/10.5194/tc-17-1735-2023), _The Cryosphere, April, 2023_.
 
-- _Cheng, Quilodra ́n-Casas, Ouala, Farchi, Carrassi, Bocquect et al._: [**_Machine Learning With Data Assimilation and Uncertainty Quantification for Dynamical Systems: A Review_**](https://www.ieee-jas.net/article/doi/10.1109/JAS.2023.123537), EEE/CAA JOURNAL OF AUTOMATICA SINICA, June, 2023.
+- _Cheng, Quilodra ́n-Casas, Ouala, Farchi, Carrassi, Bocquect et al._: [**_Machine Learning With Data Assimilation and Uncertainty Quantification for Dynamical Systems: A Review_**](https://www.ieee-jas.net/article/doi/10.1109/JAS.2023.123537), _EEE/CAA JOURNAL OF AUTOMATICA SINICA, June, 2023_.
 
-- _Ayers, Lau, Amezcua, Carrassi, Ojha_: [**_Supervised machine learning to estimate instabilities in chaotic systems: Estimation of local Lyapunov exponents_**](https://doi.org/10.1002/qj.4450), Quarterly Journal of the Royal Meteorological Society, March 2023_.
+- _Ayers, Lau, Amezcua, Carrassi, Ojha_: [**_Supervised machine learning to estimate instabilities in chaotic systems: Estimation of local Lyapunov exponents_**](https://doi.org/10.1002/qj.4450), _Quarterly Journal of the Royal Meteorological Society, March 2023_.
 
-- _Ivo Pasmans, Yumeng Chen, Alberto Carrassi, Chris K.R.T. Jones_: [**_Tailoring data assimilation to discontinuous Galerkin models_**](https://doi.org/10.48550/arXiv.2305.02950), 	arXiv:2305.02950, 2023.
+- _Ivo Pasmans, Yumeng Chen, Alberto Carrassi, Chris K.R.T. Jones_: [**_Tailoring data assimilation to discontinuous Galerkin models_**](https://doi.org/10.48550/arXiv.2305.02950), 	_arXiv:2305.02950, 2023_.
 
-- _Durand, Finn, Farchi, Bocquet, Boutin, Olason_: [**_Data-driven surrogate modeling of high-resolution sea-ice thickness in the Arctic_**](https://doi.org/10.5194/tc-18-1791-2024), The Cryosphere, 17, 2965–2991, August, 2023.
+- _Durand, Finn, Farchi, Bocquet, Boutin, Olason_: [**_Data-driven surrogate modeling of high-resolution sea-ice thickness in the Arctic_**](https://doi.org/10.5194/tc-18-1791-2024), _The Cryosphere, 17, 2965–2991, August, 2023_.
 
-- - _Wang, Hwang, Bateson, Aksenov, Horvat:_ [**_Summer sea ice floe size distribution in the Arctic: High-resolution optical satellite imagery and model evaluation._**](https://doi.org/10.5194/tc-17-3575-2023) The Cryosphere,August, 2023.
+- - _Wang, Hwang, Bateson, Aksenov, Horvat:_ [**_Summer sea ice floe size distribution in the Arctic: High-resolution optical satellite imagery and model evaluation._**](https://doi.org/10.5194/tc-17-3575-2023) _The Cryosphere,August, 2023_.
 
--  - _Kopp, Oppenheimer, O'Reilly, Drijfhout, Edwards, Fox-Kemper, Garner, Golledge, Hermans, Hewitt, Horton, Krinner, Notz, Nowicki, Palmer, Slangen, and Xiao_: [**_Communicating projection uncertainty and ambiguity in sea-level assessment_**](10.1038/s41558-023-01691-8), Nature Climate Change, June, 2023.
+-  - _Kopp, Oppenheimer, O'Reilly, Drijfhout, Edwards, Fox-Kemper, Garner, Golledge, Hermans, Hewitt, Horton, Krinner, Notz, Nowicki, Palmer, Slangen, and Xiao_: [**_Communicating projection uncertainty and ambiguity in sea-level assessment_**](10.1038/s41558-023-01691-8), _Nature Climate Change, June, 2023_.
   
 ---
 # 2022
 
-- _Ólason, Boutin, Korosov, Rampal, Williams, Kimmritz, Dansereau, Samaké:_ [**_A New Brittle Rheology and Numerical Framework for Large-Scale Sea-Ice Models._**]( https://doi.org/10.1029/2021MS002685) Journal of Advances in Modeling Earth Systems, July, 2022.
+- _Ólason, Boutin, Korosov, Rampal, Williams, Kimmritz, Dansereau, Samaké:_ [**_A New Brittle Rheology and Numerical Framework for Large-Scale Sea-Ice Models._**]( https://doi.org/10.1029/2021MS002685) _Journal of Advances in Modeling Earth Systems, July, 2022_.
 
-- _Serripierri, Moreau, Boué, Weiss, Roux:_ [**_Recovering and monitoring the thickness, density and elastic properties of sea ice from seismic noise recorded in Svalbard._**](https://doi.org/10.5194/tc-16-2527-2022) The Cryosphere, 16, 2527–2543, June, 2022.
+- _Serripierri, Moreau, Boué, Weiss, Roux:_ [**_Recovering and monitoring the thickness, density and elastic properties of sea ice from seismic noise recorded in Svalbard._**](https://doi.org/10.5194/tc-16-2527-2022) _The Cryosphere, 16, 2527–2543, June, 2022_.
 
- - _Boutin, Williams, Horvat, Brodeau:_ [**_Modelling the Arctic Wave-Affected Marginal Ice Zone: A Comparison with ICESat-2 Observations_**](https://doi.org/10.1098/rsta.2021.0262) Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences 380, september, 2022.
+ - _Boutin, Williams, Horvat, Brodeau:_ [**_Modelling the Arctic Wave-Affected Marginal Ice Zone: A Comparison with ICESat-2 Observations_**](https://doi.org/10.1098/rsta.2021.0262) _Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences 380, september, 2022_.
 
-- _Horvat:_ [**_Floes, the Marginal Ice Zone, and Coupled Wave-Sea-Ice Feedbacks._**](https://doi.org/10.1098/rsta.2021.0252) Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences 380, september, 2022.
+- _Horvat:_ [**_Floes, the Marginal Ice Zone, and Coupled Wave-Sea-Ice Feedbacks._**](https://doi.org/10.1098/rsta.2021.0252) _Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences 380, september, 2022_.
 
-- _Horvat, Seabrook, Cristi, Matthes, Bisson:_ [**_Evidence of phytoplankton Blooms Under Antarctic Sea Ice._**](https://doi.org/10.3389/fmars.2022.942799) Frontiers in Marine Science, November, 2022.
+- _Horvat, Seabrook, Cristi, Matthes, Bisson:_ [**_Evidence of phytoplankton Blooms Under Antarctic Sea Ice._**](https://doi.org/10.3389/fmars.2022.942799) _Frontiers in Marine Science, November, 2022_.
 
-- _Brouwer, Fraser, Murphy, Wongpan, Alberello, Kohout, Horvat, Wotherspoon Massom, J. Cartwright, G. Williams:_ [**_Altimetric observation of wave attenuation through the Antarctic marginal ice zone using ICESat-2._**](https://doi.org/10.5194/tc-16-2325-2022) The Cryosphere, 16, 2325–2353, June, 2022. 
+- _Brouwer, Fraser, Murphy, Wongpan, Alberello, Kohout, Horvat, Wotherspoon Massom, J. Cartwright, G. Williams:_ [**_Altimetric observation of wave attenuation through the Antarctic marginal ice zone using ICESat-2._**](https://doi.org/10.5194/tc-16-2325-2022) _The Cryosphere, 16, 2325–2353, June, 2022_. 
 
-- _Maisonnave, Bourdallé-Badie_ [**_Coupling NEMO global ocean with hemispheric Arctic and Antarctic ice models_**](https://cerfacs.fr/wp-content/uploads/2022/03/support_esiwace_TR_CMGC_22_18.pdf) Technical Report, TR/CMGC/22/18, CECI, UMR CERFACS/CNRS No5318, France.
+- _Maisonnave, Bourdallé-Badie_ [**_Coupling NEMO global ocean with hemispheric Arctic and Antarctic ice models_**](https://cerfacs.fr/wp-content/uploads/2022/03/support_esiwace_TR_CMGC_22_18.pdf) _Technical Report, TR/CMGC/22/18, CECI, UMR CERFACS/CNRS No5318, France, 2022_.
 
-- _Horvat, Roach._ [**_WIFF1.0: A hybrid machine-learning-based parameterization of Wave-Induced sea-ice Floe Fracture._**](https://doi.org/10.5194/gmd-15-803-2022)) Geoscientific Model Development, January, 2022. 
+- _Horvat, Roach._ [**_WIFF1.0: A hybrid machine-learning-based parameterization of Wave-Induced sea-ice Floe Fracture._**](https://doi.org/10.5194/gmd-15-803-2022)) _Geoscientific Model Development, January, 2022_. 
 
 ---
 # 2021
 
-- _Olason, Rampal, Dansereau._ [**_On the statistical properties of sea-ice lead fraction and heat fluxes in the Arctic._**](https://doi.org/10.5194/tc-15-1053-2021) The Cryosphere, 15, 1053–1064, February, 2021. 
+- _Olason, Rampal, Dansereau._ [**_On the statistical properties of sea-ice lead fraction and heat fluxes in the Arctic._**](https://doi.org/10.5194/tc-15-1053-2021) _The Cryosphere, 15, 1053–1064, February, 2021_. 
 
-- _Boutin, Williams, Rampal, Olason, Lique._ [**_Wave–sea-ice interactions in a brittle rheological framework._**](https://doi.org/10.5194/tc-15-431-2021) The Cryosphere, 15, 431–457, January, 2021. 
+- _Boutin, Williams, Rampal, Olason, Lique._ [**_Wave–sea-ice interactions in a brittle rheological framework._**](https://doi.org/10.5194/tc-15-431-2021) _The Cryosphere, 15, 431–457, January, 2021_. 
 
-- _Horvat._ [**_Wave–sea-ice interactions in a brittle rheological framework._**](https://doi.org/10.1038/s41467-021-22004-7) Nature Communications volume 12, Article number: 2221 (2021)
+- _Horvat._ [**_Wave–sea-ice interactions in a brittle rheological framework._**](https://doi.org/10.1038/s41467-021-22004-7) _Nature Communications volume 12, Article number: 2221 (2021)_.
 
   
 
