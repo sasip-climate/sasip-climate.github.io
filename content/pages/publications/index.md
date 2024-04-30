@@ -8,22 +8,20 @@ heroBackground: '/images/ice-bandeau.png'
 
 # 2024
 
-- _Finn, Durand, Farchi, Bocquet, Rampal, Carrassi_: [**_Generative diffusion for regional surrogate models from sea-ice simulations_**](https://doi.org/10.22541/au.171386536.64344222/v1), _Journal of Advances in Modeling Earth Systems, 2024, preprint_.
+- _C.Hell, Horvat_: [**_A method for constructing directional surface wave spectra from ICESat-2 altimetry_**](https://doi.org/10.5194/tc-18-341-2024), _The Cryosphere, 18, 341–361, January, 2024_.
 
-- _Driscoll, Carrassi, Brajard, Bertino, Bocquet, Olason_: [**_Parameter sensitivity analysis of a sea ice melt pond parametrisation and its emulation using neural networks_**](https://doi.org/10.1016/j.jocs.2024.102231), _Journal of Computational Science, March 2024_.
+- _Brodeau, Rampal, Òlason, Dansereau_: [**_Implementation of a brittle sea-ice rheology in an Eulerian, finite-difference, C-grid modeling framework: Impact on the simulated deformation of sea-ice in the Arctic_**](https://doi.org/10.5194/gmd-2023-231), _Geosci. Model Dev. Discuss., January, 2024, preprint_.
 
-- _C.Hell, Horvat_: [**_A method for constructing directional surface wave spectra from ICESat-2 altimetry_**](https://doi.org/10.5194/tc-18-341-2024), _The Cryosphere, 18, 341–361, January 2024_.
+- _Driscoll, Carrassi, Brajard, Bertino, Bocquet, Olason_: [**_Parameter sensitivity analysis of a sea ice melt pond parametrisation and its emulation using neural networks_**](https://doi.org/10.1016/j.jocs.2024.102231), _Journal of Computational Science, March, 2024_.
 
-- _Brodeau, Rampal, Òlason, Dansereau_: [**_Implementation of a brittle sea-ice rheology in an Eulerian, finite-difference, C-grid modeling framework: Impact on the simulated deformation of sea-ice in the Arctic_**](https://doi.org/10.5194/gmd-2023-231), _Geosci. Model Dev. Discuss., January 2024, preprint_.
+- - _Driscoll, Carrassi, Brajard, Bertino, Bocquet, Olason_: [**_Do AI models produce better weather forecasts than physics-based models? A quantitative evaluation case study of Storm Ciarán_**](https://www.nature.com/articles/s41612-024-00638-w), _Nature npj Climate and Atmospheric Science, April, 2024_.
+
+- _Finn, Durand, Farchi, Bocquet, Rampal, Carrassi_: [**_Generative diffusion for regional surrogate models from sea-ice simulations_**](https://doi.org/10.22541/au.171386536.64344222/v1), _Journal of Advances in Modeling Earth Systems, April, 2024, preprint_.
 
 ---
 # 2023
 
-- _Brenner, Horvat, Hall, Lo Piccolo, Fox-Kemper, Labbé, Dansereau_: [**_Scale-Dependent Air-Sea Exchange in the Polar Oceans: Floe-Floe and Floe-Flow Coupling in the Generation of Ice-Ocean Boundary Layer Turbulence_**](https://doi.org/10.1029/2023GL105703), _Geophysical Reserch Letters (GRL), December 07, 2023_.
-
 - _Finn, Disson, Farchi, Bocquet, Durand_: [**_Representation learning with unconditional denoising diffusion models for dynamical systems_**](https://doi.org/10.5194/egusphere-2023-2261), _EGUsphere, July 07, 2023, preprint_.
-
-- _Van Katwyk, Fox-Kemper, Seroussi, et al._: [**_A variational LSTM emulator of sea level contribution from the Antarctic ice sheet_**](https://doi.org/10.1029/2023MS003899), _Journal of in Modeling Earth Systems, December, 2023_.
 
 - _Chen, Smith, Carrassi, Pasmans, Bertino, Bocquet, Finn, Rampal, and Dansereau_: [**_Multivariate state and parameter estimation with data assimilation on sea-ice models using a Maxwell-Elasto-Brittle rheology_**](https://doi.org/10.5194/egusphere-2023-1809), _EGUsphere, 2023, preprint_.
 
@@ -49,9 +47,13 @@ heroBackground: '/images/ice-bandeau.png'
 
 - _Durand, Finn, Farchi, Bocquet, Boutin, Olason_: [**_Data-driven surrogate modeling of high-resolution sea-ice thickness in the Arctic_**](https://doi.org/10.5194/tc-18-1791-2024), _The Cryosphere, 17, 2965–2991, August, 2023_.
 
-- - _Wang, Hwang, Bateson, Aksenov, Horvat:_ [**_Summer sea ice floe size distribution in the Arctic: High-resolution optical satellite imagery and model evaluation._**](https://doi.org/10.5194/tc-17-3575-2023) _The Cryosphere,August, 2023_.
+- _Wang, Hwang, Bateson, Aksenov, Horvat:_ [**_Summer sea ice floe size distribution in the Arctic: High-resolution optical satellite imagery and model evaluation._**](https://doi.org/10.5194/tc-17-3575-2023) _The Cryosphere,August, 2023_.
 
--  - _Kopp, Oppenheimer, O'Reilly, Drijfhout, Edwards, Fox-Kemper, Garner, Golledge, Hermans, Hewitt, Horton, Krinner, Notz, Nowicki, Palmer, Slangen, and Xiao_: [**_Communicating projection uncertainty and ambiguity in sea-level assessment_**](10.1038/s41558-023-01691-8), _Nature Climate Change, June, 2023_.
+- _Kopp, Oppenheimer, O'Reilly, Drijfhout, Edwards, Fox-Kemper, Garner, Golledge, Hermans, Hewitt, Horton, Krinner, Notz, Nowicki, Palmer, Slangen, and Xiao_: [**_Communicating projection uncertainty and ambiguity in sea-level assessment_**](10.1038/s41558-023-01691-8), _Nature Climate Change, June, 2023_.
+
+- _Brenner, Horvat, Hall, Lo Piccolo, Fox-Kemper, Labbé, Dansereau_: [**_Scale-Dependent Air-Sea Exchange in the Polar Oceans: Floe-Floe and Floe-Flow Coupling in the Generation of Ice-Ocean Boundary Layer Turbulence_**](https://doi.org/10.1029/2023GL105703), _Geophysical Reserch Letters (GRL), December 07, 2023_.
+
+- _Van Katwyk, Fox-Kemper, Seroussi, et al._: [**_A variational LSTM emulator of sea level contribution from the Antarctic ice sheet_**](https://doi.org/10.1029/2023MS003899), _Journal of in Modeling Earth Systems, December, 2023_.
   
 ---
 # 2022
