@@ -20,6 +20,8 @@ heroBackground: '/images/ice-bandeau.png'
 
 - _Finn, Durand, Farchi, Bocquet, Rampal, Carrassi_: [**_Generative diffusion for regional surrogate models from sea-ice simulations_**](https://doi.org/10.22541/au.171386536.64344222/v1), _Journal of Advances in Modeling Earth Systems, April, 2024, preprint_.
 
+- _Lo Piccolo, Horvat, Fox-Kemper_: [**_Energetics and Transfer of Submesoscale Brine Driven Eddies at a Sea Ice Edge_**](https://doi.org/10.1175/JPO-D-23-0147.1), _Journal of Physical Oceanography , April, 2024_.
+
 ---
 # 2023
 
@@ -47,7 +49,7 @@ heroBackground: '/images/ice-bandeau.png'
 
 - _Ivo Pasmans, Yumeng Chen, Alberto Carrassi, Chris K.R.T. Jones_: [**_Tailoring data assimilation to discontinuous Galerkin models_**](https://doi.org/10.48550/arXiv.2305.02950), 	_arXiv:2305.02950, 2023_.
 
-- _Wang, Hwang, Bateson, Aksenov, Horvat:_ [**_Summer sea ice floe size distribution in the Arctic: High-resolution optical satellite imagery and model evaluation._**](https://doi.org/10.5194/tc-17-3575-2023) _The Cryosphere,August, 2023_.
+- _Wang, Hwang, Bateson, Aksenov, Horvat:_ [**_Summer sea ice floe size distribution in the Arctic: High-resolution optical satellite imagery and model evaluation._**](https://doi.org/10.5194/tc-17-3575-2023) _The Cryosphere, August, 2023_.
 
 - _Kopp, Oppenheimer, O'Reilly, Drijfhout, Edwards, Fox-Kemper, Garner, Golledge, Hermans, Hewitt, Horton, Krinner, Notz, Nowicki, Palmer, Slangen, and Xiao_: [**_Communicating projection uncertainty and ambiguity in sea-level assessment_**](10.1038/s41558-023-01691-8), _Nature Climate Change, June, 2023_.
 
