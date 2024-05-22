@@ -22,6 +22,8 @@ heroBackground: '/images/ice-bandeau.png'
 
 - _Lo Piccolo, Horvat, Fox-Kemper_: [**_Energetics and Transfer of Submesoscale Brine Driven Eddies at a Sea Ice Edge_**](https://doi.org/10.1175/JPO-D-23-0147.1), _Journal of Physical Oceanography , April, 2024_.
 
+- _Smith, Shiney-Ajay, Fleurantin, Pasmans_: [**_Investigating Ocean Circulation Dynamics Through Data Assimilation: A Mathematical Study Using the Stommel Box Model with Rapid Oscillatory Forcings_**](https://doi.org/10.48550/arXiv.2404.07134), _arXiv:2404.07134, April, 2024, submitted_.
+
 ---
 # 2023
 
