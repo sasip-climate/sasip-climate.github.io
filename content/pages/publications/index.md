@@ -24,6 +24,8 @@ heroBackground: '/images/ice-bandeau.png'
 
 - _Smith, Shiney-Ajay, Fleurantin, Pasmans_: [**_Investigating Ocean Circulation Dynamics Through Data Assimilation: A Mathematical Study Using the Stommel Box Model with Rapid Oscillatory Forcings_**](https://doi.org/10.48550/arXiv.2404.07134), _arXiv:2404.07134, April, 2024, submitted_.
 
+- _Pasmans, Chen, Carrassi,K.R.T. Jones_: [**_Tailoring data assimilation to discontinuous Galerkin models_**](https://doi.org/10.1002/qj.4737), 	_Quarterly Journal of the Royal Meteorological Society, May, 2024_.
+  
 ---
 # 2023
 
@@ -48,8 +50,6 @@ heroBackground: '/images/ice-bandeau.png'
 - _Cheng, Quilodra ́n-Casas, Ouala, Farchi, Carrassi, Bocquect et al._: [**_Machine Learning With Data Assimilation and Uncertainty Quantification for Dynamical Systems: A Review_**](https://www.ieee-jas.net/article/doi/10.1109/JAS.2023.123537), _EEE/CAA JOURNAL OF AUTOMATICA SINICA, June, 2023_.
 
 - _Ayers, Lau, Amezcua, Carrassi, Ojha_: [**_Supervised machine learning to estimate instabilities in chaotic systems: Estimation of local Lyapunov exponents_**](https://doi.org/10.1002/qj.4450), _Quarterly Journal of the Royal Meteorological Society, March 2023_.
-
-- _Ivo Pasmans, Yumeng Chen, Alberto Carrassi, Chris K.R.T. Jones_: [**_Tailoring data assimilation to discontinuous Galerkin models_**](https://doi.org/10.48550/arXiv.2305.02950), 	_arXiv:2305.02950, 2023_.
 
 - _Wang, Hwang, Bateson, Aksenov, Horvat:_ [**_Summer sea ice floe size distribution in the Arctic: High-resolution optical satellite imagery and model evaluation._**](https://doi.org/10.5194/tc-17-3575-2023) _The Cryosphere, August, 2023_.
 
