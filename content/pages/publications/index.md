@@ -12,7 +12,7 @@ heroBackground: '/images/ice-bandeau.png'
 
 - _Brodeau, Rampal, Òlason, Dansereau_: [**_Implementation of a brittle sea-ice rheology in an Eulerian, finite-difference, C-grid modeling framework: Impact on the simulated deformation of sea-ice in the Arctic_**](https://doi.org/10.5194/gmd-2023-231), _Geosci. Model Dev. Discuss., January, 2024, preprint_.
 
--  _Jendersie, Lessig, Richter_: [**_Towards a GPU-Parallelization of the neXtSIM-DG Dynamical Core_**](https://doi.org/10.48550/arXiv.2402.00466), arXiv:2402.00466, February, 2024, preprint_.
+-  _Jendersie, Lessig, Richter_: [**_Towards a GPU-Parallelization of the neXtSIM-DG Dynamical Core_**](https://doi.org/10.48550/arXiv.2402.00466), _arXiv:2402.00466, February, 2024, preprint_.
 
 - _Driscoll, Carrassi, Brajard, Bertino, Bocquet, Olason_: [**_Parameter sensitivity analysis of a sea ice melt pond parametrisation and its emulation using neural networks_**](https://doi.org/10.1016/j.jocs.2024.102231), _Journal of Computational Science, March, 2024_.
 
