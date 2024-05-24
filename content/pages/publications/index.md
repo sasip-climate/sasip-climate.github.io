@@ -16,7 +16,7 @@ heroBackground: '/images/ice-bandeau.png'
 
 - _Driscoll, Carrassi, Brajard, Bertino, Bocquet, Olason_: [**_Parameter sensitivity analysis of a sea ice melt pond parametrisation and its emulation using neural networks_**](https://doi.org/10.1016/j.jocs.2024.102231), _Journal of Computational Science, March, 2024_.
 
-- _Driscoll, Carrassi, Brajard, Bertino, Bocquet, Olason_: [**_Do AI models produce better weather forecasts than physics-based models? A quantitative evaluation case study of Storm Ciarán_**](https://www.nature.com/articles/s41612-024-00638-w), _Nature npj Climate and Atmospheric Science, April, 2024_.
+- _J. Charlton-Perez, F.Dacre, Driscoll_: [**_Do AI models produce better weather forecasts than physics-based models? A quantitative evaluation case study of Storm Ciarán_**](https://www.nature.com/articles/s41612-024-00638-w), _Nature npj Climate and Atmospheric Science, April, 2024_.
  
 - _Durand, Finn, Farchi, Bocquet, Boutin, Olason_: [**_Data-driven surrogate modeling of high-resolution sea-ice thickness in the Arctic_**](https://doi.org/10.5194/tc-18-1791-2024), _The Cryosphere, 17, 2965–2991, April, 2024_.
 
