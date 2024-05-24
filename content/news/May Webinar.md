@@ -1,6 +1,6 @@
 ---
 title: 'SASIP May Webinar - Robert Jendersie'
-date: 2024-05-26
+date: 2024-05-24
 authors:
 categories: ['Webinars']
 description: Towards a GPU-Parallelization of the neXtSIM-DG Dynamical Core
