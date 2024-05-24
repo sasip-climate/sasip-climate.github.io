@@ -27,13 +27,13 @@ heroBackground: '/images/ice-bandeau.png'
 - _Smith, Shiney-Ajay, Fleurantin, Pasmans_: [**_Investigating Ocean Circulation Dynamics Through Data Assimilation: A Mathematical Study Using the Stommel Box Model with Rapid Oscillatory Forcings_**](https://doi.org/10.48550/arXiv.2404.07134), _arXiv:2404.07134, April, 2024, submitted_.
 
 - _Pasmans, Chen, Carrassi,K.R.T. Jones_: [**_Tailoring data assimilation to discontinuous Galerkin models_**](https://doi.org/10.1002/qj.4737), 	_Quarterly Journal of the Royal Meteorological Society, May, 2024_.
+
+- _Chen, Smith, Carrassi, Pasmans, Bertino, Bocquet, Finn, Rampal, and Dansereau_: [**_Multivariate state and parameter estimation with data assimilation applied to sea-ice models using a Maxwell Elasto-Brittle rheology_**](https://doi.org/10.5194/tc-18-2381-2024), _The Cryosphere, May, 2024_.
   
 ---
 # 2023
 
 - _Finn, Disson, Farchi, Bocquet, Durand_: [**_Representation learning with unconditional denoising diffusion models for dynamical systems_**](https://doi.org/10.5194/egusphere-2023-2261), _EGUsphere, July 07, 2023, preprint_.
-
-- _Chen, Smith, Carrassi, Pasmans, Bertino, Bocquet, Finn, Rampal, and Dansereau_: [**_Multivariate state and parameter estimation with data assimilation on sea-ice models using a Maxwell-Elasto-Brittle rheology_**](https://doi.org/10.5194/egusphere-2023-1809), _EGUsphere, October, 2023, preprint_.
 
 - _Cheng, Quilodran-Casas, Ouala, Farchi, Liu, Tandeo, Fablet, Lucor, Iooss, Brajard, Xiao, Janjic, Ding, Guo, Carrassi, Bocquet, Arcucci_: [**_Machine learning with data assimilation and uncertainty quantification for dynamical systems: a review_**](https://arxiv.org/abs/2303.10462), _accepted for publication on the IEEE/CAA Journal of Automatica Sinica_.
 
