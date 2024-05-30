@@ -11,4 +11,4 @@ weight: 59
 
 Centre National de la Recherche Scientifique, France & University of Oslo, Norway
 
-*Sea-ice modeling*
+*Sea ice modeling, rheology, phase field modeling*
