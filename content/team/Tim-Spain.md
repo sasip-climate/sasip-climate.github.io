@@ -11,4 +11,4 @@ weight: 35
 
 Nansen Environmental and Remote Sensing Center, Norway
 
-*Sea ice, ice modelling, GCMs*
+*Sea-ice modeling, GCMs*
