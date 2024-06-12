@@ -18,16 +18,16 @@
   display: none;
   @include media-breakpoint-up(sm) {
     display: block;
-    height: 51px;
+    height: 55px;
   }
   img {
     width: auto;
-    height: 50px;
+    height: 40px;
   }
   a {
     display: block;
     width: auto;
-    height: 50px;
+    height: 40px;
   }
 }
 .logo-mobile {
