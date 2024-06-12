@@ -18,7 +18,7 @@
   display: none;
   @include media-breakpoint-up(sm) {
     display: block;
-    height: 100px;
+    height: 60px;
   }
   img {
     width: auto;
