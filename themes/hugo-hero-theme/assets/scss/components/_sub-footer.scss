@@ -11,7 +11,7 @@
     flex-direction: column;
     justify-content: space-between;
     @include media-breakpoint-up(md) {
-      flex-direction: row;
+      flex-direction: column;
     }
     ul {
       list-style: none;
