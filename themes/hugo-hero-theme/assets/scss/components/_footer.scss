@@ -6,10 +6,10 @@
     display: flex;
     justify-content: space-between;
     flex-direction: column;
-    align-items: flex-start;
+    align-items: center;
     @include media-breakpoint-up(sm) {
       justify-content: space-between;
-      flex-direction: row;
+      flex-direction: column;
       align-items: center;
     }
   }
@@ -37,6 +37,7 @@
       line-height: 1.6;
       &:last-of-type {
         margin-right: 0;
+        align-items: center;
       }
       a {
         color: lighten($secondary, 50%);
