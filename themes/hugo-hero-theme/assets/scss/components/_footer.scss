@@ -34,7 +34,7 @@
       margin-right: 10px;
       color: lighten($secondary, 50%);
       font-size: 0.8rem;
-      line-height: 5;
+      line-height: 1.6;
       &:last-of-type {
         margin-right: 0;
       }
@@ -56,7 +56,7 @@
       &.text {
         font-weight: lighter;
         font-size: 0.8rem;
-        line-height: 5;
+        line-height: 1.2;
         color: lighten($secondary, 50%);
         display: inline-block;
         @include media-breakpoint-up(md) {
@@ -76,7 +76,7 @@
         list-style: none;
         a {
           display: inline-block;
-          height: 100px;
+          height: 40px;
           padding: 10px 8px 10px 8px;
           font-weight: 300;
         }
