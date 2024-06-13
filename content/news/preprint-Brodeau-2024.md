@@ -4,8 +4,8 @@ date: 2024-01-10
 authors:
 categories: ['Publications']
 description: 'New preprint by Brodeau, Rampal et al.'
-thumbnail: '/images/news/Preprint Brodeau 2024.png'
-image: '/images/news/Preprint Brodeau 2024.png'
+thumbnail: '/images/news/Brodeau-Preprint_2024.png'
+image: '/images/news/Brodeau-Preprint_2024.png'
 heroBackground: '/images/ice-bandeau.png'
 ---
 
