@@ -4,7 +4,7 @@ date: 2024-03-15
 authors:
 categories: ['Newsletter']
 description: 'Latest news from SASIP! Opening of FloeDyn and many other exciting news'
-thumbnail: '/images/news/March_Newsletter.png'
+thumbnail: '/images/news/March-Newsletter.png'
 heroBackground: '/images/ice-bandeau.png'
 ---
 
