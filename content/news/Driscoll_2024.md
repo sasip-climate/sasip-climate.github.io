@@ -20,4 +20,4 @@ https://doi.org/10.1016/j.jocs.2024.102231
 ![[Higgs2024](https://doi.org/10.1016/j.jocs.2024.102231)](/images/news/Driscoll_2024.png)
 
 ---
-_[**Fig.1** (from Higgs et al.)]([https://doi.org/10.1016/j.jocs.2024.102231]):The Atlantic Margin Model (AMM7) domain used in this study. The figure also shows the ocean bathymetry of the North West European Shelf_.
+_[**Fig.1** (from Driscoll et al.)]([https://doi.org/10.1016/j.jocs.2024.102231]):The Atlantic Margin Model (AMM7) domain used in this study. The figure also shows the ocean bathymetry of the North West European Shelf_.
