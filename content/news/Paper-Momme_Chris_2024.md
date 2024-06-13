@@ -17,7 +17,7 @@ Surface waves impact Sea Ice Fracture in the MIZ, but wave attenuation in sea ic
 
 ---
 
-![[Momme2024](https://doi.org/10.5194/tc-18-341-2024)](images/news/Momme-Chris- 2024.png )
+![[Momme2024](https://doi.org/10.5194/tc-18-341-2024)](static/images/news/Momme-Chris- 2024.png )
 
 
 ---
