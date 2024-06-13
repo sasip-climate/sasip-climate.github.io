@@ -4,8 +4,8 @@ date: 2024-01-19
 authors:
 categories: ['Publications']
 description: 'New paper by C.Hell and Horvat'
-thumbnail: '/images/news/Momme-Chris-2024.png'
-image: '/images/news/Momme-Chris-2024.png'
+thumbnail: '/images/news/Paper_Momme_Chris_2024.png'
+image: '/images/news/Paper_Momme_Chris_2024.png'
 heroBackground: '/images/ice-bandeau.png'
 ---
 
@@ -17,7 +17,7 @@ Surface waves impact Sea Ice Fracture in the MIZ, but wave attenuation in sea ic
 
 ---
 
-![[Momme2024](https://doi.org/10.5194/tc-18-341-2024)](/images/news/Momme-Chris-2024.png)
+![[Momme2024](https://doi.org/10.5194/tc-18-341-2024)](/images/news/Paper_Momme_Chris_2024.png)
 
 
 ---
