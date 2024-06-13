@@ -4,7 +4,7 @@ date: 2024-05-06
 authors:
 categories: ['Newsletter']
 description: 'New articles and other exciting news!'
-thumbnail: '/images/news/May Newsletter.png'
+thumbnail: '/images/news/May-Newsletter.png'
 heroBackground: '/images/ice-bandeau.png'
 ---
 
