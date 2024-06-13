@@ -1,9 +1,9 @@
 ---
-title: 'A method for constructing directional surface wave spectra from ICESat-2 altimetry by C.Hell and Horvat'
+title: 'A method for constructing directional surface wave spectra from ICESat-2 altimetry'
 date: 2024-01-19
 authors:
 categories: ['Publications']
-description: 'A New Brittle Rheology and Numerical Framework for Large-Scale Sea-Ice Models.'
+description: 'New paper by C.Hell and Horvat'
 thumbnail: 'images/news/Paper Momme Chris.png'
 image: 'images/news/Paper Momme Chris.png'
 heroBackground: '/images/ice-bandeau.png'
