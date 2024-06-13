@@ -4,8 +4,8 @@ date: 2024-01-10
 authors:
 categories: ['Publications']
 description: 'New preprint by Brodeau, Rampal et al.'
-thumbnail: '/images/news/Brodeau-Preprint_2024.png'
-image: '/images/news/Brodeau-Preprint_2024.png'
+thumbnail: '/images/news/Preprint_Brodeau_2024.png'
+image: '/images/news/Preprint_Brodeau_2024.png'
 heroBackground: '/images/ice-bandeau.png'
 ---
 
@@ -13,7 +13,7 @@ In [**this new preprint**](https://doi.org/10.5194/gmd-2023-231) published in Ge
 
 ---
 
-![[Brodeau2024](https://doi.org/10.5194/gmd-2023-231)](/images/news/Brodeau-Preprint_2024.png)
+![[Brodeau2024](https://doi.org/10.5194/gmd-2023-231)](/images/news/Preprint_Brodeau_2024.png)
 
 ---
 _[**Fig.7** (from Brodeau and Rampal)]([https://doi.org/10.5194/gmd-2023-231]):PDFs of the (a) shear, (b) divergence, (c) convergence, and (d) total deformation rates at the 10 km spatial and 3-day temporal scale, for RGPS data and their synthetic counterparts constructed using the simulated sea-ice velocities of SI3-BBM an SI3-aEVP. The light gray lines are for reference and correspond to a power-law with an exponent of -3. Below each panel, the departure between the logarithm of the simulated and observed distributions is shown for each bin_.
