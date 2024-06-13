@@ -15,6 +15,8 @@ Momme C.Hell and Christopher Horvat have published a new paper paper related to 
 
 Surface waves impact Sea Ice Fracture in the MIZ, but wave attenuation in sea ice is one of the least constrained processes in current sea ice models. We hear how a method that provide 2D wave spectra in sea ice along ICESat-2 tracks. We use a combination of linear inverse methods and Monte-Carlo sampling on all 6 laser beams to constrain the wave spectra about every 25 km. This allows us to derive a large, global databases of wave attenuation in sea ice and will be on of the first examples of remote-sensing and data-driven parametrization for climate models.   
 
+https://doi.org/10.5194/tc-18-341-2024
+
 ---
 
 ![[Momme2024](https://doi.org/10.5194/tc-18-341-2024)](/images/news/Paper_Momme_Chris_2024.png)
