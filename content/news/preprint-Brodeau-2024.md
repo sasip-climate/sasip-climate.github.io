@@ -9,7 +9,7 @@ image: '/images/news/Brodeau-Preprint_2024.png'
 heroBackground: '/images/ice-bandeau.png'
 ---
 
-In [**this new preprint**](https://doi.org/10.5194/gmd-2023-231)published in Geoscientific Model Development, Laurent Brodeau, Pierre Rampal et al. describe how they achieved the numerical implementation of the Brittle Bingham-Maxwell sea-ice rheology (BBM) into SI3, the sea-ice component of NEMO
+In [**this new preprint**](https://doi.org/10.5194/gmd-2023-231) published in Geoscientific Model Development, Laurent Brodeau, Pierre Rampal et al. describe how they achieved the numerical implementation of the Brittle Bingham-Maxwell sea-ice rheology (BBM) into SI3, the sea-ice component of NEMO
 
 ---
 
