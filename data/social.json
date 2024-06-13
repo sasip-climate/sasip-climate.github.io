@@ -18,5 +18,10 @@
         "name": "LinkedIn",
         "link": "https://www.linkedin.com/company/sasip-climate",
         "image": "images/LinkedIn_icon.png"
+    },
+    {
+        "name": "YouTube",
+        "link": "https://www.youtube.com/channel/UCjQTNnwt8FY3SPfnt-ftMcg",
+        "image": "images/Youtube_logo.png"
     }
 ]
