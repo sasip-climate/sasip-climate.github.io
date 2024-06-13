@@ -9,7 +9,7 @@ image: '/images/news/Preprint_Brodeau_2024.png'
 heroBackground: '/images/ice-bandeau.png'
 ---
 
-[**Implementation of a brittle sea-ice rheology in an Eulerian, finite-difference, C-grid modeling framework: Impact on the simulated deformation of sea-ice in the Arctic**](https://doi.org/10.5194/gmd-2023-231) by Laurent Brodeau et al., published Geoscientific Model Development.
+[**Implementation of a brittle sea-ice rheology in an Eulerian, finite-difference, C-grid modeling framework: Impact on the simulated deformation of sea-ice in the Arctic**](https://doi.org/10.5194/gmd-2023-231) by Laurent Brodeau et al., published in Geoscientific Model Development.
 
 In this new preprint, Laurent Brodeau, Pierre Rampal et al. describe how they achieved the numerical implementation of the Brittle Bingham-Maxwell sea-ice rheology (BBM) into SI3, the sea-ice component of NEMO
 
