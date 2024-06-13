@@ -16,5 +16,5 @@ This event gathered 60 participants of 7 countries (Italy, France, US, New Zeala
 
 We will soon post here the recordings of the science talks and discussions. Keep posted!
 
-![meeting_pic](/images/news/Annual-meeting-2024.JPG)
+![meeting_pic](/images/news/Annual-meeting-2024-2.jpg)
 _SASIP meeting participants, Jun. 5, 2024._
