@@ -8,9 +8,15 @@
         "name": "Github",
         "link": "https://github.com/sasip-climate",
         "image": "images/github.svg"
-    },    {
+    },    
+    {
         "name": "Twitter",
         "link": "https://twitter.com/sasipclimate",
         "image": "images/twitter.svg"
+    },
+    {
+        "name": "LinkedIn",
+        "link": "https://www.linkedin.com/company/sasip-climate",
+        "image": "images/LinkedIn_icon.png"
     }
 ]
