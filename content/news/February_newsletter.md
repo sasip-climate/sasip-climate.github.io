@@ -4,7 +4,7 @@ date: 2024-02-06
 authors:
 categories: ['Newsletter']
 description: 'Latest news from SASIP!'
-thumbnail: '/images/news/February newsletter.png'
+thumbnail: '/images/news/February-Newsletter.png'
 heroBackground: '/images/ice-bandeau.png'
 ---
 
