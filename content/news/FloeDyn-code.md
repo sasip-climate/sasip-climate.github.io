@@ -1,6 +1,6 @@
 ---
 title: 'FloeDyn Code is open!'
-date: 2022-03-02
+date: 2024-03-02
 authors:
 categories: ['Vizualisation']
 description: 'The discrete sea ice model FloeDyn developed within WP2 by SASIP participants Stéphane Labbé, Quentin Jouet, Silouane De Reboul and Thai Phan is now open and available to users.'
