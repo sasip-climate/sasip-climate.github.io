@@ -4,8 +4,8 @@ date: 2024-04-05
 authors:
 categories: ['Publications']
 description: 'New Article by Anna Lo Piccolo et al.'
-thumbnail: 'images/news/Lo-Piccolo_2024.jpeg'
-image: 'images/news/Lo-Piccolo_2024.jpeg'
+thumbnail: '/images/news/Lo-Piccolo_2024.jpeg'
+image: '/images/news/Lo-Piccolo_2024.jpeg'
 heroBackground: '/images/ice-bandeau.png'
 ---
 
