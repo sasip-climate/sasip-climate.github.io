@@ -4,8 +4,8 @@ date: 2024-04-18
 authors:
 categories: ['Publications']
 description: 'New Article by Charlotte Durand et al.'
-thumbnail: '/images/news/Durand-2024.png'
-image: '/images/news/Durand-2024.png'
+thumbnail: '/images/news/Durand-2024-2.png'
+image: '/images/news/Durand-2024-2.png'
 heroBackground: '/images/ice-bandeau.png'
 ---
 
