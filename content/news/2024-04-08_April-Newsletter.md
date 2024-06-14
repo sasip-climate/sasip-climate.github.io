@@ -11,7 +11,6 @@ heroBackground: '/images/ice-bandeau.png'
 
 {{< rawhtml >}}
 <html xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://opengraph.org/schema/"> <head>
-        
 <meta property="og:title" content="SASIP April Newsletter">
 <meta property="fb:page_id" content="43929265776">
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
