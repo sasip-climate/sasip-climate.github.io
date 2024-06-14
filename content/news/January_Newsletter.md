@@ -4,7 +4,7 @@ date: 2024-01-18
 authors:
 categories: ['Newsletter']
 description: 'SASIP first newsletter is out!'
-thumbnail: '/images/news/Newsletter_January.png'
+thumbnail: 'images/news/January-newsletter.png'
 heroBackground: '/images/ice-bandeau.png'
 ---
 
