@@ -17,10 +17,10 @@ https://doi.org/10.1175/JPO-D-23-0147.1
 
 ---
 
-![[LoPiccolo2024](https://doi.org/10.1175/JPO-D-23-0147.1)](images/news/Lo-Piccolo_2024.jpeg)
+![[LoPiccolo2024](https://doi.org/10.1175/JPO-D-23-0147.1)](/images/news/Lo-Piccolo_2024.jpeg)
 
 ---
-_[**Fig.6** (from Anna Lo Piccolo et al.)]([https://doi.org/10.1175/JPO-D-23-0147.1]): Mixed layer kinetic energy at days 10 (a) and 20 (b) for REF. 𝐿𝑠𝑝𝑟𝑒𝑎𝑑 is represented by the pink lines
+[**Fig.6** (from Anna Lo Piccolo et al.)]([https://doi.org/10.1175/JPO-D-23-0147.1]): Mixed layer kinetic energy at days 10 (a) and 20 (b) for REF. 𝐿𝑠𝑝𝑟𝑒𝑎𝑑 is represented by the pink lines
 as distance from the sea ice edge in the initially ice-covered (positive y-axis) and ice-free (negative y-axis)
 regions. 𝐿𝑒𝑑𝑑𝑦 indicates the size of the most energetic eddy, marked by the dark red distance along the sea
 ice edge.
