@@ -4,7 +4,7 @@ date: 2024-06-18
 authors:
 categories: ['Vizualisation']
 description: 'Ocean/sea-ice coupled experiment performed with NEMO 4.2.2 at 36th of a degree, with SI3 (sea-ice component) using the newly implemented BBM brittle rheology of Òlason et al., 2022.'
-thumbnail: '/images/news/2024-06-18-Simulation-Brodeau.png'
+thumbnail: '/images/news/06-18-24-Simulation-Brodeau.png'
 heroBackground: '/images/ice-bandeau.png'
 ---
 
