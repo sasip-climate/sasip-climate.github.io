@@ -1,9 +1,9 @@
 ---
-title: 'SASIP February Webinar - Francesca Vittorioso'
+title: 'SASIP February Webinar - The Contribution of the assimilation of MTG/IRS radiances for the characterisation of the atmospheric chemical composition over Europe'
 date: 2024-02-21
 authors:
 categories: ['Webinars']
-description: Francesca Vittorioso presents her work on the Contribution of the assimilation of MTG/IRS radiances for the characterisation of the atmospheric chemical composition over Europe
+description: By Francesca Vittorioso from the University of Bologna
 thumbnail: '/images/webinars/February-Webinar.png'  
 image: '/images/webinars/February-Webinar.png'
 heroBackground: '/images/ice-bandeau.png'
