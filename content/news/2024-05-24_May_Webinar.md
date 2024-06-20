@@ -1,9 +1,9 @@
 ---
-title: 'SASIP May Webinar - Robert Jendersie'
+title: 'SASIP May Webinar - Towards a GPU-Parallelization of the neXtSIM-DG Dynamical Core'
 date: 2024-05-24
 authors:
 categories: ['Webinars']
-description: Towards a GPU-Parallelization of the neXtSIM-DG Dynamical Core
+description: With Robert Jendersie from the University of Magdeburg (OVGU)
 thumbnail: '/images/news/May webinar.png'  
 image: '/images/news/May webinar.png'
 heroBackground: '/images/ice-bandeau.png'
