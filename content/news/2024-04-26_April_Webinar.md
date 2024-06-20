@@ -1,9 +1,9 @@
 ---
-title: 'SASIP April Webinar - Tobias Finn'
+title: 'SASIP April Webinar - Surrogate modelling of sea-ice models with generative deep learning'
 date: 2024-04-26
 authors:
 categories: ['Webinars']
-description: Surrogate modelling of sea-ice models with generative deep learning
+description: 'With Tobias finn from ENPC'
 thumbnail: '/images/news/April webinar.png'  
 image: '/images/news/April webinar.png'
 heroBackground: '/images/ice-bandeau.png'
