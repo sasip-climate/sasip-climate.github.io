@@ -1,6 +1,6 @@
 ---
 title: 'July Newsletter'
-date: 2024-06-04
+date: 2024-07-01
 authors:
 categories: ['Newsletter']
 description: 'Latest news from SASIP!'
