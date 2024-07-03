@@ -5,7 +5,7 @@ authors:
 categories: ['Newsletter']
 description: 'Latest news from SASIP!'
 thumbnail: '/images/news/2024-07-01-Newsletter.png'
-heroBackground: '/images/news/2024-07-01-Newsletter.png'
+heroBackground: '/images/ice-bandeau.png'
 ---
 
 
