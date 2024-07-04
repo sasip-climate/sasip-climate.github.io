@@ -31,6 +31,10 @@ heroBackground: '/images/ice-bandeau.png'
 - _Pasmans, Chen, Carrassi,K.R.T. Jones_: [**_Tailoring data assimilation to discontinuous Galerkin models_**](https://doi.org/10.1002/qj.4737), 	_Quarterly Journal of the Royal Meteorological Society, May, 2024_.
 
 - _Chen, Smith, Carrassi, Pasmans, Bertino, Bocquet, Finn, Rampal, and Dansereau_: [**_Multivariate state and parameter estimation with data assimilation applied to sea-ice models using a Maxwell Elasto-Brittle rheology_**](https://doi.org/10.5194/tc-18-2381-2024), _The Cryosphere, May, 2024_.
+
+- _Ying_: [**_Introducing NEDAS: a Light-weight and Scalable Python Solution for Ensemble Data Assimilation_**](https://www.researchgate.net/publication/380571659_Introducing_NEDAS_a_Light-weight_and_Scalable_Python_Solution_for_Ensemble_Data_Assimilation), _Journal of Advances in Modeling Earth System, May, 2024, preprint_.
+  
+- _Finn, Durand, Farchi, Bocquet, Brajard_: [**_Towards diffusion models for large-scale sea-ice modelling_**](https://doi.org/10.48550/arXiv.2406.18417), _ICML 2024 workshop: Machine Learning for Earth System Modeling, June, 2024_.
   
 ---
 # 2023
