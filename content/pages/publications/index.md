@@ -10,8 +10,6 @@ heroBackground: '/images/ice-bandeau.png'
 
 - _C.Hell, Horvat_: [**_A method for constructing directional surface wave spectra from ICESat-2 altimetry_**](https://doi.org/10.5194/tc-18-341-2024), _The Cryosphere, 18, 341–361, January, 2024_.
 
-- _Brodeau, Rampal, Òlason, Dansereau_: [**_Implementation of a brittle sea-ice rheology in an Eulerian, finite-difference, C-grid modeling framework: Impact on the simulated deformation of sea-ice in the Arctic_**](https://doi.org/10.5194/gmd-2023-231), _Geosci. Model Dev. Discuss., January, 2024, preprint_.
-
 - _Jendersie, Lessig, Richter_: [**_Towards a GPU-Parallelization of the neXtSIM-DG Dynamical Core_**](https://doi.org/10.48550/arXiv.2402.00466), _arXiv:2402.00466, February, 2024, preprint_.
 
 - _Higgs, Skákala, Bannister, Carrassi, Ciavatta_: [**_Investigating ecosystem connections in the shelf sea environment using complex networks_**](https://doi.org/10.5194/bg-21-731-2024) _Biogeosciences,February, 2024_.
@@ -35,6 +33,8 @@ heroBackground: '/images/ice-bandeau.png'
 - _Ying_: [**_Introducing NEDAS: a Light-weight and Scalable Python Solution for Ensemble Data Assimilation_**](https://www.researchgate.net/publication/380571659_Introducing_NEDAS_a_Light-weight_and_Scalable_Python_Solution_for_Ensemble_Data_Assimilation), _Journal of Advances in Modeling Earth System, May, 2024, preprint_.
   
 - _Finn, Durand, Farchi, Bocquet, Brajard_: [**_Towards diffusion models for large-scale sea-ice modelling_**](https://doi.org/10.48550/arXiv.2406.18417), _ICML 2024 workshop: Machine Learning for Earth System Modeling, June, 2024_.
+  
+- _Brodeau, Rampal, Òlason, Dansereau_: [**_Implementation of a brittle sea-ice rheology in an Eulerian, finite-difference, C-grid modeling framework: Impact on the simulated deformation of sea-ice in the Arctic_**](https://doi.org/10.5194/gmd-17-6051-2024), _Geosci. Model Dev. Discuss., August, 2024.
   
 ---
 # 2023
