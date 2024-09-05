@@ -14,7 +14,7 @@ heroBackground: '/images/ice-bandeau.png'
 
 https://doi.org/10.5194/gmd-17-6051-2024 
 
-![[Brodeau2024](https://doi.org/10.5194/gmd-17-6051-2024)](images/news/2024-08-15-paper-Laurent.png)
+![[Brodeau2024](https://doi.org/10.5194/gmd-17-6051-2024)](/images/news/2024-08-15-paper-Laurent.png)
 
 
 ---
