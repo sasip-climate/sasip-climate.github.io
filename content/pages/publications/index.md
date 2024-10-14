@@ -10,8 +10,6 @@ heroBackground: '/images/ice-bandeau.png'
 
 - _C.Hell, Horvat_: [**_A method for constructing directional surface wave spectra from ICESat-2 altimetry_**](https://doi.org/10.5194/tc-18-341-2024), _The Cryosphere, 18, 341–361, January, 2024_.
 
-- _Jendersie, Lessig, Richter_: [**_Towards a GPU-Parallelization of the neXtSIM-DG Dynamical Core_**](https://doi.org/10.48550/arXiv.2402.00466), _arXiv:2402.00466, February, 2024, preprint_.
-
 - _Higgs, Skákala, Bannister, Carrassi, Ciavatta_: [**_Investigating ecosystem connections in the shelf sea environment using complex networks_**](https://doi.org/10.5194/bg-21-731-2024) _Biogeosciences,February, 2024_.
 
 - _Driscoll, Carrassi, Brajard, Bertino, Bocquet, Olason_: [**_Parameter sensitivity analysis of a sea ice melt pond parametrisation and its emulation using neural networks_**](https://doi.org/10.1016/j.jocs.2024.102231), _Journal of Computational Science, March, 2024_.
@@ -34,12 +32,18 @@ heroBackground: '/images/ice-bandeau.png'
   
 - _Finn, Durand, Farchi, Bocquet, Brajard_: [**_Towards diffusion models for large-scale sea-ice modelling_**](https://doi.org/10.48550/arXiv.2406.18417), _ICML 2024 workshop: Machine Learning for Earth System Modeling, June, 2024_.
   
-- _Brodeau, Rampal, Òlason, Dansereau_: [**_Implementation of a brittle sea-ice rheology in an Eulerian, finite-difference, C-grid modeling framework: Impact on the simulated deformation of sea-ice in the Arctic_**](https://doi.org/10.5194/gmd-17-6051-2024), _Geosci. Model Dev. Discuss., August, 2024.
+- _Brodeau, Rampal, Òlason, Dansereau_: [**_Implementation of a brittle sea-ice rheology in an Eulerian, finite-difference, C-grid modeling framework: Impact on the simulated deformation of sea-ice in the Arctic_**](https://doi.org/10.5194/gmd-17-6051-2024), _Geosci. Model Dev. Discuss., August, 2024_.
+
+- _Blanchard-Wrigglesworth, Brenner, Webster, Horvat, Foss, Bitz_: [**_Model Biases in Simulating Extreme Sea Ice Loss Associated With the Record January 2022 Arctic Cyclone_**](https://doi.org/10.1029/2024JC021127), _JGR Ocean, August, 2024_.
+
+- _Jendersie, Lessig, Richter_: [**_Towards a GPU-Parallelization of the neXtSIM-DG Dynamical Core_**](https://doi.org/10.5194/egusphere-2024-2539), _Chaos, September, 2024, preprint_.
+
+- _Bocquet, Farchi, Finn, durand, Cheng, Chen, Pasmans, Carassi _: [**_Accurate deep learning-based filtering for chaotic dynamics by identifying instabilities without an ensemble_**](https://doi.org/10.1063/5.0230837), _Chaos, September, 2024_.
+
+- _Finn, Disson, Farchi, Bocquet, Durand_: [**_Representation learning with unconditional denoising diffusion models for dynamical systems_**](https://doi.org/10.5194/npg-31-409-2024), _Nonlinear Processes in Geophysics, September, 2024_.
   
 ---
 # 2023
-
-- _Finn, Disson, Farchi, Bocquet, Durand_: [**_Representation learning with unconditional denoising diffusion models for dynamical systems_**](https://doi.org/10.5194/egusphere-2023-2261), _EGUsphere, July 07, 2023, preprint_.
 
 - _Cheng, Quilodran-Casas, Ouala, Farchi, Liu, Tandeo, Fablet, Lucor, Iooss, Brajard, Xiao, Janjic, Ding, Guo, Carrassi, Bocquet, Arcucci_: [**_Machine learning with data assimilation and uncertainty quantification for dynamical systems: a review_**](https://arxiv.org/abs/2303.10462), _accepted for publication on the IEEE/CAA Journal of Automatica Sinica_.
 
