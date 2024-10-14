@@ -38,7 +38,7 @@ heroBackground: '/images/ice-bandeau.png'
 
 - _Jendersie, Lessig, Richter_: [**_Towards a GPU-Parallelization of the neXtSIM-DG Dynamical Core_**](https://doi.org/10.5194/egusphere-2024-2539), _Chaos, September, 2024, preprint_.
 
-- _Bocquet, Farchi, Finn, durand, Cheng, Chen, Pasmans, Carassi _: [**_Accurate deep learning-based filtering for chaotic dynamics by identifying instabilities without an ensemble_**](https://doi.org/10.1063/5.0230837), _Chaos, September, 2024_.
+- _Bocquet, Farchi, Finn, durand, Cheng, Chen, Pasmans, Carassi_: [**_Accurate deep learning-based filtering for chaotic dynamics by identifying instabilities without an ensemble_**](https://doi.org/10.1063/5.0230837), _Chaos, September, 2024_.
 
 - _Finn, Disson, Farchi, Bocquet, Durand_: [**_Representation learning with unconditional denoising diffusion models for dynamical systems_**](https://doi.org/10.5194/npg-31-409-2024), _Nonlinear Processes in Geophysics, September, 2024_.
   
