@@ -6,7 +6,6 @@ categories: ['Interviews']
 description: Charlotte Durand is a PhD student working on data assimilation and deep learning as part of WP4.  
 thumbnail: '/images/news/2024-10-21-Interview-Charlotte.png'
 heroBackground: '/images/ice-bandeau.png'
-heroSubHeading: 'Subscribe to our monthly newsletter from the top navigation menu.'
 ---
 
 Charlotte Durand is a PhD student working on data assimilation and deep learning as part of [WP4](https://sasip-climate.github.io/research/work-package-four/). She is supervised by Marc Bocquet at the Atmospheric Environment Teaching and Research Center (CEREA) and works closely with Alberto Carassi, WP4 PI leader. She will soon receive her PhD and join the Institute of Environmental Geosciences to continue her work on SASIP alongside Pierre Rampal and the other members of the SASIP team based in Grenoble, France. 
