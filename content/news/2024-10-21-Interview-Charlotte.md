@@ -13,7 +13,7 @@ Charlotte Durand is a PhD student working on data assimilation and deep learning
 
 _"SASIP is working on the development of a new sea ice model using various strategies, particularly the collaborative development of both the physical model and the machine learning approaches that complement it...I genuinely believe that bringing together people from different fields within this project allows everyone to grow from a scientific perspective_."
 
-_An interview with Charlotte Durand.
+_An interview with Charlotte Durand_.
 
 _By: Solène Guyard_.
 
