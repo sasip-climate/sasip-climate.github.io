@@ -3,13 +3,13 @@ title: 'Interview with Charlotte Durand, PhD student, ENPC'
 date: 2024-10-21
 authors:
 categories: ['Interviews']
-description: Charlotte Durand is a PhD student working on data assimilation and deep learning as part as WP4.  
+description: Charlotte Durand is a PhD student working on data assimilation and deep learning as part of WP4.  
 thumbnail: '/images/news/2024-10-21-Interview-Charlotte.png'
 heroBackground: '/images/ice-bandeau.png'
 heroSubHeading: 'Subscribe to our monthly newsletter from the top navigation menu.'
 ---
 
-Charlotte Durand is a PhD student working on data assimilation and deep learning as part of [WP4](https://sasip-climate.github.io/research/work-package-four/). She is supervised by Marc Bocquet at the Atmospheric Environment Teaching and Research Center (CEREA) and works closely with Alberto Carassi, WP4 PI leader. 
+Charlotte Durand is a PhD student working on data assimilation and deep learning as part of [WP4](https://sasip-climate.github.io/research/work-package-four/). She is supervised by Marc Bocquet at the Atmospheric Environment Teaching and Research Center (CEREA) and works closely with Alberto Carassi, WP4 PI leader. She will soon receive her PhD and join the Institute of Environmental Geosciences to continue her work on SASIP alongside Pierre Rampal and the other members of the SASIP team based in Grenoble, France. 
 
 
 _"SASIP is working on the development of a new sea ice model using various strategies, particularly the collaborative development of both the physical model and the machine learning approaches that complement it...I genuinely believe that bringing together people from different fields within this project allows everyone to grow from a scientific perspective_."
