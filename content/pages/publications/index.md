@@ -31,16 +31,21 @@ heroBackground: '/images/ice-bandeau.png'
 - _Ying_: [**_Introducing NEDAS: a Light-weight and Scalable Python Solution for Ensemble Data Assimilation_**](https://www.researchgate.net/publication/380571659_Introducing_NEDAS_a_Light-weight_and_Scalable_Python_Solution_for_Ensemble_Data_Assimilation), _Journal of Advances in Modeling Earth System, May, 2024, preprint_.
   
 - _Finn, Durand, Farchi, Bocquet, Brajard_: [**_Towards diffusion models for large-scale sea-ice modelling_**](https://doi.org/10.48550/arXiv.2406.18417), _ICML 2024 workshop: Machine Learning for Earth System Modeling, June, 2024_.
+
+- _Brenner, Horvat_: [**_Fetch-limited wind-wave generation in partial sea ice cover_**](10.22541/essoar.172192879.97960332/v1), _ESS Open Archive, July, 2024, preprint_.
   
 - _Brodeau, Rampal, Òlason, Dansereau_: [**_Implementation of a brittle sea-ice rheology in an Eulerian, finite-difference, C-grid modeling framework: Impact on the simulated deformation of sea-ice in the Arctic_**](https://doi.org/10.5194/gmd-17-6051-2024), _Geosci. Model Dev. Discuss., August, 2024_.
 
 - _Blanchard-Wrigglesworth, Brenner, Webster, Horvat, Foss, Bitz_: [**_Model Biases in Simulating Extreme Sea Ice Loss Associated With the Record January 2022 Arctic Cyclone_**](https://doi.org/10.1029/2024JC021127), _JGR Ocean, August, 2024_.
 
-- _Jendersie, Lessig, Richter_: [**_Towards a GPU-Parallelization of the neXtSIM-DG Dynamical Core_**](https://doi.org/10.5194/egusphere-2024-2539), _Chaos, September, 2024, preprint_.
+- _Jendersie, Lessig, Richter_: [**_a GPU-Parallelization of the neXtSIM-DG Dynamical Core_**](https://doi.org/10.5194/egusphere-2024-2539), _Chaos, September, 2024, preprint_.
 
 - _Bocquet, Farchi, Finn, durand, Cheng, Chen, Pasmans, Carassi_: [**_Accurate deep learning-based filtering for chaotic dynamics by identifying instabilities without an ensemble_**](https://doi.org/10.1063/5.0230837), _Chaos, September, 2024_.
 
 - _Finn, Disson, Farchi, Bocquet, Durand_: [**_Representation learning with unconditional denoising diffusion models for dynamical systems_**](https://doi.org/10.5194/npg-31-409-2024), _Nonlinear Processes in Geophysics, September, 2024_.
+
+- _Driscoll, Carrassi, Brajard, Bertino, Ólason, Bocquet, and Lawless_: [**_Data-driven emulation of melt ponds on Arctic sea ice_**](https://doi.org/10.5194/egusphere-2024-2476), _EGUsphere, October, 2024, preprint_.
+
   
 ---
 # 2023
