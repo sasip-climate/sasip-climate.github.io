@@ -4,7 +4,7 @@ date: 2025-02-11
 authors:
 categories: ['Interviews']
 description: Aurélien Rigotti is a PhD student working on sea ice rheology as part of WP2.  
-thumbnail: '/images/news/aurelien.png'
+thumbnail: '/images/news/Interview-Aurelien.png'
 heroBackground: '/images/ice-bandeau.png'
 ---
 
