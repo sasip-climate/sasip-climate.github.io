@@ -11,7 +11,7 @@ heroBackground: '/images/ice-bandeau.png'
 Aurélien Rigotti is a PhD student working on sea ice rheology as part of [WP2]([https://sasip-climate.github.io/research/work-package-two/]). He is supervised by Véronique Dansereau and Jérôme Weiss at the National Center for Scientific Research in Grenoble, France.
 
 
-_" I hope my work will play its part and continue to be discussed, criticized, and explored. Véronique, Jérôme, and I are contributing to a promising path for the rheology community._."
+_" I hope my work will play its part and continue to be discussed, criticized, and explored. Véronique, Jérôme, and I are contributing to a promising path for the rheology community_."
 
 _An interview with Aurélien Rigotti_.
 
