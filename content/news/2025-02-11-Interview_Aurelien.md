@@ -34,8 +34,6 @@ My PhD focuses on improving the MEB rheology, developed by Veronique, by account
 
 These granular ice pack is studied as a 2D rigid dry frictional granular assembly. To make this more understandable, the size of the plates, with respect to their thickness, allows us to neglect the height, and the water between the plates is assumed to be very small compared to the friction and collisions between the floes. The idea Veronique Dansereau and Jérôme Weiss had was to describe the mechanisms acting in an 'idealized' assembly of sea ice plates, where disks are studied instead of the complex floe shapes observed in the Arctic. The goal was to capture and understand the key phenomena driving the mechanical behavior. This is also why I focused on 'rigid,' unbreakable grains.
 
-mechanisms acting in an 'idealized' assembly of sea ice plates, where disks are studied instead of the complex floe shapes observed in the Arctic. The goal was to capture and understand the key phenomena driving the mechanical behavior. This is also why I focused on 'rigid,' unbreakable grains. 
-
 
 **How did you identify the key variables or parameters to describe the mechanical state of the ice?**
 
