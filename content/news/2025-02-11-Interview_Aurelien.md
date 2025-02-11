@@ -19,12 +19,12 @@ _By: Solène Guyard_.
 
 _Tuesday, February 11, 2025_.
 
-**–	What first drew you to the field of research?**
+**What first drew you to the field of research?**
 
-–	I’ve always been concerned about climate change, and that concern led me towards research. Initially, I didn’t know where I was headed during my studies. I wanted to work in geology, something that wouldn't contribute to climate issues. After starting in geotechnical engineering, I realized it wasn't the right fit. So, I shifted to a Master's in Geomechanics. At that time, I wasn’t sure where my career was going, but I applied for two internships. One was on couscous behavior in high humidity (which seemed too far from my interests), and the other was on sea ice as a granular medium. I’m lucky to have been hired for the second one—it completely shifted my focus, and it’s why I decided to pursue a PhD.
+I’ve always been concerned about climate change, and that concern led me towards research. Initially, I didn’t know where I was headed during my studies. I wanted to work in geology, something that wouldn't contribute to climate issues. After starting in geotechnical engineering, I realized it wasn't the right fit. So, I shifted to a Master's in Geomechanics. At that time, I wasn’t sure where my career was going, but I applied for two internships. One was on couscous behavior in high humidity (which seemed too far from my interests), and the other was on sea ice as a granular medium. I’m lucky to have been hired for the second one—it completely shifted my focus, and it’s why I decided to pursue a PhD.
 
 
-**–	What subject did you study during your thesis and what did your research aim at understanding in the context of SASIP?**
+**What subject did you study during your thesis and what did your research aim at understanding in the context of SASIP?**
 
 My PhD focuses on improving the MEB rheology, developed by Veronique, by accounting for the complex behavior of granular sea ice in the Arctic. Observations of the ice pack during the warmer season show that the material is discontinuous, made up of assemblies of sea ice plates, called floes, rather than being continuous. The models currently fail to accurately describe the behavior of such a sea ice cover.
 
@@ -52,7 +52,7 @@ Inter-scale dependence is a fascinating aspect of granular materials! Just like 
 In granular assemblies, chains of grains define the rigidity of the system, as well as its capacity to handle stress and strain. When a single grain in these chains moves, stress is instantaneously redistributed to surrounding particles and can lead to avalanches of grains until a new stable configuration is reached. Thus, grain concentration, or the packing fraction, and particularly the initial packing fraction, play a crucial role. A higher packing fraction means more grains to sustain loading and rigidify the system. However, applied pressure also plays an important role in granular materials, as it can radically change the observed behavior of the system.
 
 
-**–	Have you encountered any unforeseen results during your study?**
+**Have you encountered any unforeseen results during your study?**
 
 The real surprise for us was how granular matter behaved during the relaxation test. In solids, fluids, or granular materials, when a load is applied to the system and later removed, a certain amount of time is needed to fully or partially dissipate the internal stress stored, in order to reach a stable state of equilibrium.
 
@@ -60,14 +60,13 @@ First, we observed relaxation that was slightly faster than typical fluid relaxa
 
 These are key results that would be fascinating to further explore
 
-**–	What real-world applications do you see for your findings, and how might they contribute to addressing global challenges like climate change?**
+**What real-world applications do you see for your findings, and how might they contribute to addressing global challenges like climate change?**
 
 Granular sea ice in the Arctic is currently poorly represented by continuum approaches, and discrete modeling is too computationally expensive to be integrated into coupled ocean-atmosphere-ice pack models. I hope the findings presented in my thesis will help improve continuum modeling by enhancing the material properties characterizing lower sea ice concentration zones with granular behavior. I’ll be optimistic in saying that we will see the outcomes of my work in climate prediction next year!
 
 It’s also worth noting that, while the results obtained in my PhD are intended for direct application in SASIP WP2, they have a broader application to a wide range of frictional granular assemblies. Our understanding of such materials has greatly improved in the past fifty years, but many questions remain open. I hope my work will play its part and continue to be discussed, criticized, and explored. Véronique, Jérôme, and I are contributing to a promising path for the rheology community.
 
 
-**–	What advice would you give to young scientists or students interested in your field?**
+**What advice would you give to young scientists or students interested in your field?**
 
-Tricky question! The only thing I would allow myself to say is: try. If someone thinks they might enjoy studying this fiels, it’s always worth exmploringare interested. Research is about curiosity, so it’s best to follow ours!
-
+Tricky question! The only thing I would allow myself to say is: try. If someone thinks they might enjoy studying this field, it’s always worth exploring. Research is about curiosity, so it’s best to follow ours!
