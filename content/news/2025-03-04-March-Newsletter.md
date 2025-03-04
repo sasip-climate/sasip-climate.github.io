@@ -1,6 +1,6 @@
 ---
 title: 'March Newsletter'
-date: 2024-03-04
+date: 2025-03-04
 authors:
 categories: ['Newsletter']
 description: 'Fresh preprints on Granular Mechanics, Machine Learning and Data Assimilation, and more exciting news!'
