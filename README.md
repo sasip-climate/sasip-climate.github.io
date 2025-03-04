@@ -23,7 +23,7 @@ Make your changes in the editor.
 When you are done, you can either "Commit directly to the `master` branch" or "Create a new branch for this commit and start a pull request".
 A direct commit is appropriate for a minor change.
 A pull request is best if you want your changes to be reviewed and approved by the rest of the team.
-This method only allows you to update one page at a time.
+This method only allows you to update one page at a time
 
 ### More specifically
  
