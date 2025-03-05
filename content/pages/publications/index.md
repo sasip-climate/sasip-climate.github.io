@@ -8,22 +8,22 @@ heroBackground: '/images/ice-bandeau.png'
 
 # 2025
 
-- _C.Durand, T.S. Finn, A. Farchi, M. Bocquet, J. Brahard, L. Bertino_: [**_Four-dimensional variational data assimilation with a sea-ice thickness emulator_**](https://doi.org/10.5194/egusphere-2024-4028), _The Cryosphere, February, 2025, preprint_.
+- _Durand, Finn, Farchi, Bocquet, Brahard, Bertino_: [**_Four-dimensional variational data assimilation with a sea-ice thickness emulator_**](https://doi.org/10.5194/egusphere-2024-4028), _The Cryosphere, February, 2025, preprint_.
 
-- _I. Pasmans, Y. Chen, T.S. Finn, M. Bocquet, A. Carassi_: [**_Ensemble Kalman filter in latent space using a variational autoencoder pair_**](https://doi.org/10.48550/arXiv.2502.12987), _QJRMS, February, 2025, preprint_.
+- _Pasmans, Chen, Finn, Bocquet, Carassi_: [**_Ensemble Kalman filter in latent space using a variational autoencoder pair_**](https://doi.org/10.48550/arXiv.2502.12987), _QJRMS, February, 2025, preprint_.
 
-- _A. Rigotti, V. Dansereau, J. Weiss_: [**_Investigating the relation between elastic and relaxation properties of dry, frictional granular media during shear deformation_**](https://doi.org/10.48550/arXiv.2502.17021), _ARXIV, February, 2025, preprint_.
+- _Rigotti, Dansereau, Weiss_: [**_Investigating the relation between elastic and relaxation properties of dry, frictional granular media during shear deformation_**](https://doi.org/10.48550/arXiv.2502.17021), _ARXIV, February, 2025, preprint_.
 
 
 # 2024
 
-- _C.Hell, Horvat_: [**_A method for constructing directional surface wave spectra from ICESat-2 altimetry_**](https://doi.org/10.5194/tc-18-341-2024), _The Cryosphere, 18, 341–361, January, 2024_.
+- _Hell, Horvat_: [**_A method for constructing directional surface wave spectra from ICESat-2 altimetry_**](https://doi.org/10.5194/tc-18-341-2024), _The Cryosphere, 18, 341–361, January, 2024_.
 
 - _Higgs, Skákala, Bannister, Carrassi, Ciavatta_: [**_Investigating ecosystem connections in the shelf sea environment using complex networks_**](https://doi.org/10.5194/bg-21-731-2024) _Biogeosciences,February, 2024_.
 
 - _Driscoll, Carrassi, Brajard, Bertino, Bocquet, Olason_: [**_Parameter sensitivity analysis of a sea ice melt pond parametrisation and its emulation using neural networks_**](https://doi.org/10.1016/j.jocs.2024.102231), _Journal of Computational Science, March, 2024_.
 
-- _J. Charlton-Perez, F.Dacre, Driscoll et.al_: [**_Do AI models produce better weather forecasts than physics-based models? A quantitative evaluation case study of Storm Ciarán_**](https://www.nature.com/articles/s41612-024-00638-w), _Nature npj Climate and Atmospheric Science, April, 2024_.
+- _Charlton-Perez, Dacre, Driscoll et.al_: [**_Do AI models produce better weather forecasts than physics-based models? A quantitative evaluation case study of Storm Ciarán_**](https://www.nature.com/articles/s41612-024-00638-w), _Nature npj Climate and Atmospheric Science, April, 2024_.
  
 - _Durand, Finn, Farchi, Bocquet, Boutin, Olason_: [**_Data-driven surrogate modeling of high-resolution sea-ice thickness in the Arctic_**](https://doi.org/10.5194/tc-18-1791-2024), _The Cryosphere, 17, 2965–2991, April, 2024_.
 
