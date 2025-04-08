@@ -6,9 +6,11 @@ heroSubHeading: "related to the SASIP project"
 heroBackground: '/images/ice-bandeau.png'
 ---
 
-# 2025
+# 2025 
 
-- _Durand, Finn, Farchi, Bocquet, Brahard, Bertino_: [**_Four-dimensional variational data assimilation with a sea-ice thickness emulator_**](https://doi.org/10.5194/egusphere-2024-4028), _The Cryosphere, February, 2025, preprint_.
+- _Zhao, Horvat, Gao_: [**_An optimal path threshold method for rigorously identifying extreme climate events_**](https://doi.org/10.5194/egusphere-2024-4028), _Environnemental Research Letters, February, 2025_.
+
+- _Durand, Finn, Farchi, Bocquet, Brahard, Bertino_: [**_Four-dimensional variational data assimilation with a sea-ice thickness emulator_**](https://doi.org/10.1088/1748-9326/adae24), _The Cryosphere, February, 2025, preprint_.
 
 - _Pasmans, Chen, Finn, Bocquet, Carassi_: [**_Ensemble Kalman filter in latent space using a variational autoencoder pair_**](https://doi.org/10.48550/arXiv.2502.12987), _QJRMS, February, 2025, preprint_.
 
