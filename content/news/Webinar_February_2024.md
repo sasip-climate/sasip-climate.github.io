@@ -1,5 +1,5 @@
 ---
-title: 'SASIP February Webinar - The Contribution of the assimilation of MTG/IRS radiances for the characterisation of the atmospheric chemical composition over Europe'
+title: 'February Webinar - The Contribution of the assimilation of MTG/IRS radiances for the characterisation of the atmospheric chemical composition over Europe'
 date: 2024-02-21
 authors:
 categories: ['Webinars']
