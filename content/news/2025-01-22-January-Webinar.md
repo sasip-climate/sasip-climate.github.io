@@ -5,8 +5,8 @@ date: 2025-01-22
 authors:
 categories: ['Webinars']
 description: 'With Yue Ying from the Nansen Environmental and Remote Sensing Center (NERSC), Norway'
-thumbnail: ‘/images/news/2025-01-22-January-Webinar.png'  
-image: '/images/news/2025-01-22-January-Webinar.png'
+thumbnail: '/images/news/2025-01-22-January-Webinar-Katia.png'  
+image: '/images/news/2025-01-22-January-Webinar-Katia.png'
 heroBackground: '/images/ice-bandeau.png'
 ---
 
