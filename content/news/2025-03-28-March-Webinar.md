@@ -1,5 +1,5 @@
 ---
-title: 'SASIP June Webinar - The nextSIM-DG sea ice model: rewriting, reusing and refactoring'
+title: 'SASIP March Webinar - Exploring novel data assimilation techniques to improve sea ice deformation features'
 date: 2025-03-28
 authors:
 categories: ['Webinars']
