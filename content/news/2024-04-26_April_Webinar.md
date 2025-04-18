@@ -1,5 +1,5 @@
 ---
-title: 'SASIP April Webinar - Surrogate modelling of sea-ice models with generative deep learning'
+title: 'April Webinar - Surrogate modelling of sea-ice models with generative deep learning'
 date: 2024-04-26
 authors:
 categories: ['Webinars']
