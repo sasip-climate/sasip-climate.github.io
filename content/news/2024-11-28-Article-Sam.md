@@ -8,8 +8,9 @@ thumbnail: '/images/news/2024-11-28-Article-Sam.png'
 heroBackground: '/images/ice-bandeau.png'
 ---
 
-[**Scaling Simulations of Local Wind-Waves Amid Sea Ice Floes**](https://doi.org/10.1029/2024JC021629) Samuel Brenner and Christopher Horvat, published in JGR Oceans.  
+[**Scaling Simulations of Local Wind-Waves Amid Sea Ice Floes**](https://doi.org/10.1029/2024JC021629) by Samuel Brenner and Christopher Horvat, published in JGR Oceans.  
 
+Wave-ice interactions are crucial for modeling air-sea exchanges in polar regions. While sea ice’s impact on open-water swell is well understood, its effect on locally generated wind-waves in partial ice cover is uncertain. In this new paper published in JGR Oceans, Samuel Brenner and Christopher Horvat use the SWAN model to show that wave growth depends on both sea ice concentration (SIC) and floe size distribution (FSD). The results suggest that these waves, influenced by fetch limitations, can significantly affect ocean mixing.
 
 https://doi.org/10.1029/2024JC021629 
 
