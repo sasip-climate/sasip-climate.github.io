@@ -1,11 +1,11 @@
 ---
-title: 'SASIP March Webinar - Exploring novel data assimilation techniques to improve sea ice deformation features'
+title: 'March Webinar - Exploring novel data assimilation techniques to improve sea ice deformation features'
 date: 2025-03-28
 authors:
 categories: ['Webinars']
 description: 'With Yue Ying from the Nansen Environmental and Remote Sensing Center (NERSC), Norway'
-thumbnail: '/images/news/2025-03-28-March-Webinar.png'  
-image: '/images/news/2025-03-28-March-Webinar.png'
+thumbnail: '/images/news/2025-03-28-March-Webinar-Yue.png'  
+image: '/images/news/2025-03-28-March-Webinar-Yue.png'
 heroBackground: '/images/ice-bandeau.png'
 ---
 
