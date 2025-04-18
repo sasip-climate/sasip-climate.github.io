@@ -1,6 +1,6 @@
 
 ---
-title: 'SASIP January Webinar - Mapping wave-driven ocean surface mixing in the Artic using a couples wave-sea ice model framework'
+title: 'January Webinar - Mapping wave-driven ocean surface mixing in the Artic using a couples wave-sea ice model framework'
 date: 2025-01-22
 authors:
 categories: ['Webinars']
