@@ -3,7 +3,7 @@ title: 'Scaling Simulations of Local Wind-Waves Amid Sea Ice Floes'
 date: 2024-11-28
 authors:
 categories: ['Publications']
-description: 'New paper by Samuel Brenner and Christopher Horvat 
+description: 'New paper by Samuel Brenner and Christopher Horvat'
 thumbnail: '/images/news/2024-11-28-Article-Sam.png'
 heroBackground: '/images/ice-bandeau.png'
 ---
