@@ -4,7 +4,7 @@ date: 2025-04-07
 authors:
 categories: ['Newsletter']
 description: 'New article introducing a method for identifying extreme climate events and more exciting news!'
-thumbnail: '/images/news/2025-04-07_April_Newsletter.png
+thumbnail: '/images/news/2025-04-07_April_Newsletter.png'
 heroBackground: '/images/ice-bandeau.png'
 ---
 
