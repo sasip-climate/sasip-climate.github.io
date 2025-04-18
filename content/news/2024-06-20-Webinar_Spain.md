@@ -1,5 +1,5 @@
 ---
-title: 'SASIP June Webinar - The nextSIM-DG sea ice model: rewriting, reusing and refactoring'
+title: 'June Webinar - The nextSIM-DG sea ice model: rewriting, reusing and refactoring'
 date: 2024-06-20
 authors:
 categories: ['Webinars']
