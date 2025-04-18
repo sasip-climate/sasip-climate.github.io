@@ -5,8 +5,8 @@ date: 2024-12-19
 authors:
 categories: ['Webinars']
 description: 'With Ivo Pasmans from The University of Reading, UK'
-thumbnail: '/images/news/2024-12-19-December-Webinar-Ivo.jpeg'  
-image: '/images/news/2024-12-19-December-Webinar-Ivo.jpeg'
+thumbnail: '/images/news/2024-12-19-December-Webinar.png'  
+image: '/images/news/2024-12-19-December-Webinar.png'
 heroBackground: '/images/ice-bandeau.png'
 ---
 
