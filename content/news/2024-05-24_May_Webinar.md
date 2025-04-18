@@ -1,5 +1,5 @@
 ---
-title: 'SASIP May Webinar - Towards a GPU-Parallelization of the neXtSIM-DG Dynamical Core'
+title: 'May Webinar - Towards a GPU-Parallelization of the neXtSIM-DG Dynamical Core'
 date: 2024-05-24
 authors:
 categories: ['Webinars']
