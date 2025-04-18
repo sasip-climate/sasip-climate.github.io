@@ -1,5 +1,5 @@
 ---
-title: 'SASIP March Webinar - Particle-Based Algorithms for Stochastic Optimal Control'
+title: 'March Webinar - Particle-Based Algorithms for Stochastic Optimal Control'
 date: 2024-03-19
 authors:
 categories: ['Webinars']
