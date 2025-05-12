@@ -16,8 +16,7 @@ heroBackground: '/images/ice-bandeau.png'
 
 - _Rigotti, Dansereau, Weiss_: [**_Investigating the relation between elastic and relaxation properties of dry, frictional granular media during shear deformation_**](https://doi.org/10.48550/arXiv.2502.17021), _ARXIV, February, 2025, preprint_.
 
-- _Santana, Boutin, Horvat, Ólason, Williams, Rampal_: [**_Modeling Antarctic Sea Ice Variability Using a Brittle Rheology
-_**](https://doi.org/10.1029/2024MS004584), _Journal of Advances in Modeling Earth Systems, April, 2025_.
+- _Santana, Boutin, Horvat, Ólason, Williams, Rampal_: [**_Modeling Antarctic Sea Ice Variability Using a Brittle Rheology_**](https://doi.org/10.1029/2024MS004584), _Journal of Advances in Modeling Earth Systems, April, 2025_.
 
 # 2024
 
