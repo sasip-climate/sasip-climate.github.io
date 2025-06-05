@@ -20,7 +20,7 @@ heroBackground: '/images/ice-bandeau.png'
 
 - _Santana, Boutin, Horvat, Ólason, Williams, Rampal_: [**_Modeling Antarctic Sea Ice Variability Using a Brittle Rheology_**](https://doi.org/10.1029/2024MS004584), _Journal of Advances in Modeling Earth Systems, April, 2025_.
 
-- _Horvat, Tavri, Mohammednezhad_: [**_Consistent Antarctic sea ice concentration biases from passive microwave satellites resolved via ICESat-2 altimetry_**](https://doi.org/10.21203/rs.3.rs-6272536/v1), _ April, 2025, preprint_.
+- _Horvat, Tavri, Mohammednezhad_: [**_Consistent Antarctic sea ice concentration biases from passive microwave satellites resolved via ICESat-2 altimetry_**](https://doi.org/10.21203/rs.3.rs-6272536/v1), _April, 2025, preprint_.
 
 ---
 # 2024
