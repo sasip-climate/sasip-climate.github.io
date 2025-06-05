@@ -8,6 +8,8 @@ heroBackground: '/images/ice-bandeau.png'
 
 # 2025 
 
+- _Horvat, Buckley, Stewart_: [**_Sea Ice Concentration Estimates from ICESat-2 Linear Ice Fraction. Part 2: Gridded Data Comparison and Bias Estimation_**](https://doi.org/10.5194/egusphere-2024-3864), _EGUsphere, January, 2025, preprint_. 
+
 - _Zhao, Horvat, Gao_: [**_An optimal path threshold method for rigorously identifying extreme climate events_**](https://doi.org/10.1088/1748-9326/adae24), _Environnemental Research Letters, February, 2025_. 
 
 - _Durand, Finn, Farchi, Bocquet, Brajard, Bertino_: [**_Four-dimensional variational data assimilation with a sea-ice thickness emulator_**](https://doi.org/10.5194/egusphere-2024-4028), _The Cryosphere, February, 2025, preprint_.
@@ -18,6 +20,9 @@ heroBackground: '/images/ice-bandeau.png'
 
 - _Santana, Boutin, Horvat, Ólason, Williams, Rampal_: [**_Modeling Antarctic Sea Ice Variability Using a Brittle Rheology_**](https://doi.org/10.1029/2024MS004584), _Journal of Advances in Modeling Earth Systems, April, 2025_.
 
+- _Horvat, Tavri, Mohammednezhad_: [**_Consistent Antarctic sea ice concentration biases from passive microwave satellites resolved via ICESat-2 altimetry_**](https://doi.org/10.21203/rs.3.rs-6272536/v1), _ April, 2025, preprint_.
+
+---
 # 2024
 
 - _Hell, Horvat_: [**_A method for constructing directional surface wave spectra from ICESat-2 altimetry_**](https://doi.org/10.5194/tc-18-341-2024), _The Cryosphere, 18, 341–361, January, 2024_.
@@ -56,8 +61,9 @@ heroBackground: '/images/ice-bandeau.png'
 
 - _Driscoll, Carrassi, Brajard, Bertino, Ólason, Bocquet, and Lawless_: [**_Data-driven emulation of melt ponds on Arctic sea ice_**](https://doi.org/10.5194/egusphere-2024-2476), _EGUsphere, October, 2024, preprint_.
 
-- _S. Brenner, C. Horvat_: [**_Scaling Simulations of Local Wind-Waves Amid Sea Ice Floes_**](https://doi.org/10.1029/2024JC021629), _JGR Ocean, November, 2024_.
+- _Brenner, Horvat_: [**_Scaling Simulations of Local Wind-Waves Amid Sea Ice Floes_**](https://doi.org/10.1029/2024JC021629), _JGR Ocean, November, 2024_.
 
+- _Buckley, Horvat, Yoosiri_: [**_Sea Ice Concentration Estimates from ICESat-2 Linear Ice Fraction. Part 1: Multi-sensor Comparison of Sea Ice Concentration Products_**](https://doi.org/10.5194/egusphere-2024-3861), _EGUsphere, December, 2024_.
   
 ---
 # 2023
