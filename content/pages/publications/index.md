@@ -88,7 +88,7 @@ heroBackground: '/images/ice-bandeau.png'
 
 - _Wang, Hwang, Bateson, Aksenov, Horvat:_ [**_Summer sea ice floe size distribution in the Arctic: High-resolution optical satellite imagery and model evaluation._**](https://doi.org/10.5194/tc-17-3575-2023) _The Cryosphere, August, 2023_.
 
-- _Kopp, Oppenheimer, O'Reilly, Drijfhout, Edwards, Fox-Kemper, Garner, Golledge, Hermans, Hewitt, Horton, Krinner, Notz, Nowicki, Palmer, Slangen, and Xiao_: [**_Communicating projection uncertainty and ambiguity in sea-level assessment_**](10.1038/s41558-023-01691-8), _Nature Climate Change, June, 2023_.
+- _Kopp, Oppenheimer, O'Reilly, Drijfhout, Edwards, Fox-Kemper, Garner, Golledge, Hermans, Hewitt, Horton, Krinner, Notz, Nowicki, Palmer, Slangen, and Xiao_: [**_https://doi.org/10.1002/essoar.10511663.1_**](10.1038/s41558-023-01691-8), _Nature Climate Change, June, 2023_.
 
 - _Brenner, Horvat, Hall, Lo Piccolo, Fox-Kemper, Labbé, Dansereau_: [**_Scale-Dependent Air-Sea Exchange in the Polar Oceans: Floe-Floe and Floe-Flow Coupling in the Generation of Ice-Ocean Boundary Layer Turbulence_**](https://doi.org/10.1029/2023GL105703), _Geophysical Reserch Letters (GRL), December 07, 2023_.
 
