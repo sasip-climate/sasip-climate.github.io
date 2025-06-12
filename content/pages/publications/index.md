@@ -70,7 +70,9 @@ heroBackground: '/images/ice-bandeau.png'
 
 - _Cheng, Quilodran-Casas, Ouala, Farchi, Liu, Tandeo, Fablet, Lucor, Iooss, Brajard, Xiao, Janjic, Ding, Guo, Carrassi, Bocquet, Arcucci_: [**_Machine learning with data assimilation and uncertainty quantification for dynamical systems: a review_**](https://arxiv.org/abs/2303.10462), _accepted for publication on the IEEE/CAA Journal of Automatica Sinica_.
 
-- _Richter, Dansereau,  Lessig, Minakowski_: [**_A dynamical core based on a discontinuous Galerkin method for higher-order finite-element sea ice modeling_**](https://gmd.copernicus.org/articles/16/3907/2023/), _Geosci. Model Dev., 16, 3907–3926, 2023_. 
+- _Richter, Dansereau,  Lessig, Minakowski_: [**_A dynamical core based on a discontinuous Galerkin method for higher-order finite-element sea ice modeling_**](https://gmd.copernicus.org/articles/16/3907/2023/), _Geosci. Model Dev., 16, 3907–3926, 2023_.
+
+- _Russell, Horvat_: [**_Extreme South Pacific Phytoplankton Blooms Induced by Tropical Cyclones_**](https://doi.org/10.1029/2022GL100821), _Geophysical Research Letters, February, 2023_.
 
 - _Ayers, Lau,  Amezcua,  Carrassi, Ojha_: [**_Supervised machine learning to estimate instabilities in chaotic systems: estimation of local Lyapunov exponents_**](https://arxiv.org/abs/2202.04944), _accepted for publication in Quarterly Journal of the Royal Meteorological Society_.
 
