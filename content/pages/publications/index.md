@@ -111,7 +111,7 @@ heroBackground: '/images/ice-bandeau.png'
 
 - _Maisonnave, Bourdallé-Badie_ [**_Coupling NEMO global ocean with hemispheric Arctic and Antarctic ice models_**](https://cerfacs.fr/wp-content/uploads/2022/03/support_esiwace_TR_CMGC_22_18.pdf) _Technical Report, TR/CMGC/22/18, CECI, UMR CERFACS/CNRS No5318, France, 2022_.
 
-- _Horvat, Roach._ [**_WIFF1.0: A hybrid machine-learning-based parameterization of Wave-Induced sea-ice Floe Fracture._**](https://doi.org/10.5194/gmd-15-803-2022)) _Geoscientific Model Development, January, 2022_. 
+- _Horvat, Roach._ [**_WIFF1.0: A hybrid machine-learning-based parameterization of Wave-Induced sea-ice Floe Fracture._**](https://doi.org/10.5194/gmd-15-803-2022) _Geoscientific Model Development, January, 2022_. 
 
 ---
 # 2021
