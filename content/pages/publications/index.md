@@ -111,9 +111,11 @@ heroBackground: '/images/ice-bandeau.png'
 
 - _Brouwer, Fraser, Murphy, Wongpan, Alberello, Kohout, Horvat, Wotherspoon Massom, J. Cartwright, G. Williams:_ [**_Altimetric observation of wave attenuation through the Antarctic marginal ice zone using ICESat-2._**](https://doi.org/10.5194/tc-16-2325-2022) _The Cryosphere, 16, 2325–2353, June, 2022_. 
 
-- _Maisonnave, Bourdallé-Badie_ [**_Coupling NEMO global ocean with hemispheric Arctic and Antarctic ice models_**](https://cerfacs.fr/wp-content/uploads/2022/03/support_esiwace_TR_CMGC_22_18.pdf) _Technical Report, TR/CMGC/22/18, CECI, UMR CERFACS/CNRS No5318, France, 2022_.
+- _Maisonnave, Bourdallé-Badie:_ [**_Coupling NEMO global ocean with hemispheric Arctic and Antarctic ice models_**](https://cerfacs.fr/wp-content/uploads/2022/03/support_esiwace_TR_CMGC_22_18.pdf) _Technical Report, TR/CMGC/22/18, CECI, UMR CERFACS/CNRS No5318, France, 2022_.
 
-- _Horvat, Roach._ [**_WIFF1.0: A hybrid machine-learning-based parameterization of Wave-Induced sea-ice Floe Fracture._**](https://doi.org/10.5194/gmd-15-803-2022) _Geoscientific Model Development, January, 2022_. 
+- _Blanchard-Wrigglesworth, Webster, Boisvert, Parker, Horvat:_ [**_Record Arctic Cyclone of January 2022: Characteristics, Impacts, and Predictability._**](https://doi.org/10.1029/2022JD037161) _JGR Atmospheres, October, 2022_. 
+
+- _Horvat, Roach:_ [**_WIFF1.0: A hybrid machine-learning-based parameterization of Wave-Induced sea-ice Floe Fracture._**](https://doi.org/10.5194/gmd-15-803-2022) _Geoscientific Model Development, January, 2022_. 
 
 ---
 # 2021
