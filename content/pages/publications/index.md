@@ -86,7 +86,7 @@ heroBackground: '/images/ice-bandeau.png'
 
 - _Ayers, Lau, Amezcua, Carrassi, Ojha_: [**_Supervised machine learning to estimate instabilities in chaotic systems: Estimation of local Lyapunov exponents_**](https://doi.org/10.1002/qj.4450), _Quarterly Journal of the Royal Meteorological Society, March 2023_.
 
-- _Wang, Hwang, Bateson, Aksenov, Horvat:_ [**_Summer sea ice floe size distribution in the Arctic: High-resolution optical satellite imagery and model evaluation._**](https://doi.org/10.5194/tc-17-3575-2023) _The Cryosphere, August, 2023_.
+- _Wang, Hwang, Bateson, Aksenov, Horvat:_ [**_Summer sea ice floe perimeter density in the Arctic: high-resolution optical satellite imagery and model evaluation._**](https://doi.org/10.5194/tc-17-3575-2023) _The Cryosphere, August, 2023_.
 
 - _Kopp, Oppenheimer, O'Reilly, Drijfhout, Edwards, Fox-Kemper, Garner, Golledge, Hermans, Hewitt, Horton, Krinner, Notz, Nowicki, Palmer, Slangen, and Xiao_: [**_https://doi.org/10.1002/essoar.10511663.1_**](10.1038/s41558-023-01691-8), _Nature Climate Change, June, 2023_.
 
