@@ -13,6 +13,7 @@
     <div class="col-12 col-md-6 mb-2">{{ .Render "summary-large" }}</div>
     {{ end }}
   </div>
+  <h2>Alumni</h2>
   <div class="row  pt-6 pb-6">
     {{ range where .Pages.ByWeight ".Params.promoted" "!=" true}}
     <div class="col-12 col-md-4 mb-3">{{ .Render "summary" }}</div>
