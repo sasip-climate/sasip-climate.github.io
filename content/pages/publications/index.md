@@ -22,6 +22,8 @@ heroBackground: '/images/ice-bandeau.png'
 
 - _Horvat, Tavri, Mohammednezhad_: [**_Consistent Antarctic sea ice concentration biases from passive microwave satellites resolved via ICESat-2 altimetry_**](https://doi.org/10.21203/rs.3.rs-6272536/v1), _April, 2025, preprint_.
 
+- _Finn, Bocquet, Rampal, Durand, Porro, Farchi, Carassi_: [**_Generative AI models enable efficient and physically consistent sea-ice simulations_**](https://arxiv.org/abs/2508.14984), _August, 2025, preprint_.
+
 ---
 # 2024
 
