@@ -22,6 +22,10 @@ heroBackground: '/images/ice-bandeau.png'
 
 - _Horvat, Tavri, Mohammednezhad_: [**_Consistent Antarctic sea ice concentration biases from passive microwave satellites resolved via ICESat-2 altimetry_**](https://doi.org/10.21203/rs.3.rs-6272536/v1), _April, 2025, preprint_.
 
+- _Mokus, Dansereau, Boutin, Auclair, Tlili_: [**_SWIIFT v0.10: a numerical model of wave-induced sea ice breakup based on an energy criterion_**](https://doi.org/10.5194/egusphere-2025-1831), _June, 2025, preprint_.  
+
+- _Regan, Rheinlaender, Boutin, Semper, Willmes, Olason_: [**_Rapid winter mixed-layer deepening linked to sea ice breakup in the Beaufort Sea_**](https://doi.org/10.22541/essoar.175095697.77260616/v1), _June, 2025, preprint_.
+
 - _Finn, Bocquet, Rampal, Durand, Porro, Farchi, Carassi_: [**_Generative AI models enable efficient and physically consistent sea-ice simulations_**](https://arxiv.org/abs/2508.14984), _August, 2025, preprint_.
 
 ---
