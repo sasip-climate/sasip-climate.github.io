@@ -22,6 +22,8 @@ heroBackground: '/images/ice-bandeau.png'
 
 - _Horvat, Tavri, Mohammednezhad_: [**_Consistent Antarctic sea ice concentration biases from passive microwave satellites resolved via ICESat-2 altimetry_**](https://doi.org/10.21203/rs.3.rs-6272536/v1), _April, 2025, preprint_.
 
+- _Jendersie, Lessig, Richter_: [**_A GPU parallelization of the neXtSIM-DG dynamical core_**](https://doi.org/10.5194/gmd-18-3017-2025), _Chaos, May, 2025_.
+
 - _Mokus, Dansereau, Boutin, Auclair, Tlili_: [**_SWIIFT v0.10: a numerical model of wave-induced sea ice breakup based on an energy criterion_**](https://doi.org/10.5194/egusphere-2025-1831), _June, 2025, preprint_.  
 
 - _Regan, Rheinlaender, Boutin, Semper, Willmes, Olason_: [**_Rapid winter mixed-layer deepening linked to sea ice breakup in the Beaufort Sea_**](https://doi.org/10.22541/essoar.175095697.77260616/v1), _June, 2025, preprint_.
@@ -58,8 +60,6 @@ heroBackground: '/images/ice-bandeau.png'
 - _Brodeau, Rampal, Òlason, Dansereau_: [**_Implementation of a brittle sea-ice rheology in an Eulerian, finite-difference, C-grid modeling framework: Impact on the simulated deformation of sea-ice in the Arctic_**](https://doi.org/10.5194/gmd-17-6051-2024), _Geosci. Model Dev. Discuss., August, 2024_.
 
 - _Blanchard-Wrigglesworth, Brenner, Webster, Horvat, Foss, Bitz_: [**_Model Biases in Simulating Extreme Sea Ice Loss Associated With the Record January 2022 Arctic Cyclone_**](https://doi.org/10.1029/2024JC021127), _JGR Ocean, August, 2024_.
-
-- _Jendersie, Lessig, Richter_: [**_a GPU-Parallelization of the neXtSIM-DG Dynamical Core_**](https://doi.org/10.5194/egusphere-2024-2539), _Chaos, September, 2024, preprint_.
 
 - _Bocquet, Farchi, Finn, durand, Cheng, Chen, Pasmans, Carassi_: [**_Accurate deep learning-based filtering for chaotic dynamics by identifying instabilities without an ensemble_**](https://doi.org/10.1063/5.0230837), _Chaos, September, 2024_.
 
