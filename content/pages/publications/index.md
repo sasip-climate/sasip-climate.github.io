@@ -43,8 +43,6 @@ heroBackground: '/images/ice-bandeau.png'
  
 - _Durand, Finn, Farchi, Bocquet, Boutin, Olason_: [**_Data-driven surrogate modeling of high-resolution sea-ice thickness in the Arctic_**](https://doi.org/10.5194/tc-18-1791-2024), _The Cryosphere, 17, 2965–2991, April, 2024_.
 
-- _Finn, Durand, Farchi, Bocquet, Rampal, Carrassi_: [**_Generative diffusion for regional surrogate models from sea-ice simulations_**](https://doi.org/10.22541/au.171386536.64344222/v1), _Journal of Advances in Modeling Earth Systems, April, 2024, preprint_.
-
 - _Lo Piccolo, Horvat, Fox-Kemper_: [**_Energetics and Transfer of Submesoscale Brine Driven Eddies at a Sea Ice Edge_**](https://doi.org/10.1175/JPO-D-23-0147.1), _Journal of Physical Oceanography , April, 2024_.
 
 - _Pasmans, Chen, Carrassi,K.R.T. Jones_: [**_Tailoring data assimilation to discontinuous Galerkin models_**](https://doi.org/10.1002/qj.4737), 	_Quarterly Journal of the Royal Meteorological Society, May, 2024_.
@@ -64,6 +62,8 @@ heroBackground: '/images/ice-bandeau.png'
 - _Finn, Disson, Farchi, Bocquet, Durand_: [**_Representation learning with unconditional denoising diffusion models for dynamical systems_**](https://doi.org/10.5194/npg-31-409-2024), _Nonlinear Processes in Geophysics, September, 2024_.
 
 - _Smith, Shiney-Ajay, Fleurantin, Pasmans_: [**_Investigating ocean circulation dynamics through data assimilation: A mathematical study using the Stommel box model with rapid oscillatory forcings_**](https://doi.org/10.1063/5.0215236), _Chaos, October, 2024_.
+
+- _Finn, Durand, Farchi, Bocquet, Rampal, Carrassi_: [**_Generative diffusion for regional surrogate models from sea-ice simulations_**](https://doi.org/10.22541/au.171386536.64344222/v1), _Journal of Advances in Modeling Earth Systems, October, 2024_.
 
 - _Driscoll, Carrassi, Brajard, Bertino, Ólason, Bocquet, and Lawless_: [**_Data-driven emulation of melt ponds on Arctic sea ice_**](https://doi.org/10.5194/egusphere-2024-2476), _EGUsphere, October, 2024, preprint_.
 
