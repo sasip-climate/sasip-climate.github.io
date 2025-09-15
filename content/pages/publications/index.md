@@ -22,7 +22,7 @@ heroBackground: '/images/ice-bandeau.png'
 
 - _Horvat, Tavri, Mohammednezhad_: [**_Consistent Antarctic sea ice concentration biases from passive microwave satellites resolved via ICESat-2 altimetry_**](https://doi.org/10.21203/rs.3.rs-6272536/v1), _April, 2025, preprint_.
 
-- _Jendersie, Lessig, Richter_: [**_A GPU parallelization of the neXtSIM-DG dynamical core_**](https://doi.org/10.5194/gmd-18-3017-2025), _Chaos, May, 2025_.
+- _Jendersie, Lessig, Richter_: [**_A GPU parallelization of the neXtSIM-DG dynamical core_**](https://doi.org/10.5194/gmd-18-3017-2025), _Geosci. Model Dev, May, 2025_.
 
 - _Mokus, Dansereau, Boutin, Auclair, Tlili_: [**_SWIIFT v0.10: a numerical model of wave-induced sea ice breakup based on an energy criterion_**](https://doi.org/10.5194/egusphere-2025-1831), _June, 2025, preprint_.  
 
@@ -47,8 +47,6 @@ heroBackground: '/images/ice-bandeau.png'
 
 - _Lo Piccolo, Horvat, Fox-Kemper_: [**_Energetics and Transfer of Submesoscale Brine Driven Eddies at a Sea Ice Edge_**](https://doi.org/10.1175/JPO-D-23-0147.1), _Journal of Physical Oceanography , April, 2024_.
 
-- _Smith, Shiney-Ajay, Fleurantin, Pasmans_: [**_Investigating Ocean Circulation Dynamics Through Data Assimilation: A Mathematical Study Using the Stommel Box Model with Rapid Oscillatory Forcings_**](https://doi.org/10.48550/arXiv.2404.07134), _arXiv:2404.07134, April, 2024, submitted_.
-
 - _Pasmans, Chen, Carrassi,K.R.T. Jones_: [**_Tailoring data assimilation to discontinuous Galerkin models_**](https://doi.org/10.1002/qj.4737), 	_Quarterly Journal of the Royal Meteorological Society, May, 2024_.
 
 - _Chen, Smith, Carrassi, Pasmans, Bertino, Bocquet, Finn, Rampal, and Dansereau_: [**_Multivariate state and parameter estimation with data assimilation applied to sea-ice models using a Maxwell Elasto-Brittle rheology_**](https://doi.org/10.5194/tc-18-2381-2024), _The Cryosphere, May, 2024_.
@@ -64,6 +62,8 @@ heroBackground: '/images/ice-bandeau.png'
 - _Bocquet, Farchi, Finn, durand, Cheng, Chen, Pasmans, Carassi_: [**_Accurate deep learning-based filtering for chaotic dynamics by identifying instabilities without an ensemble_**](https://doi.org/10.1063/5.0230837), _Chaos, September, 2024_.
 
 - _Finn, Disson, Farchi, Bocquet, Durand_: [**_Representation learning with unconditional denoising diffusion models for dynamical systems_**](https://doi.org/10.5194/npg-31-409-2024), _Nonlinear Processes in Geophysics, September, 2024_.
+
+- _Smith, Shiney-Ajay, Fleurantin, Pasmans_: [**_Investigating ocean circulation dynamics through data assimilation: A mathematical study using the Stommel box model with rapid oscillatory forcings_**](https://doi.org/10.1063/5.0215236), _Chaos, October, 2024_.
 
 - _Driscoll, Carrassi, Brajard, Bertino, Ólason, Bocquet, and Lawless_: [**_Data-driven emulation of melt ponds on Arctic sea ice_**](https://doi.org/10.5194/egusphere-2024-2476), _EGUsphere, October, 2024, preprint_.
 
