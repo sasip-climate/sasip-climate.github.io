@@ -29,6 +29,10 @@ heroBackground: '/images/ice-bandeau.png'
 - _Regan, Rheinlaender, Boutin, Semper, Willmes, Olason_: [**_Rapid winter mixed-layer deepening linked to sea ice breakup in the Beaufort Sea_**](https://doi.org/10.22541/essoar.175095697.77260616/v1), _June, 2025, preprint_.
 
 - _Finn, Bocquet, Rampal, Durand, Porro, Farchi, Carassi_: [**_Generative AI models enable efficient and physically consistent sea-ice simulations_**](https://arxiv.org/abs/2508.14984), _August, 2025, preprint_.
+  
+- _Baronne, Carrassi, Savary, Demaeyer, Vannitsem_: [**_Structural origins and real-time predictors of intermittency_**](https://doi.org/10.1063/5.0287572), _October, 2025_.
+
+- _Garcia-Olivia, Carrassi, Counillon_: [**_Exploring the influence of spatio-temporal scale differences in coupled data assimilation_**](https://doi.org/10.5194/npg-32-439-2025), _October, 2025_.
 
 ---
 # 2024
