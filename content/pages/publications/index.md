@@ -22,13 +22,13 @@ heroBackground: '/images/ice-bandeau.png'
 
 - _Mokus, Dansereau, Boutin, Auclair, Tlili_: [**_SWIIFT v0.10: a numerical model of wave-induced sea ice breakup based on an energy criterion_**](https://doi.org/10.5194/egusphere-2025-1831), _June, 2025, preprint_.  
 
-- _Regan, Rheinlaender, Boutin, Semper, Willmes, Olason_: [**_Rapid winter mixed-layer deepening linked to sea ice breakup in the Beaufort Sea_**](https://doi.org/10.22541/essoar.175095697.77260616/v1), _June, 2025, preprint_.
+- _Regan, Rheinlaender, Boutin, Semper, Willmes, Olason_: [**_Rapid winter mixed-layer deepening linked to sea ice breakup in the Beaufort Sea_**](https://doi.org/10.22541/essoar.175095697.77260616/v1), _ESS Open Archive, June, 2025, preprint_.
 
-- _Finn, Bocquet, Rampal, Durand, Porro, Farchi, Carassi_: [**_Generative AI models capture realistic sea-ice evolution from days to decades_**](https://arxiv.org/abs/2508.14984), _August, 2025, preprint_.
+- _Finn, Bocquet, Rampal, Durand, Porro, Farchi, Carassi_: [**_Generative AI models capture realistic sea-ice evolution from days to decades_**](https://arxiv.org/abs/2508.14984), _ArXiv, August, 2025, preprint_.
   
-- _Baronne, Carrassi, Savary, Demaeyer, Vannitsem_: [**_Structural origins and real-time predictors of intermittency_**](https://doi.org/10.1063/5.0287572), _October, 2025_.
+- _Baronne, Carrassi, Savary, Demaeyer, Vannitsem_: [**_Structural origins and real-time predictors of intermittency_**](https://doi.org/10.1063/5.0287572), _Chaos, October, 2025_.
 
-- _Garcia-Olivia, Carrassi, Counillon_: [**_Exploring the influence of spatio-temporal scale differences in coupled data assimilation_**](https://doi.org/10.5194/npg-32-439-2025), _October, 2025_.
+- _Garcia-Olivia, Carrassi, Counillon_: [**_Exploring the influence of spatio-temporal scale differences in coupled data assimilation_**](https://doi.org/10.5194/npg-32-439-2025), _Nonlinear Processes in Geophysics, October, 2025_.
 
 - _Horvat, Buckley, Stewart_: [**_Sea Ice Concentration Estimates from ICESat-2 Linear Ice Fraction. Part 2: Gridded Data Comparison and Bias Estimation_**](https://doi.org/10.5194/tc-19-4819-2025), _The Cryosphere, October, 2025_.
 
