@@ -8,8 +8,6 @@ heroBackground: '/images/ice-bandeau.png'
 
 # 2025 
 
-- _Horvat, Buckley, Stewart_: [**_Sea Ice Concentration Estimates from ICESat-2 Linear Ice Fraction. Part 2: Gridded Data Comparison and Bias Estimation_**](https://doi.org/10.5194/egusphere-2024-3864), _EGUsphere, January, 2025, preprint_. 
-
 - _Zhao, Horvat, Gao_: [**_An optimal path threshold method for rigorously identifying extreme climate events_**](https://doi.org/10.1088/1748-9326/adae24), _Environnemental Research Letters, February, 2025_. 
 
 - _Durand, Finn, Farchi, Bocquet, Brajard, Bertino_: [**_Four-dimensional variational data assimilation with a sea-ice thickness emulator_**](https://doi.org/10.5194/egusphere-2024-4028), _The Cryosphere, February, 2025, preprint_.
@@ -33,6 +31,8 @@ heroBackground: '/images/ice-bandeau.png'
 - _Baronne, Carrassi, Savary, Demaeyer, Vannitsem_: [**_Structural origins and real-time predictors of intermittency_**](https://doi.org/10.1063/5.0287572), _October, 2025_.
 
 - _Garcia-Olivia, Carrassi, Counillon_: [**_Exploring the influence of spatio-temporal scale differences in coupled data assimilation_**](https://doi.org/10.5194/npg-32-439-2025), _October, 2025_.
+
+- _Horvat, Buckley, Stewart_: [**_Sea Ice Concentration Estimates from ICESat-2 Linear Ice Fraction. Part 2: Gridded Data Comparison and Bias Estimation_**](https://doi.org/10.5194/tc-19-4819-2025), _The Cryosphere, October, 2025_. 
 
 ---
 # 2024
