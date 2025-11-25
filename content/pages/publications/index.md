@@ -10,8 +10,6 @@ heroBackground: '/images/ice-bandeau.png'
 
 - _Zhao, Horvat, Gao_: [**_An optimal path threshold method for rigorously identifying extreme climate events_**](https://doi.org/10.1088/1748-9326/adae24), _Environnemental Research Letters, February, 2025_. 
 
-- _Pasmans, Chen, Finn, Bocquet, Carassi_: [**_Ensemble Kalman filter in latent space using a variational autoencoder pair_**](https://doi.org/10.48550/arXiv.2502.12987), _QJRMS, February, 2025, preprint_.
-
 - _Rigotti, Dansereau, Weiss_: [**_Investigating the relation between elastic and relaxation properties of dry, frictional granular media during shear deformation_**](https://doi.org/10.48550/arXiv.2502.17021), _ARXIV, February, 2025, preprint_.
 
 - _Santana, Boutin, Horvat, Ólason, Williams, Rampal_: [**_Modeling Antarctic Sea Ice Variability Using a Brittle Rheology_**](https://doi.org/10.1029/2024MS004584), _Journal of Advances in Modeling Earth Systems, April, 2025_.
@@ -33,6 +31,8 @@ heroBackground: '/images/ice-bandeau.png'
 - _Horvat, Buckley, Stewart_: [**_Sea Ice Concentration Estimates from ICESat-2 Linear Ice Fraction. Part 2: Gridded Data Comparison and Bias Estimation_**](https://doi.org/10.5194/tc-19-4819-2025), _The Cryosphere, October, 2025_.
 
 - _Durand, Finn, Farchi, Bocquet, Brajard, Bertino_: [**_Four-dimensional variational data assimilation with a sea-ice thickness emulator_**](https://doi.org/10.5194/tc-19-5613-2025), _The Cryosphere, November, 2025_.
+
+- _Pasmans, Chen, Finn, Bocquet, Carassi_: [**_Ensemble Kalman filter in latent space using a variational autoencoder pair_**](https://doi.org/10.1002/qj.70070), _QJRMS, November, 2025_.
 
 ---
 # 2024
