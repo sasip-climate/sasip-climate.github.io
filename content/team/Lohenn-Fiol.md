@@ -11,4 +11,4 @@ weight: 63
 
 Centre National de la Recherche Scientifique, France
 
-*sea ice, dynamics, granular model*
+*sea ice dynamics, granular model*
