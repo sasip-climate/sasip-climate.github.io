@@ -8,7 +8,7 @@ thumbnail: '/images/news/2026_02_17_Call_Abstract.jpg'
 heroBackground: '/images/ice-bandeau.png'
 ---
 
-We invite submissions of abstracts to Session 16 of CMWR 2026 ([Conference on Computational Methods in Water Resources])([https://cmwrconference.org/]), to be held June 28 – July 2, 2026, in Bologna, Italy. The biennial CMWR Conference brings together researchers and practitioners working at the forefront of quantitative, data-integrated, and computational approaches in environmental and climate sciences. 
+We invite submissions of abstracts to Session 16 of CMWR 2026, [the Conference on Computational Methods in Water Resources]([https://cmwrconference.org/]), to be held June 28 – July 2, 2026, in Bologna, Italy. The biennial CMWR Conference brings together researchers and practitioners working at the forefront of quantitative, data-integrated, and computational approaches in environmental and climate sciences. 
 
 This session focuses on recent advances in **computational approaches for sea-ice modelling and prediction, bringing together developments in physics-based modelling, data assimilation, and machine learning**. Sea ice plays a critical role in the climate system, and improving its representation and predictability remains a major scientific and computational challenge. [See the description of the session]([https://cmwrconference.org/session-topics/]).
 
