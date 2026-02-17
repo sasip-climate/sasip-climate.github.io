@@ -3,7 +3,7 @@ title: 'Call for Abstracts for CMWR 2026 (Conference on Computational Methods in
 date: 2026-02-10
 authors:
 categories: ['Meetings']
-description: 'Submission deadline: March 9, 2026'. We invite submissions of abstracts for Session 16 (Computational methods for sea-ice modelling and predictions: data assimilation, machine learning and physics) of CMWR 2026, to be held in June 28 – July 2, 2026, in Bologna, Italy. 
+description: Submission deadline: March 9, 2026. We invite submissions of abstracts for Session 16 (Computational methods for sea-ice modelling and predictions: data assimilation, machine learning and physics) of CMWR 2026, to be held in June 28 – July 2, 2026, in Bologna, Italy. 
 thumbnail: '/images/news/2026_02_17_Call_Abstract.jpg'
 heroBackground: '/images/ice-bandeau.png'
 ---
