@@ -40,7 +40,7 @@ heroBackground: '/images/ice-bandeau.png'
 
 - _Pasmans, Chen, Finn, Bocquet, Carassi_: [**_Ensemble Kalman filter in latent space using a variational autoencoder pair_**](https://doi.org/10.1002/qj.70070), _QJRMS, November, 2025_.
 
--_Kuchly, Auvity, Mokus, Bureau, Nicot, Fourgeaud, Dansereau, Eddi, Perrard, Dumont, Moreau_: [**_An integrated multi-instrument methodology for studying marginal ice zone dynamics and wave-ice interactions_**](https://doi.org/10.5194/tc-19-6927-2025), _The Cryosphere, Decemeber, 2025_.
+- _Kuchly, Auvity, Mokus, Bureau, Nicot, Fourgeaud, Dansereau, Eddi, Perrard, Dumont, Moreau_: [**_An integrated multi-instrument methodology for studying marginal ice zone dynamics and wave-ice interactions_**](https://doi.org/10.5194/tc-19-6927-2025), _The Cryosphere, Decemeber, 2025_.
 
 ---
 # 2024
