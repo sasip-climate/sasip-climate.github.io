@@ -8,7 +8,9 @@ heroBackground: '/images/ice-bandeau.png'
 
 # 2026
 
-- _Mokus, Dansereau, Boutin, Auclair, Tlili_: [**_SWIIFT v0.10: a numerical model of wave-induced sea ice breakup with an energy criterion_**](https://doi.org/10.5194/gmd-19-261-2026), _January, 2026_. 
+- _Mokus, Dansereau, Boutin, Auclair, Tlili_: [**_SWIIFT v0.10: a numerical model of wave-induced sea ice breakup with an energy criterion_**](https://doi.org/10.5194/gmd-19-261-2026), _January, 2026_.
+
+- _Fiol, Leroux, Rampal, Brankart_: [**_Arctic sea ice predictability on daily-to-weekly timescales: sensitivity to initial positional errors under different rheology formulations_**](https://doi.org/10.5194/egusphere-2025-6379), _January, 2026, preprint_. 
 
 - _Jendersie, Margenberg, Lessig, Richter_: [**_A robust and stable hybrid neural network/finite element method for 2D flows that generalizes to different geometries_**](https://arxiv.org/abs/2601.16598), _Journal of Computational Physics, January, 2026, preprint_.
 
