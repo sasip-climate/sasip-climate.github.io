@@ -6,6 +6,14 @@ heroSubHeading: "related to the SASIP project"
 heroBackground: '/images/ice-bandeau.png'
 ---
 
+# 2026
+
+- _Mokus, Dansereau, Boutin, Auclair, Tlili_: [**_SWIIFT v0.10: a numerical model of wave-induced sea ice breakup with an energy criterion_**](https://doi.org/10.5194/gmd-19-261-2026), _January, 2026_. 
+
+- _Jendersie, Margenberg, Lessig, Richter_: [**_A robust and stable hybrid neural network/finite element method for 2D flows that generalizes to different geometries_**](https://arxiv.org/abs/2601.16598), _Journal of Computational Physics, January, 2026, preprint_.
+
+- _De Cillis, Carassi, Brajard, Bertino, Broccoli, Iovino, Finn, Bocquet_: [**_Hybrid physics-data-driven modeling for sea ice thermodynamics and transfer learning_**](https://arxiv.org/abs/2601.23190), _QJRMS, January, 2026, preprint_.
+
 # 2025 
 
 - _Zhao, Horvat, Gao_: [**_An optimal path threshold method for rigorously identifying extreme climate events_**](https://doi.org/10.1088/1748-9326/adae24), _Environnemental Research Letters, February, 2025_. 
@@ -17,8 +25,6 @@ heroBackground: '/images/ice-bandeau.png'
 - _Horvat, Tavri, Mohammednezhad_: [**_Consistent Antarctic sea ice concentration biases from passive microwave satellites resolved via ICESat-2 altimetry_**](https://doi.org/10.21203/rs.3.rs-6272536/v1), _April, 2025, preprint_.
 
 - _Jendersie, Lessig, Richter_: [**_A GPU parallelization of the neXtSIM-DG dynamical core_**](https://doi.org/10.5194/gmd-18-3017-2025), _Geosci. Model Dev, May, 2025_.
-
-- _Mokus, Dansereau, Boutin, Auclair, Tlili_: [**_SWIIFT v0.10: a numerical model of wave-induced sea ice breakup based on an energy criterion_**](https://doi.org/10.5194/egusphere-2025-1831), _June, 2025, preprint_.  
 
 - _Regan, Rheinlaender, Boutin, Semper, Willmes, Olason_: [**_Rapid winter mixed-layer deepening linked to sea ice breakup in the Beaufort Sea_**](https://doi.org/10.22541/essoar.175095697.77260616/v1), _ESS Open Archive, June, 2025, preprint_.
 
@@ -33,6 +39,8 @@ heroBackground: '/images/ice-bandeau.png'
 - _Durand, Finn, Farchi, Bocquet, Brajard, Bertino_: [**_Four-dimensional variational data assimilation with a sea-ice thickness emulator_**](https://doi.org/10.5194/tc-19-5613-2025), _The Cryosphere, November, 2025_.
 
 - _Pasmans, Chen, Finn, Bocquet, Carassi_: [**_Ensemble Kalman filter in latent space using a variational autoencoder pair_**](https://doi.org/10.1002/qj.70070), _QJRMS, November, 2025_.
+
+-_Kuchly, Auvity, Mokus, Bureau, Nicot, Fourgeaud, Dansereau, Eddi, Perrard, Dumont, Moreau_: [**_An integrated multi-instrument methodology for studying marginal ice zone dynamics and wave-ice interactions_**](https://doi.org/10.5194/tc-19-6927-2025), _The Cryosphere, Decemeber, 2025_.
 
 ---
 # 2024
