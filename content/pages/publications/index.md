@@ -16,6 +16,7 @@ heroBackground: '/images/ice-bandeau.png'
 
 - _De Cillis, Carassi, Brajard, Bertino, Broccoli, Iovino, Finn, Bocquet_: [**_Hybrid physics-data-driven modeling for sea ice thermodynamics and transfer learning_**](https://arxiv.org/abs/2601.23190), _QJRMS, January, 2026, preprint_.
 
+---
 # 2025 
 
 - _Zhao, Horvat, Gao_: [**_An optimal path threshold method for rigorously identifying extreme climate events_**](https://doi.org/10.1088/1748-9326/adae24), _Environnemental Research Letters, February, 2025_. 
